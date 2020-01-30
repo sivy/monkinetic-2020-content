@@ -1,7 +1,7 @@
----
-type: post
-published: true
 title: 'Chris Krycho: Chrome is not the Standard'
+slug: chris-krycho-chrome-is-not-the-standard
+date: 2017-12-22 12:00:00
+tags: webdevelopment,google,webnerds
 ---
 [Chris Krycho](http://www.chriskrycho.com/) wrote a thoughtful post about the state of browser development and web standards, and as developers, the tendency sometimes to see Chrome as the standard for what features browsers  should be supporting. [Chrome is not the Standard](http://www.chriskrycho.com/2017/chrome-is-not-the-standard.html):
 
