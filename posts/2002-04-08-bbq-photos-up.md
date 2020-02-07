@@ -1,6 +1,5 @@
-Slug: bbq-photos-up
-Date: 2002-04-08
-Title: BBQ Photos up
-layout: post
-
-<a href="http://120degrees.com/">Brad</a> got his photos from the AZ(+NY) blogger bbq (&quot;blog-b-q?&quot;) up <a href="http://www.120degrees.com/gallery.html">online</a>. My vote for best pic: <a href="http://www.120degrees.com/photos/DSCN0604.jpg">Damien wows us</a> with New York mouse pads (&quot;3D!&quot;).
+date: 2002-04-08
+slug: bbq-photos-up
+title: BBQ Photos up
+---
+[Brad](http://120degrees.com/) got his photos from the AZ(+NY) blogger bbq ("blog-b-q?") up [online](http://www.120degrees.com/gallery.html). My vote for best pic: [Damien wows us](http://www.120degrees.com/photos/DSCN0604.jpg) with New York mouse pads ("3D!").

@@ -1,15 +1,13 @@
-Date: 2002-04-20
-Title: OmniOutlineRenderers - first customer!
-layout: post
-tp_urlid: "6a010534988cd3970b0120a55cdf3f970b"
-tp_favoritecount: 0
+date: 2002-04-20
+slug: omnioutlinerenderers
+title: OmniOutlineRenderers - first customer!
 tp_commentcount: 0
-Slug: omnioutlinerenderers---first-customer
+tp_favoritecount: 0
+tp_urlid: 6a010534988cd3970b0120a55cdf3f970b
+---
+first-customer
 
-Clark Venable, a client of <a href="http://www.macrobyte.net">Macrobyte</a>&#39;s, checked out my outline renderers, and <a href="http://community.scriptmeridian.org/16762">reports</a>:
-<blockquote>Steve,
+Clark Venable, a client of [Macrobyte](http://www.macrobyte.net)'s, checked out my outline renderers, and [reports](http://community.scriptmeridian.org/16762):
+>  Steve,Got it working. I'm writing all my grants this way now. Thanks!
 
-Got it working. I&#39;m writing all my grants this way now.  Thanks!
-</blockquote>
-
-Clark, you&#39;re welcome!!
+Clark, you're welcome!!

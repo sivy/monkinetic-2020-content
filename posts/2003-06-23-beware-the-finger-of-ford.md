@@ -1,6 +1,5 @@
-Slug: beware-the-finger-of-ford
-Date: 2003-06-23
-Title: Beware the Finger of Ford
-layout: post
-
-Hehe. Bill points (haha!) us to one fan&#39;s obsessive documentation of Harrison Ford&#39;s liberal use of <a href="http://www.apartment42.com/fingergallery.htm">The Finger</a>. Haha!
+date: 2003-06-23
+slug: beware-the-finger-of-ford
+title: Beware the Finger of Ford
+---
+Hehe. Bill points (haha!) us to one fan's obsessive documentation of Harrison Ford's liberal use of [The Finger](http://www.apartment42.com/fingergallery.htm). Haha!

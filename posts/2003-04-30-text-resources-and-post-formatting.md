@@ -1,6 +1,6 @@
-Slug: text-resources-and-post-formatting
-Date: 2003-04-30
-Title: Text Resources and Post Formatting
+slug: text-resources-and-post-formatting
+date: 2003-04-30
+title: Text Resources and Post Formatting
 layout: post
 
 I recently found a solution to a problem that had been bugging me for some time.

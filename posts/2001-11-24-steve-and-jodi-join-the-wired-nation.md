@@ -1,6 +1,5 @@
-Slug: steve-and-jodi-join-the-wired-nation
-Date: 2001-11-24
-Title: Steve and Jodi join the wired nation
-layout: post
-
+date: 2001-11-24
+slug: steve-and-jodi-join-the-wired-nation
+title: Steve and Jodi join the wired nation
+---
 This post is coming to you courtesy our new sooper-dooper cable modem!

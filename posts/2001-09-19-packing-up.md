@@ -1,8 +1,9 @@
-Slug: packing-up
-Date: 2001-09-19
-Title: Packing up
-layout: post
+date: 2001-09-19
+slug: packing-up
+title: Packing up
+---
+Heard on NPR:  
 
-Heard on NPR:<br />
-INTERVIEWER: &quot;What can we do to satisfy Osama bin Laden?&quot;<p>
-EXPERT: &quot;Pack up and move to another planet.&quot;</p>
+INTERVIEWER: "What can we do to satisfy Osama bin Laden?"
+
+EXPERT: "Pack up and move to another planet."

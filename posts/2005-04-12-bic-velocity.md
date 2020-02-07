@@ -1,6 +1,5 @@
-Slug: bic-velocity
-Date: 2005-04-12
-Title: Bic Velocity
-layout: post
-
-<a href="http://www.staples.com/Catalog/Browse/Sku.asp?PageType=1&amp;Sku=482185">To try out</a>.
+date: 2005-04-12
+slug: bic-velocity
+title: Bic Velocity
+---
+[To try out](http://www.staples.com/Catalog/Browse/Sku.asp?PageType=1&amp;Sku=482185).

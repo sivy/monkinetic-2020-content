@@ -1,6 +1,5 @@
-Slug: who-do-you-trust
-Date: 2002-02-12
-Title: Who do you trust?
-layout: post
-
-Adam Curry (yes, <a href="http://mtv.curry.com/">that Adam Curry</a>, for those of you who grew up in the 80&#39;s) has a very <a href="http://live.curry.com/stories/2002/02/11/trust.html">well-written</a> piece up on his <a href="http://live.curry.com/">site</a> about trust. Read it.
+date: 2002-02-12
+slug: who-do-you-trust
+title: Who do you trust?
+---
+Adam Curry (yes, [that Adam Curry](http://mtv.curry.com/), for those of you who grew up in the 80's) has a very [well-written](http://live.curry.com/stories/2002/02/11/trust.html) piece up on his [site](http://live.curry.com/) about trust. Read it.

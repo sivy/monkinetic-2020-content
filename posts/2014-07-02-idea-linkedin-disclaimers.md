@@ -1,9 +1,6 @@
+date: 2014-07-02 16:32
+title: 'Idea: LinkedIn Disclaimers'
 ---
-Title: 'Idea: LinkedIn Disclaimers'
-Date: 2014-07-02 16:32
-layout: post
----
-
 Fun little idea: a blog disclaimer generator based on your current [LinkedIn](http://linkedin.com) profile.
 
-> "My opinions on [current industry] are my own and not those of [current employer]"
+&gt; "My opinions on [current industry] are my own and not those of [current employer]"

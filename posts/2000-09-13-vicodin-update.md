@@ -1,6 +1,5 @@
-Slug: vicodin-update
-Date: 2000-09-13
-Title: Vicodin Update
-layout: post
-
+date: 2000-09-13
+slug: vicodin-update
+title: Vicodin Update
+---
 mmmm, feeling good.

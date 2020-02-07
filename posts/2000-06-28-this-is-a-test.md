@@ -1,6 +1,5 @@
-Slug: this-is-a-test
-Date: 2000-06-28
-Title: This is a test.
-layout: post
-
-Grreeeeetings!<br />
+date: 2000-06-28
+slug: this-is-a-test
+title: This is a test.
+---
+Grreeeeetings!  

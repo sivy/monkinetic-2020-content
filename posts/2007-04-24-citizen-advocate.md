@@ -1,6 +1,5 @@
-Slug: citizen-advocate
-Date: 2007-04-24
-Title: Citizen Advocate
-layout: post
-
-&gt;can Chris Messina stop moving? i swear, he&#39;s everywhere: F, POSH, co-working, Flock, *Carbon Offsetting*? Chris Messina: &quot;Citizen Advocate&quot; - [via twitter](http://twitter.com/redmonk/statuses/37006252)
+date: 2007-04-24
+slug: citizen-advocate
+title: Citizen Advocate
+---
+&gt;can Chris Messina stop moving? i swear, he's everywhere: F, POSH, co-working, Flock, *Carbon Offsetting*? Chris Messina: "Citizen Advocate" - [via twitter](http://twitter.com/redmonk/statuses/37006252)

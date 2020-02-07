@@ -1,8 +1,5 @@
-Slug: headshack-chartconstructor
-Date: 2003-03-18
-Title: Headshack ChartConstructor
-layout: post
-
+date: 2003-03-18
+slug: headshack-chartconstructor
+title: Headshack ChartConstructor
+---
 Gantt and PERT chart maker for OS X.
-
-<div align="center"><a href="http://www.headshack.com/software/chartConstructor/"><img border="0" src="https://www.headshack.com/media/chartConstructor/ganttScreenSmall.jpg" /></a></div>

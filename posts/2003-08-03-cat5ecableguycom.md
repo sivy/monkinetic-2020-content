@@ -1,6 +1,5 @@
-Slug: cat5ecableguycom
-Date: 2003-08-03
-Title: cat5ecableguy.com
-layout: post
-
-<a href="http://www.cat5ecableguy.com/cat5ecab2.html">This</a> is the place to buy your cat5e ethernet cable. I just bought 75&#39; of cable, two wall plates, and two wall jacks for just over $16. 50&#39; of cat5 at <a href="http://www.frys.com/">Fry&#39;s</a> was $29.99. D&#39;oh!
+date: 2003-08-03
+slug: cat5ecableguycom
+title: cat5ecableguy.com
+---
+[This](http://www.cat5ecableguy.com/cat5ecab2.html) is the place to buy your cat5e ethernet cable. I just bought 75' of cable, two wall plates, and two wall jacks for just over $16. 50' of cat5 at [Fry's](http://www.frys.com/) was $29.99. D'oh!

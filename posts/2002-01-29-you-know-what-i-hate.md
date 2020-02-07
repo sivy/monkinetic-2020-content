@@ -1,7 +1,7 @@
-Slug: you-know-what-i-hate
-Date: 2002-01-29
-Title: You know what I hate?
-layout: post
+date: 2002-01-29
+slug: you-know-what-i-hate
+title: You know what I hate?
+---
+I hate surfing around on the zippy internet, then flipping back to the web application I'm writing, and firing up that puppy, and realizing it's slow as dog-crap, and _knowing it's my app_.
 
-I hate surfing around on the zippy internet, then flipping back to the web application I&#39;m writing, and firing up that puppy, and realizing it&#39;s slow as dog-crap, and <i>knowing it&#39;s my app</i>.<p>
-That <i>sucks</i>.</p>
+That _sucks_.

@@ -1,6 +1,5 @@
-Slug: bush-carries-virginia
-Date: 2000-11-08
-Title: Bush Carries Virginia
-layout: post
-
+date: 2000-11-08
+slug: bush-carries-virginia
+title: Bush Carries Virginia
+---
 But loses some key states: FL, PA, MI.

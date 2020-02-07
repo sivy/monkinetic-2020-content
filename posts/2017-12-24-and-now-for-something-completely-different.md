@@ -1,7 +1,6 @@
----
-type: post
 published: true
 title: And Now for Something Completely Different
+type: post
 ---
 (With apologies to [Monty Python](https://en.wikipedia.org/wiki/And_Now_For_Something_Completely_Different))
 
@@ -16,4 +15,3 @@ My 14yo and I positioning a rough-hewn beam which will be a shelf in my new offi
 And the final touches:
 
 ![all my nerd toys](/static//images/photo_2017-12-24_18-20-05.jpg)
-

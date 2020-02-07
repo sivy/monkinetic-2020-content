@@ -1,6 +1,5 @@
-Slug: explaining-conversant
-Date: 2003-01-10
-Title: Explaining Conversant
-layout: post
-
-Conversant: remember &quot;groupware&quot;, &quot;information management&quot;.
+date: 2003-01-10
+slug: explaining-conversant
+title: Explaining Conversant
+---
+Conversant: remember "groupware", "information management".

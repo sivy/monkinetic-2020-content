@@ -1,6 +1,5 @@
-Slug: welcome-andré
-Date: 2001-02-16
-Title: Welcome Andr&eacute;
-layout: post
-
-<a href="http://spicynoodles.com/">Andr&eacute; Radke</a> of &quot;I-developed-a-lot-of-<a href="http://frontier.userland.com">Frontier</a>&#39;s-guts&quot; fame, has joined the &quot;webobjects-newbies&quot; list. Welcome Andr&eacute;!!
+date: 2001-02-16
+slug: "welcome-andre\u0301"
+title: Welcome Andr&eacute;
+---
+[André Radke](http://spicynoodles.com/) of "I-developed-a-lot-of-[Frontier](http://frontier.userland.com)'s-guts" fame, has joined the "webobjects-newbies" list. Welcome André!!

@@ -1,6 +1,5 @@
-Slug: os-x-ldap-dhcp
-Date: 2005-04-06
-Title: OS X, LDAP, DHCP
-layout: post
-
-Link so I can find it again in the future:  Jason Deraleau, <a href="http://homepage.mac.com/jldera/Articles/2004/11/12/dhcp.html">setting up a couple kinds of DHCP servers</a> to serve LDAP connection information to OS X clients.
+date: 2005-04-06
+slug: os-x-ldap-dhcp
+title: OS X, LDAP, DHCP
+---
+Link so I can find it again in the future:  Jason Deraleau, [setting up a couple kinds of DHCP servers](http://homepage.mac.com/jldera/Articles/2004/11/12/dhcp.html) to serve LDAP connection information to OS X clients.

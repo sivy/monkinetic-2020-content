@@ -1,8 +1,5 @@
-Slug: jesus-christ-revealed
-Date: 2002-12-21
-Title: Jesus Christ revealed
-layout: post
-
-Greg <a href="http://www.redmonk.net/1653">replied</a> to let me know that the R.E.M. song I was looking for last night is in fact a cover of a <a href="http://frontlinearts.com/bigstar/">Big Star</a> song by Alex Chilton, from the &quot;Third / Sister Lovers&quot; <a href="http://frontlinearts.com/bigstar/third.html">album</a>.
-
-Thanks Greg!
+date: 2002-12-21
+slug: jesus-christ-revealed
+title: Jesus Christ revealed
+---
+Greg [replied](http://www.redmonk.net/1653) to let me know that the R.E.M. song I was looking for last night is in fact a cover of a [Big Star](http://frontlinearts.com/bigstar/) song by Alex Chilton, from the "Third / Sister Lovers" [album](http://frontlinearts.com/bigstar/third.html).

@@ -1,7 +1,6 @@
-Slug: cluebringer
-Date: 2002-03-09
-Title: Cluebringer
-layout: post
-
-Jargon file, under <a href="http://www.tuxedo.org/~esr/jargon/html/entry/clue-by-four.html">clue-by-four</a>:
-<blockquote>...your editor once heard a hacker say &quot;I smite you with the great sword Cluebringer!&quot;</blockquote>
+date: 2002-03-09
+slug: cluebringer
+title: Cluebringer
+---
+Jargon file, under [clue-by-four](http://www.tuxedo.org/~esr/jargon/html/entry/clue-by-four.html):
+>  ...your editor once heard a hacker say "I smite you with the great sword Cluebringer!"

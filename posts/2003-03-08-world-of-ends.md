@@ -1,6 +1,5 @@
-Slug: world-of-ends
-Date: 2003-03-08
-Title: World Of Ends
-layout: post
-
-In their typical in-your-face way, <a href="http://doc.weblogs.com">Doc Searls</a> and <a href="http://www.hyperorg.com/blogger/">David Weinberger</a> take some time to <a href="http://www.worldofends.com/">explain the internet</a> to the business crowd.
+date: 2003-03-08
+slug: world-of-ends
+title: World Of Ends
+---
+In their typical in-your-face way, [Doc Searls](http://doc.weblogs.com) and [David Weinberger](http://www.hyperorg.com/blogger/) take some time to [explain the internet](http://www.worldofends.com/) to the business crowd.

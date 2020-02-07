@@ -1,8 +1,5 @@
-Slug: useful-etchosts-for-windows
-Date: 2003-11-13
-Title: "Useful: /etc/hosts for Windows"
-layout: post
-
+date: 2003-11-13
+slug: useful-etchosts-for-windows
+title: 'Useful: /etc/hosts for Windows'
+---
 Google rocks.
-
-<a href="http://networking.earthweb.com/netsysm/article.php/991281">/etc/hosts for Windows</a>.

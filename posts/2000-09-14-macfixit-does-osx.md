@@ -1,6 +1,5 @@
-Slug: macfixit-does-osx
-Date: 2000-09-14
-Title: MacFixit does OSX
-layout: post
-
-MacFixit, resource extraordinaire for Mac in trouble, has started a <a href="">Mac OSX</a> page. Here&#39;s to all you black belts out there: Welcome to the future, and don&#39;t give up!
+date: 2000-09-14
+slug: macfixit-does-osx
+title: MacFixit does OSX
+---
+MacFixit, resource extraordinaire for Mac in trouble, has started a [Mac OSX]() page. Here's to all you black belts out there: Welcome to the future, and don't give up!

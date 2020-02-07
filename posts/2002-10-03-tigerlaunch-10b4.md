@@ -1,6 +1,5 @@
-Slug: tigerlaunch-10b4
-Date: 2002-10-03
-Title: TigerLaunch 1.0b4
-layout: post
-
-[via <a href="http://ranchero.com/">Ranchero.com</a>] Brent just keeps truckin&#39; on these useful Cocoa apps. Get yours today! (<a href="http://ranchero.com/software/tigerlaunch/">link</a>)
+date: 2002-10-03
+slug: tigerlaunch-10b4
+title: TigerLaunch 1.0b4
+---
+[via [Ranchero.com](http://ranchero.com/)] Brent just keeps truckin' on these useful Cocoa apps. Get yours today! ([link](http://ranchero.com/software/tigerlaunch/))

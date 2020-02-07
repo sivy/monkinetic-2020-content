@@ -1,6 +1,5 @@
-Slug: this-is-a-test
-Date: 2002-01-22
-Title: This is a test...
-layout: post
-
+date: 2002-01-22
+slug: this-is-a-test
+title: This is a test...
+---
 Of Radio Conversant. Please stand by.

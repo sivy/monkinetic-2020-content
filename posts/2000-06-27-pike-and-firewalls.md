@@ -1,5 +1,3 @@
+title: '&quot;Pike&quot; and Firewalls'
 ---
-title: "&quot;Pike&quot; and Firewalls"
----
-
-&quot;Pike&quot; Still doesn&#39;t work from behind firewalls. ;-(
+"Pike" Still doesn't work from behind firewalls. ;-(

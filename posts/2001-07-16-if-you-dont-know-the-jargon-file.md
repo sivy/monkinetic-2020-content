@@ -1,6 +1,5 @@
-Slug: if-you-dont-know-the-jargon-file
-Date: 2001-07-16
-Title: If you don't know the Jargon File...
-layout: post
-
-Then you must <i>know</i> the <a href="http://www.earthspace.net/jargon/">Jargon File</a>.
+date: 2001-07-16
+slug: if-you-dont-know-the-jargon-file
+title: If you don't know the Jargon File...
+---
+Then you must _know_ the [Jargon File](http://www.earthspace.net/jargon/).

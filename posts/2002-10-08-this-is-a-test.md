@@ -1,6 +1,5 @@
-Slug: this-is-a-test
-Date: 2002-10-08
-Title: This is a test
-layout: post
-
+date: 2002-10-08
+slug: this-is-a-test
+title: This is a test
+---
 of some tweaked features in Sid.

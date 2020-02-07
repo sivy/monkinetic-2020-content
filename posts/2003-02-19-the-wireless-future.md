@@ -1,6 +1,5 @@
-Slug: the-wireless-future
-Date: 2003-02-19
-Title: The Wireless Future
-layout: post
-
-<a href="http://www.aaronsw.com/weblog/">Aaron</a> on the <a href="http://www.aaronsw.com/weblog/000842">Wireless Future</a>. Sounds good to me.
+date: 2003-02-19
+slug: the-wireless-future
+title: The Wireless Future
+---
+[Aaron](http://www.aaronsw.com/weblog/) on the [Wireless Future](http://www.aaronsw.com/weblog/000842). Sounds good to me.

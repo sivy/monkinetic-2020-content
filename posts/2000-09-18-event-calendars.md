@@ -1,6 +1,5 @@
-Slug: event-calendars
-Date: 2000-09-18
-Title: Event Calendars!
-layout: post
-
-Conversant now has <a href="http://www.free-conversant.com/free-conversant/calendarDemo/calendar">event calendars</a>! Way to go Macrobyte!
+date: 2000-09-18
+slug: event-calendars
+title: Event Calendars!
+---
+Conversant now has [event calendars](http://www.free-conversant.com/free-conversant/calendarDemo/calendar)! Way to go Macrobyte!

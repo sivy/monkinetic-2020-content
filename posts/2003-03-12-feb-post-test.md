@@ -1,6 +1,5 @@
-Slug: feb-post-test
-Date: 2003-03-12
-Title: feb post test
-layout: post
-
+date: 2003-03-12
+slug: feb-post-test
+title: feb post test
+---
 this is a post.

@@ -1,6 +1,5 @@
-Slug: elephants-yeah
-Date: 2005-04-01
-Title: Elephants, Yeah!!
-layout: post
-
-Man, I had no idea <a href="http://en.wikipedia.org/wiki/Pavarotti">Pavarotti</a> <a href="http://www.rathergood.com/elephants/">loved elephants</a> so much. (Yeah, thanks <a href="http://borkware.com/miniblog">Mark</a>. <a href="http://en.wikipedia.org/wiki/Swedish_Chef">Bork</a>!)
+date: 2005-04-01
+slug: elephants-yeah
+title: Elephants, Yeah!!
+---
+Man, I had no idea [Pavarotti](http://en.wikipedia.org/wiki/Pavarotti) [loved elephants](http://www.rathergood.com/elephants/) so much. (Yeah, thanks [Mark](http://borkware.com/miniblog). [Bork](http://en.wikipedia.org/wiki/Swedish_Chef)!)

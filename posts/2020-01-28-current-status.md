@@ -1,7 +1,7 @@
-title: Current Status
-slug: current-status
 date: 2020-01-28 02:32:44
-tags: 
+slug: current-status
+tags: null
+title: Current Status
 ---
 One of those days
 

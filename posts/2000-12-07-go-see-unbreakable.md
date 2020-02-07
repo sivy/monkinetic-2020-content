@@ -1,6 +1,5 @@
-Slug: go-see-unbreakable
-Date: 2000-12-07
-Title: Go See Unbreakable
-layout: post
-
+date: 2000-12-07
+slug: go-see-unbreakable
+title: Go See Unbreakable
+---
 Now.

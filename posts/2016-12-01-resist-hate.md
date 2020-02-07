@@ -1,7 +1,7 @@
-title: Resist Hate, Embrace Hope
-slug: resist-hate
 date: 2016-12-01 12:00:00
-tags: 
+slug: resist-hate
+tags: null
+title: Resist Hate, Embrace Hope
 ---
 ![resist hate, embrace hope [large]](http://i.imgur.com/iq4WUGK.png)
 
@@ -13,7 +13,7 @@ Since the election I've been trying to figure out what I can do long-term to par
 
 In addition, as a small gesture in encouraging you to get involved in helping these and other organizations, I'm adding links to this site, right on the home page, that will let you help too.
 
-<img title="resist hate, embrace hope [banner]" src="https://i.imgur.com/OQN9TyC.png" width="100%" />
+<img src="https://i.imgur.com/OQN9TyC.png" title="resist hate, embrace hope [banner]" width="100%"/>
 
 Don't give up.
 

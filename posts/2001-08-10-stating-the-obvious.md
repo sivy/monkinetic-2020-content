@@ -1,6 +1,5 @@
-Slug: stating-the-obvious
-Date: 2001-08-10
-Title: stating the obvious
-layout: post
-
-I&#39;ve bookmarked <a href="http://www.theobvious.com/">stating the obvious</a>. I like it. It&#39;s simple, it&#39;s clever, it has really good linkage.
+date: 2001-08-10
+slug: stating-the-obvious
+title: stating the obvious
+---
+I've bookmarked [stating the obvious](http://www.theobvious.com/). I like it. It's simple, it's clever, it has really good linkage.

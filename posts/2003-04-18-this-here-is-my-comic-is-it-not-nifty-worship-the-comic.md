@@ -1,8 +1,5 @@
-Slug: this-here-is-my-comic-is-it-not-nifty-worship-the-comic
-Date: 2003-04-18
-Title: This here is my comic. Is it not nifty? Worship the Comic.
-layout: post
-
-Oh, crap. <a href="http://truerwords.net">He</a> finally got me to <a href="http://www.sluggy.com/">check this out</a>. Before, I only had to whine when <a href="http://www.highaims.com">this wasn&#39;t updated</a>. Now I can jones for Sluggy Freelance, too.
-
-&lt;homer&gt;Stupid Seth&lt;/homer&gt;.
+date: 2003-04-18
+slug: this-here-is-my-comic-is-it-not-nifty-worship-the-comic
+title: This here is my comic. Is it not nifty? Worship the Comic.
+---
+Oh, crap. [He](http://truerwords.net) finally got me to [check this out](http://www.sluggy.com/). Before, I only had to whine when [this wasn't updated](http://www.highaims.com). Now I can jones for Sluggy Freelance, too.

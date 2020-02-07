@@ -1,6 +1,5 @@
-Slug: jade-rubicks-openacs-notebook
-Date: 2003-06-14
-Title: Jade Rubick's OpenACS &quot;notebook&quot;
-layout: post
-
-<a href="http://rubick.com">Jade Rubick</a> hosts a page of links to OpenACS tips. Excellent.
+date: 2003-06-14
+slug: jade-rubicks-openacs-notebook
+title: Jade Rubick's OpenACS &quot;notebook&quot;
+---
+[Jade Rubick](http://rubick.com) hosts a page of links to OpenACS tips. Excellent.

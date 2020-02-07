@@ -1,7 +1,7 @@
-title: First Live Webmention Test
-slug: first-live-webmention-test
 date: 2020-01-27 08:55:01
+slug: first-live-webmention-test
 tags: webmention,testing
+title: First Live Webmention Test
 ---
 This could be an embarrassing failure, preserved for posterity for all time!
 

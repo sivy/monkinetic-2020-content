@@ -1,9 +1,5 @@
-Slug: deathwish
-Date: 2003-02-06
-Title: Deathwish
-layout: post
-
+date: 2003-02-06
+slug: deathwish
+title: Deathwish
+---
 Note to self: Jumping rope to the punk station is a bad idea.
-
-
-<i>I&#39;m off to collapse now</i>.

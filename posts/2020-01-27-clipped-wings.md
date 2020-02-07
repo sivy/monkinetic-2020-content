@@ -1,7 +1,7 @@
-title: Take... these broken wings... well, clipped
-slug: clipped-wings
 date: 2020-01-27 01:36:41
+slug: clipped-wings
 tags: farmlife
+title: Take... these broken wings... well, clipped
 ---
 While we are definitely not "live off the land" #farmlife types, my wife and I live on an acre of land in a rural neighborhood tucked in a large swatch of suburbia in metro Phoenix.
 
@@ -9,6 +9,6 @@ Due to circumstances we still don't entirely understand, we find ourselves now i
 
 The article I ended up using was this one on Instructables, simply titled [Clipping Chicken Wings](https://www.instructables.com/id/Clipping-Chicken-Wings/).
 
-> The hardest part about clipping chicken wings is catching the chicken. Some chickens are docile and like being touched, others fear humans and run away like their lives depended on it (which I guess they do sometimes).
+&gt; The hardest part about clipping chicken wings is catching the chicken. Some chickens are docile and like being touched, others fear humans and run away like their lives depended on it (which I guess they do sometimes).
 
 ![http://monkinetic.blog/uploads/clip_chicken_wings.jpg](http://monkinetic.blog/uploads/clip_chicken_wings.jpg)

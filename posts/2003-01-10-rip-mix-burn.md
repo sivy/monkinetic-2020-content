@@ -1,14 +1,12 @@
-Slug: rip-mix-burn
-Date: 2003-01-10
-Title: Rip. Mix. Burn.
-layout: post
-
+date: 2003-01-10
+slug: rip-mix-burn
+title: Rip. Mix. Burn.
+---
 Currently ripping:
-<ul>
-<li>Sonic Flood</li>
-<li>Filter - Short Bus</li>
-<li>BIll Miller - The Red Road</li>
-<li>Foo Fighters - The Colour and the Shape</li>
-<li>Natalie Imbruglia - Left Of The Middle</li>
-<li>The Cure - Wild Mood Swings</li>
-</ul>
+
+*   Sonic Flood
+*   Filter - Short Bus
+*   BIll Miller - The Red Road
+*   Foo Fighters - The Colour and the Shape
+*   Natalie Imbruglia - Left Of The Middle
+*   The Cure - Wild Mood Swings

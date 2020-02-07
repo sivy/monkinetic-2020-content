@@ -1,6 +1,5 @@
-Slug: meeeemories
-Date: 2006-01-11
-Title: Meeeemories
-layout: post
-
-Hanging out on <a href="irc://irc.freenode.net/swhack">#swhack</a>, and remembered <a href="http://redmonk.net/archives/2003/03/07/my-first-published-site/">this old post</a>, about an even older site of mine. Found the site in question and got it back online.
+date: 2006-01-11
+slug: meeeemories
+title: Meeeemories
+---
+Hanging out on [\#swhack](irc://irc.freenode.net/swhack), and remembered [this old post](http://redmonk.net/archives/2003/03/07/my-first-published-site/), about an even older site of mine. Found the site in question and got it back online.

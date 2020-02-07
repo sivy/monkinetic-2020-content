@@ -1,6 +1,6 @@
-Slug: êtes-vous-chic
-Date: 2007-04-27
-Title: &Ecirc;tes-Vous Chic?
+slug: êtes-vous-chic
+date: 2007-04-27
+title: &Ecirc;tes-Vous Chic?
 layout: post
 
 Christophe Ducamp [posted about](http://xtof.viabloga.com/news/chic-code-html-intrinsequement-classe) a recommendation for a French variation on <abbr title="Plain Old Semantic HTML">POSH</abbr>: <abbr lang="fr" title="Code HTML Intrins&egrave;quement Classe">CHIC</abbr>, or &#39;Code HTML Intrins&egrave;quement Classe&#39;, which I think roughly translates to &quot;Instrinsically Classy HTML Code&quot;. (Idea from [St&eacute;phane Gigandet](http://stephane.viabloga.com/)) Sounds good to me!

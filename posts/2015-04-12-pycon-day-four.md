@@ -1,8 +1,6 @@
+feature-img: images/pycon-header.PNG
+title: 'PyCon Day 4: Lightning in a Bottle'
 ---
-title: "PyCon Day 4: Lightning in a Bottle"
-feature-img: "images/pycon-header.PNG"
----
-
 Lightning talks, keynote by a PSF head, and a keynote by Jacob Kaplan-Moss. Jacob's keynote was excellent, focusing on the myth that programmers are either great or awful, and how that myth harms the industry by excluding anyone who doesn't fall into the stereotypical "programmer" temperment, skill-base, or even gender/race profile (we are not all Zuckerbergs).
 
 I didn't really try and take notes, deciding instead to just listen and absorb. One point really stood out though: We will know we have succeeded when marginalized groups (women, persons of color, etc) are represented in our community not because they are exceptional developers, but because they are, *just like all of us*, appropriately adequate to the roles they fill.
@@ -27,7 +25,9 @@ Agenda:
 
 Sentry (*can* you deploy it internally? Hynek says you can but I am not sure...). You get useful notifications with context, stack trace, and a "view on sentry" button, take you to see graph, number of occurences, etc. Get lots of metadata.
 
-*Facepalm: it's right here <https://github.com/getsentry/sentry>*
+*Facepalm: it's right here 
+
+<https: getsentry="" github.com="" sentry="">*
 
 Pushing data in: raven-python.
 
@@ -98,7 +98,7 @@ Data - the goal:
 
 Structlog is not a logging system, instead it wraps your logger, and adds context and other stuff.
 
-<https://structlog.readthedocs.org/en/stable/>
+<https: en="" stable="" structlog.readthedocs.org=""></https:>
 
 Log to standard out, and let other features (log rotation, etc) be handled by the subsystems
 
@@ -132,10 +132,10 @@ Leverage monitoring:
 1. measure code paths
 2. expose guages (how many of x right now)
 
-<https://hynek.me/talks/beyond-grep/>
+<https: beyond-grep="" hynek.me="" talks=""></https:>
 
 ## Serialization formats are not Toys
 
 *yaml.load is terrifying*. 
 
-More notes later 'cause I'm playing with [structlog](https://structlog.readthedocs.org/en/stable/).
+More notes later 'cause I'm playing with [structlog](https://structlog.readthedocs.org/en/stable/).</https:>

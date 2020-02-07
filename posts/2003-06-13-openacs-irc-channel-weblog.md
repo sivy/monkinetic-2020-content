@@ -1,10 +1,5 @@
-Slug: openacs-irc-channel-weblog
-Date: 2003-06-13
-Title: OpenACS IRC Channel weblog
-layout: post
-
+date: 2003-06-13
+slug: openacs-irc-channel-weblog
+title: OpenACS IRC Channel weblog
+---
 Consider this a bookmark:
-
-http://www.thedesignexperience.org/openacs/ircblog/
-
-Weblog for the #openacs irc channel.

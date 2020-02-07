@@ -1,6 +1,5 @@
-Slug: pdf-browser-plugin-for-os-x
-Date: 2004-02-25
-Title: PDF Browser Plugin for OS X
-layout: post
-
-Schubert IT has the coolest plugin - an <a href="http://www.schubert-it.com/pluginpdf/">inline PDF viewer for OS X browsers</a>. I&#39;ve tested it with <a href="http://www.apple.com/safari">Safari</a> and <a href="http://www.omnigroup.com/applications/omniweb/5/">OmniWeb 5</a>. Super nice.
+date: 2004-02-25
+slug: pdf-browser-plugin-for-os-x
+title: PDF Browser Plugin for OS X
+---
+Schubert IT has the coolest plugin - an [inline PDF viewer for OS X browsers](http://www.schubert-it.com/pluginpdf/). I've tested it with [Safari](http://www.apple.com/safari) and [OmniWeb 5](http://www.omnigroup.com/applications/omniweb/5/). Super nice.

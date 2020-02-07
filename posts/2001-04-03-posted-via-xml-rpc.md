@@ -1,6 +1,5 @@
-Slug: posted-via-xml-rpc
-Date: 2001-04-03
-Title: posted via xml-rpc
-layout: post
-
+date: 2001-04-03
+slug: posted-via-xml-rpc
+title: posted via xml-rpc
+---
 this is a body

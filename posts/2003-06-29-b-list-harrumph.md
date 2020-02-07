@@ -1,10 +1,5 @@
-Slug: b-list-harrumph
-Date: 2003-06-29
-Title: B-List? Harrumph.
-layout: post
-
-So, Bill says I&#39;m &quot;B-list at best&quot; in the blogging pantheon. Well, I&#39;d be very happy to be B-List material, thank-you-very-much.
-
-I have but one thing to say:
-
-bah
+date: 2003-06-29
+slug: b-list-harrumph
+title: B-List? Harrumph.
+---
+So, Bill says I'm "B-list at best" in the blogging pantheon. Well, I'd be very happy to be B-List material, thank-you-very-much.

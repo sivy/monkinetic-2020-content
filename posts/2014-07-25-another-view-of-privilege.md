@@ -1,9 +1,6 @@
+date: 2014-07-24 23:30
+title: Another View of Privilege
 ---
-Title: 'Another View of Privilege'
-Date: 2014-07-24 23:30
-layout: post
----
-
 (See the [disclaimer](http://www.monkinetic.com/2014/07/22/a-genderprivilege-topic-disclaimer))
 
 [Leslie Hawthorn](https://twitter.com/lhawthorn)'s recent [keynote at OSCON](https://www.youtube.com/watch?v=kWRCQYRZJzo) on privilege is unassuming and powerful.
@@ -12,4 +9,4 @@ Please watch it and pay attention to this tidbit: privilege can be viewed as ope
 
 Watch and think:
 
-<iframe width="560" height="315" src="//www.youtube.com/embed/kWRCQYRZJzo" frameborder="0" allowfullscreen></iframe>
+<iframe allowfullscreen="" frameborder="0" height="315" src="//www.youtube.com/embed/kWRCQYRZJzo" width="560"></iframe>

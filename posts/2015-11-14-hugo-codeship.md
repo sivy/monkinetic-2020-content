@@ -1,10 +1,10 @@
----
 title: Using Hugo and Continuous Integration to easily build a Static Website
 ---
-
 [Rachael Worthington](https://twitter.com/nothe) is working on getting [her blog](http://nothe.purplellamas.net/) set up as a static site built by [Hugo](http://gohugo.io), a new entry to the static-site generator field written in Go. She's having a few issues so I thought I'd write about a recent site I set up with Hugo and how that site is getting built/deployed.
 
-I recently set up a static website for my father at <http://ivyarchpc.com>. His site doesn't change very often, and ought to load fairly quickly, so I figured rather than mess around with Wordpress or Drupal, I'd try Hugo. I'm pretty compfortable with Git so the site's source code is hosted on Bitbucket (free private repos, yay). And while I can manage git from the command line without *always* losing my cool, I tend to use [Github Desktop](https://desktop.github.com/) which acts much like any source code management app and keeps me from having to remember how to do partial-file commits.
+I recently set up a static website for my father at 
+
+<http: ivyarchpc.com="">. His site doesn't change very often, and ought to load fairly quickly, so I figured rather than mess around with Wordpress or Drupal, I'd try Hugo. I'm pretty compfortable with Git so the site's source code is hosted on Bitbucket (free private repos, yay). And while I can manage git from the command line without *always* losing my cool, I tend to use [Github Desktop](https://desktop.github.com/) which acts much like any source code management app and keeps me from having to remember how to do partial-file commits.
 
 I looked into several continuous integration services: [TravisCI](http://travisci.org), [CircleCI](http://circleci.com), and [Codeship](http://codeship.com), because I wanted to get the site built and deployed whenever I pushed code into Bitbucket.
 
@@ -23,7 +23,6 @@ My main build pipeline uses a "Custom Script" build with the following script:
     # deploy via ftp
     lftp -c "open -u $FTP_USERNAME,$FTP_PASSWORD $SERVER; set ssl:verify-certificate no; mirror -R ${HOME}/clone/_site ."
 
-
 So, yeah.... FTP. The site is hosted on a cheap GoDaddy account that I don't run, so there you go.
 
-Hope this helps out, Rachael, and good luck on your blog!
+Hope this helps out, Rachael, and good luck on your blog!</ivyarchpc.com></http:>

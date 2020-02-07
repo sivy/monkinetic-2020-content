@@ -1,6 +1,5 @@
-Slug: another-test-1
-Date: 2002-04-24
-Title: another test
-layout: post
-
+date: 2002-04-24
+slug: another-test-1
+title: another test
+---
 testing Sid

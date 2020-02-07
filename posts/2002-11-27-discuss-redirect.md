@@ -1,6 +1,4 @@
-Slug: discuss-redirect
-Date: 2002-11-27
-Title: Discuss Redirect
-layout: post
-
-
+date: 2002-11-27
+slug: discuss-redirect
+title: Discuss Redirect
+---

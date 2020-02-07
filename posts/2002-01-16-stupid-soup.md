@@ -1,6 +1,5 @@
-Slug: stupid-soup
-Date: 2002-01-16
-Title: Stupid Soup
-layout: post
-
-&quot;<a href="http://www.dilbert.com/comics/dilbert/archive/images/dilbert20365615020115.gif">I blame the soup</a>&quot;.
+date: 2002-01-16
+slug: stupid-soup
+title: Stupid Soup
+---
+"[I blame the soup](http://www.dilbert.com/comics/dilbert/archive/images/dilbert20365615020115.gif)".

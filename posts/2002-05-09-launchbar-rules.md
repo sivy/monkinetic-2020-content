@@ -1,6 +1,5 @@
-Slug: launchbar-rules
-Date: 2002-05-09
-Title: Launchbar Rules
-layout: post
-
-If you use Mac OS X, you simply <i>must</i> get <a href="http://www.obdev.at/products/launchbar/">Launchbar</a>, from <a href="http://www.obdev.at/">Objective Devlopment</a>. I&#39;ll not rant more now, just get over to Objective Development and get it. $19.95, and the best shareware you&#39;ll buy. Do it simple, do it right.
+date: 2002-05-09
+slug: launchbar-rules
+title: Launchbar Rules
+---
+If you use Mac OS X, you simply _must_ get [Launchbar](http://www.obdev.at/products/launchbar/), from [Objective Devlopment](http://www.obdev.at/). I'll not rant more now, just get over to Objective Development and get it. $19.95, and the best shareware you'll buy. Do it simple, do it right.

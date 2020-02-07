@@ -1,12 +1,8 @@
+date: 2014-07-03 14:28
+excerpt: Ever want to just turn off that logger for a while in Python? Maybe while
+  running tests or debugging?  Even the CRITICAL messages?
+title: Easy way to temporarily kill logging in Python
 ---
-Title: 'Easy way to temporarily kill logging in Python'
-Date: 2014-07-03 14:28
-layout: post
-excerpt: >
-  Ever want to just turn off that logger for a while in Python? Maybe while running tests or debugging? 
-  Even the CRITICAL messages?
----
-
 Ever want to just turn off that logger for a while in Python? Maybe while running tests or debugging? Even the CRITICAL messages?
 
 Notice that the logging level contants (`logging.DEBUG` etc) actually represent [numeric values](https://docs.python.org/2/howto/logging.html#logging-levels):

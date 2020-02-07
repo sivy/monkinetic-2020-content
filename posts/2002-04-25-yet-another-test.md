@@ -1,6 +1,5 @@
-Slug: yet-another-test
-Date: 2002-04-25
-Title: Yet another test
-layout: post
-
+date: 2002-04-25
+slug: yet-another-test
+title: Yet another test
+---
 sorry folks.

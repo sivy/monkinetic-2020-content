@@ -1,14 +1,11 @@
+date: 2014-08-01 18:06
+excerpt: Last week I wrote about an issue I was having with Docker and running mysql
+  (among other things).
+title: Docker, Openstack, testing followup
 ---
-Title: 'Docker, Openstack, testing followup'
-Date: 2014-08-01 18:06
-layout: post
-excerpt: >
-  Last week I wrote about an issue I was having with Docker and running mysql (among other things).
----
-
 Last week I wrote about an issue I was having with Docker and running mysql (among other things):
 
->The issue I'm on right now is that mysql-server won't start. I tried starting (and restarting) it manually in my Dockerfile with `RUN service mysql start` after mysql is installed but always get a policy-rc.d error.
+&gt;The issue I'm on right now is that mysql-server won't start. I tried starting (and restarting) it manually in my Dockerfile with `RUN service mysql start` after mysql is installed but always get a policy-rc.d error.
 
 What I finally learned (after some research and some helpful folks in the #docker IRC) is that Docker is really designed to run a single process in a limited jail-like environment. It's not a virtual machine, which is why containers are smaller and way faster to start.
 

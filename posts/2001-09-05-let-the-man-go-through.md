@@ -1,12 +1,11 @@
-Slug: let-the-man-go-through
-Date: 2001-09-05
-Title: Let the Man Go Through
-layout: post
+date: 2001-09-05
+slug: let-the-man-go-through
+title: Let the Man Go Through
+---
+_Some kind of verb.  
+Some kind of moving thing.  
+Something unseen.  
+Some hand is motioning  
+to rise, to rise, to rise.
 
-<i>Some kind of verb.<br />
-Some kind of moving thing.<br />
-Something unseen.<br />
-Some hand is motioning<br />
-to rise, to rise, to rise.<p>
-
-Soul Coughing, Super Bon Bon</p></i>
+_

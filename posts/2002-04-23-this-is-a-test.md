@@ -1,6 +1,5 @@
-Slug: this-is-a-test
-Date: 2002-04-23
-Title: this is a test
-layout: post
-
+date: 2002-04-23
+slug: this-is-a-test
+title: this is a test
+---
 please ignore

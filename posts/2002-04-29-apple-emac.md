@@ -1,10 +1,7 @@
-Slug: apple-emac
-Date: 2002-04-29
-Title: Apple eMac?!
-layout: post
-
-Apple announces the new <a href="http://www.apple.com/education/emac/">eMac</a>: the education iMac.
+date: 2002-04-29
+slug: apple-emac
+title: Apple eMac?!
+---
+Apple announces the new [eMac](http://www.apple.com/education/emac/): the education iMac.
 <li>PowerPC G4</li>
-<li>17&quot; flat CRT</li>
-
-<i>Of course, this is the <a href="http://www.apple.com/iMac/">iMac</a> everyone wanted a few years ago.</i>
+<li>17" flat CRT</li>

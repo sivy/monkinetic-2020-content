@@ -1,6 +1,5 @@
-Slug: whowantstocreateastandardcom
-Date: 2000-12-08
-Title: WhoWantsTo.CreateAStandard.Com?
-layout: post
-
-<a href="http://wmf.editthispage.com/">Wes Felter</a>&#39;s new site: <a href="http://WhoWantsTo.CreateAStandard.Com/">WhoWantsTo.CreateAStandard.Com</a>!
+date: 2000-12-08
+slug: whowantstocreateastandardcom
+title: WhoWantsTo.CreateAStandard.Com?
+---
+[Wes Felter](http://wmf.editthispage.com/)'s new site: [WhoWantsTo.CreateAStandard.Com](http://WhoWantsTo.CreateAStandard.Com/)!

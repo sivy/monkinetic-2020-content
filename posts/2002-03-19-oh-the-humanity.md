@@ -1,6 +1,5 @@
-Slug: oh-the-humanity
-Date: 2002-03-19
-Title: Oh, the Humanity!
-layout: post
-
-I came into work today, checked my app&#39;s status, and found <i>3600+</i> deaths in the app monitor. I checked the logs files and found over <i>8000</i> (empty) log files. D&#39;oh! I&#39;ve got my work cut out for me today. :-(
+date: 2002-03-19
+slug: oh-the-humanity
+title: Oh, the Humanity!
+---
+I came into work today, checked my app's status, and found _3600+_ deaths in the app monitor. I checked the logs files and found over _8000_ (empty) log files. D'oh! I've got my work cut out for me today. :-(

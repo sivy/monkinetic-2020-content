@@ -1,8 +1,5 @@
-Slug: watch-for-mwsf-photo-album
-Date: 2001-01-05
-Title: Watch for MWSF Photo Album
-layout: post
-
-The MacWorld Expo folks are going to have a <a href="http://www.macworldexpo.com/photoalbum.html">photo album</a> for the show, starting Jan. 10. Maybe you&#39;ll see me?
-
-I&#39;ll have pics here, too. Jodi and I are taking a digital camera, a PowerBook g3, and an iBook. ;-)
+date: 2001-01-05
+slug: watch-for-mwsf-photo-album
+title: Watch for MWSF Photo Album
+---
+The MacWorld Expo folks are going to have a [photo album](http://www.macworldexpo.com/photoalbum.html) for the show, starting Jan. 10. Maybe you'll see me?

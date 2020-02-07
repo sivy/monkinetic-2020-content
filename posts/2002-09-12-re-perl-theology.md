@@ -1,6 +1,6 @@
-Slug: re-perl-theology
-Date: 2002-09-12
-Title: "Re: Perl Theology"
+slug: re-perl-theology
+date: 2002-09-12
+title: "Re: Perl Theology"
 layout: post
 
 On Tuesday, September 10, 2002, at 10:07  AM, Donald W. Larson wrote:

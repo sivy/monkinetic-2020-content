@@ -1,6 +1,5 @@
-Slug: speedy-gonzales
-Date: 2002-09-02
-Title: Speedy Gonzales
-layout: post
-
-Seth had his <a href="http://www.truerwords.net/2353">fastest-ever</a> ride a few days ago. I love reading about Seth&#39;s riding, because it inspires me to get my butt out from behind the computer and onto my own bike! Way to go Seth!
+date: 2002-09-02
+slug: speedy-gonzales
+title: Speedy Gonzales
+---
+Seth had his [fastest-ever](http://www.truerwords.net/2353) ride a few days ago. I love reading about Seth's riding, because it inspires me to get my butt out from behind the computer and onto my own bike! Way to go Seth!

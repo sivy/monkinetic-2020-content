@@ -1,6 +1,5 @@
-Slug: omniweb-41-to-include-mozilla-javascript-engine
-Date: 2001-08-29
-Title: OmniWeb 4.1 to include Mozilla JavaScript Engine
-layout: post
-
-<a href="http://www.omnigroup.com/mailman/archive/omninews/2001/000077.html">According to Omni guru Ken Case</a> and Omni&#39;s road map, Mac OS X browser Omniweb 4.1 will use the <a href="http://www.mozilla.org/js/spidermonkey/">SpiderMonkey</a> C-based JavaScript engine - the same one used in the Mozilla browser. Cooool!
+date: 2001-08-29
+slug: omniweb-41-to-include-mozilla-javascript-engine
+title: OmniWeb 4.1 to include Mozilla JavaScript Engine
+---
+[According to Omni guru Ken Case](http://www.omnigroup.com/mailman/archive/omninews/2001/000077.html) and Omni's road map, Mac OS X browser Omniweb 4.1 will use the [SpiderMonkey](http://www.mozilla.org/js/spidermonkey/) C-based JavaScript engine - the same one used in the Mozilla browser. Cooool!

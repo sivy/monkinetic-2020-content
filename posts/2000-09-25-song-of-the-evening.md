@@ -1,6 +1,5 @@
-Slug: song-of-the-evening
-Date: 2000-09-25
-Title: Song of the evening
-layout: post
-
-Wheatus - <a href="http://members.tripod.com/~nosmiles/teenagedirtbag.htm">Teenage Dirtbag</a>
+date: 2000-09-25
+slug: song-of-the-evening
+title: Song of the evening
+---
+Wheatus - [Teenage Dirtbag](http://members.tripod.com/~nosmiles/teenagedirtbag.htm)

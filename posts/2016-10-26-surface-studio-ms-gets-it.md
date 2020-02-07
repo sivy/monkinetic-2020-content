@@ -1,8 +1,6 @@
----
-title: "Surface Studio: Microsoft Gets It"
 date: 2016-10-26 08:00:00
+title: 'Surface Studio: Microsoft Gets It'
 ---
-
 Never thought I'd be including "Microsoft Gets It" in a blog post, but here we are. Microsoft has been targeting "creatives" with their recent commercials (as seen continuously on the shows on Apple TV CBS app), and while the comparisons between the Surface pro and the Mac are a bit disingenuous, replace them with this product and the ads are dead on.
 
 The [Surface Studio](http://www.theverge.com/circuitbreaker/2016/10/26/13380462/microsoft-surface-studio-pc-computer-announced-features-price-release-date) is a new iMac-style PC from Microsoft (is this their first actual desktop product?) that captures the iMac spirit in an interesting, lays-nearly-flat design that includes touch/pen features in the screen.

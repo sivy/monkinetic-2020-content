@@ -1,6 +1,5 @@
-Slug: jims-got-it-too
-Date: 2000-09-30
-Title: Jim's got it, too!
-layout: post
-
-<a href="http://jim.roepcke.com/2000/09/29#1172">Jim Roepcke&#39;s</a> got his copy of Mac OS X, too, and posted his first message from the Uber-OS.
+date: 2000-09-30
+slug: jims-got-it-too
+title: Jim's got it, too!
+---
+[Jim Roepcke's](http://jim.roepcke.com/2000/09/29#1172) got his copy of Mac OS X, too, and posted his first message from the Uber-OS.

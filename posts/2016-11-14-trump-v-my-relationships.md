@@ -1,8 +1,6 @@
----
-title: Trump vs. My Relationships
 date: 2016-11-14 18:00
+title: Trump vs. My Relationships
 ---
-
 Donald J. Trump is having a rotten impact on relationships in my life.
 
 ![DJT](http://i.imgur.com/3L0QAgl.jpg?4)

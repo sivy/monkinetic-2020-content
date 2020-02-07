@@ -1,6 +1,5 @@
-Slug: wimplicity
-Date: 2006-04-22
-Title: Wimplicity
-layout: post
-
-Neologism: <em>wimplicity - what results when you&#39;re afraid to add any more features</em>.
+date: 2006-04-22
+slug: wimplicity
+title: Wimplicity
+---
+Neologism: _wimplicity - what results when you're afraid to add any more features_.

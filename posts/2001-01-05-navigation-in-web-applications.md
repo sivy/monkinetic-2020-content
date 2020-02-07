@@ -1,6 +1,5 @@
-Slug: navigation-in-web-applications
-Date: 2001-01-05
-Title: Navigation in Web Applications
-layout: post
-
-<a href="http://www.user.com/webapps/webapps.htm">Navigation in Web Applications</a>. Have to check this out.
+date: 2001-01-05
+slug: navigation-in-web-applications
+title: Navigation in Web Applications
+---
+[Navigation in Web Applications](http://www.user.com/webapps/webapps.htm). Have to check this out.

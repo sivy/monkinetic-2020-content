@@ -1,8 +1,6 @@
+feature-img: images/pycon-header.PNG
+title: 'PyCon Day 3: Migraines Are Fun'
 ---
-title: "PyCon Day 3: Migraines Are Fun"
-feature-img: "images/pycon-header.PNG"
----
-
 Started my day with a massive ongoing migraine that had me hiding in my hotel room with a towel over my eyes, praying for either death or my migraine meds to start working.
 
 ## Pythons are Deaf and so are some Pythonistas

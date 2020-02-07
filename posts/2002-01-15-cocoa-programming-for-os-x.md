@@ -1,6 +1,5 @@
-Slug: cocoa-programming-for-os-x
-Date: 2002-01-15
-Title: Cocoa programming For OS X
-layout: post
-
-Since Jim is <a href="http://jim.roepcke.com/2002/01/13#item3980">taking </a>the awesome <a href="http://www.bignerdranch.com/Classes/">Cocoa class</a> at <a href="http://www.bignerdranch.com/">Big Nerd Ranch</a> SF, and I can&#39;t (Waaahhh), I want <a href="http://www.bignerdranch.com/Book/">Aaron&#39;s book</a> instead.
+date: 2002-01-15
+slug: cocoa-programming-for-os-x
+title: Cocoa programming For OS X
+---
+Since Jim is [taking ](http://jim.roepcke.com/2002/01/13#item3980)the awesome [Cocoa class](http://www.bignerdranch.com/Classes/) at [Big Nerd Ranch](http://www.bignerdranch.com/) SF, and I can't (Waaahhh), I want [Aaron's book](http://www.bignerdranch.com/Book/) instead.

@@ -1,12 +1,9 @@
+date: 2014-07-22 18:50
+excerpt: I didn't go through much of a rebellious stage (barring a couple of years
+  of slightly-over-drinking,  hair-coloring and ear-piercings that didn't offend,
+  literally, anyone).
+title: A gender/privilege topic disclaimer
 ---
-Title: 'A gender/privilege topic disclaimer'
-Date: 2014-07-22 18:50
-layout: post
-excerpt: >
-  I didn't go through much of a rebellious stage (barring a couple of years of slightly-over-drinking, 
-  hair-coloring and ear-piercings that didn't offend, literally, anyone).
----
-
 For future reference:
 
 *Disclaimer: I've never written about gender and privilege topics - I'm a hetero white male who grew up in a suburban, anglo, Christan, two-parent family in the 70s and 80s when such things were (to me) normal. I didn't go through much of a rebellious stage (barring a couple of years of slightly-over-drinking, hair-coloring and ear-piercings that didn't offend, literally, anyone).*

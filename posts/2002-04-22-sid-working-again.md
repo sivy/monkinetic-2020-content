@@ -1,6 +1,5 @@
-Slug: sid-working-again
-Date: 2002-04-22
-Title: Sid working again
-layout: post
-
-Yay! I managed to get <a href="http://www.redmonk.net/software/Sid">Sid</a>, my <a href="http://developer.apple.com/cocoa/index.html">Cocoa</a>-based Conversant posting utility compiled again. I lost some of the more recent work on it, but I&#39;ve since changed the way I categorize posts, so the missing functionality is not missed.
+date: 2002-04-22
+slug: sid-working-again
+title: Sid working again
+---
+Yay! I managed to get [Sid](http://www.redmonk.net/software/Sid), my [Cocoa](http://developer.apple.com/cocoa/index.html)-based Conversant posting utility compiled again. I lost some of the more recent work on it, but I've since changed the way I categorize posts, so the missing functionality is not missed.

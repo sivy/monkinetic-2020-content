@@ -1,6 +1,5 @@
-Slug: stenterprise-news-roundup
-Date: 2001-07-20
-Title: "ST:Enterprise news roundup"
-layout: post
-
-Brent points to <a href="http://www.trektoday.com/">TrekToday</a>&#39;s <a href="http://www.trektoday.com/news/190701_05.shtml">Star Trek: Enterprise news roundup</a>. Some really cool, and funny, stuff in here.
+date: 2001-07-20
+slug: stenterprise-news-roundup
+title: ST:Enterprise news roundup
+---
+Brent points to [TrekToday](http://www.trektoday.com/)'s [Star Trek: Enterprise news roundup](http://www.trektoday.com/news/190701_05.shtml). Some really cool, and funny, stuff in here.

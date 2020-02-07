@@ -1,6 +1,5 @@
-Slug: debug-post
-Date: 2001-06-09
-Title: debug post
-layout: post
-
+date: 2001-06-09
+slug: debug-post
+title: debug post
+---
 none

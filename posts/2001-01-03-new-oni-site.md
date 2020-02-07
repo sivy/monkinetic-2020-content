@@ -1,6 +1,5 @@
-Slug: new-oni-site
-Date: 2001-01-03
-Title: New ONI site
-layout: post
-
-<a href="http://oni.bungie.org/res/">OniRes</a>.
+date: 2001-01-03
+slug: new-oni-site
+title: New ONI site
+---
+[OniRes](http://oni.bungie.org/res/).

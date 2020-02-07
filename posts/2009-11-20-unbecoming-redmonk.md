@@ -1,11 +1,10 @@
----
+excerpt: It feels weird, bittersweet, and even a bit freeing to be letting go of this  long-time
+  part of my digital identity.
 title: Un-becoming Redmonk
-excerpt: >
-    It feels weird, bittersweet, and even a bit freeing to be letting go of this 
-    long-time part of my digital identity.
 ---
+It's been 11 years since I "became" redmonk, when I registered 
 
-It's been 11 years since I "became" redmonk, when I registered <http://redmonk.net>.
+<http: redmonk.net="">.
 
 [![Ancient Redmonk](http://i.imgur.com/EMfWgw7.png)](http://web.archive.org/web/19991128183503/http://redmonk.net/)
 
@@ -15,7 +14,7 @@ Several years ago (7 now, OMG) I was contacted by [James Governor](http://www.re
 
 So, every couple years, James pings me and we have a nice conversation, and I politely decline to give up the domain.
 
-Over the last few years, I found myself using the redmonk moniker less and less. My blog has long been titled 'monkinetic', and I began using that as my username of choice. I recently moved the blog itself to <http://monkinetic.com>, and have been redirecting all redmonk.net traffic there.
+Over the last few years, I found myself using the redmonk moniker less and less. My blog has long been titled 'monkinetic', and I began using that as my username of choice. I recently moved the blog itself to <http: monkinetic.com="">, and have been redirecting all redmonk.net traffic there.
 
 So, a week or so ago, when James' annual "hi there, how are you, would you be willing to part with redmonk.net" email came around, I was finally in a place where the idea didn't seriously offend me. I talked it over some with Jodi, whose [blog](http://speakshermind.redmonk.net) is still hosted on redmonk.net, and who has also had a real emotional investment in our domain, and for the first time we were kinda like "maybe?"
 
@@ -25,4 +24,4 @@ It feels weird, bittersweet, and even a bit freeing to be letting go of this lon
 
 There are lots of changes afoot for me and mine, and this one feels right.
 
-*Updated 2016-12-12: cleaning up*
+*Updated 2016-12-12: cleaning up*</http:></http:>

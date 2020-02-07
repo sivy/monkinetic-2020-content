@@ -1,8 +1,9 @@
-Slug: dive-into-mark
-Date: 2002-01-29
-Title: Dive Into Mark
-layout: post
+date: 2002-01-29
+slug: dive-into-mark
+title: Dive Into Mark
+---
+[This weblog](http://diveintomark.weblogger.com/) is really cool. Mark is really open about his [dealing with addiction](http://diveintomark.weblogger.com/addiction), and recently about [the grief of losing someone he loved](http://diveintomark.weblogger.com/2002/01/26). Hard stuff, but heartening to read.
 
-<a href="http://diveintomark.weblogger.com/">This weblog</a> is really cool. Mark is really open about his <a href="http://diveintomark.weblogger.com/addiction">dealing with addiction</a>, and recently about <a href="http://diveintomark.weblogger.com/2002/01/26">the grief of losing someone he loved</a>. Hard stuff, but heartening to read.<p>
-<i>In the midst of all this, today is my two-year anniversary of sobriety. Two years from today could be yours.</i><p>
-Thanks Mark.</p></p>
+_In the midst of all this, today is my two-year anniversary of sobriety. Two years from today could be yours._
+
+Thanks Mark.

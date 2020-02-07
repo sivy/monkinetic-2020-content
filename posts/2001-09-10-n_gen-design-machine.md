@@ -1,6 +1,5 @@
-Slug: n_gen-design-machine
-Date: 2001-09-10
-Title: n_Gen Design Machine
-layout: post
-
-via <a href="http://snowdeal.org/section/ex_machina/">SnowDeal</a>. <i>Oh My</i>. <a href="http://www.n-generate.com/">N-Gen Design Engine</a>. <i>Wow</i>. Fun.
+date: 2001-09-10
+slug: n_gen-design-machine
+title: n_Gen Design Machine
+---
+via [SnowDeal](http://snowdeal.org/section/ex_machina/). _Oh My_. [N-Gen Design Engine](http://www.n-generate.com/). _Wow_. Fun.

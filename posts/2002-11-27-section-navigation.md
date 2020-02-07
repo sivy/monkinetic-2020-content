@@ -1,12 +1,13 @@
-Slug: section-navigation
-Date: 2002-11-27
-Title: Section Navigation
-layout: post
+date: 2002-11-27
+slug: section-navigation
+title: Section Navigation
+---
+[services-sm-nav](&lt;!--#siteurl--&gt;services/)  
 
-<a href="&lt;!--#siteurl--&gt;services/">services-sm-nav</a><br />
-<a href="&lt;!--#siteurl--&gt;news">weblog-sm-nav</a><br />
-<a href="&lt;!--#siteurl--&gt;applications/">applications-sm-nav</a><br />
-<a href="&lt;!--#siteurl--&gt;information/">information-sm-nav</a><br />
-<a href="&lt;!--#siteurl--&gt;discussion/">discussion-sm-nav</a>
+[weblog-sm-nav](&lt;!--#siteurl--&gt;news)  
 
-<a href="&lt;!--#siteurl--&gt;monkinetic">monkinetic-sm-nav</a><br />
+[applications-sm-nav](&lt;!--#siteurl--&gt;applications/)  
+
+[information-sm-nav](&lt;!--#siteurl--&gt;information/)  
+
+[discussion-sm-nav](&lt;!--#siteurl--&gt;discussion/)

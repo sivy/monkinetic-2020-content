@@ -1,4 +1,3 @@
----
 published: true
 title: The Revolution Will Be Federated
 ---
@@ -45,8 +44,6 @@ Is a migration to federated social media sites going to break the power fo the S
 But maybe some at every level of the Silo will find themselves looking for something better, a place with something for everyone, a system that is not designed to entrap and enclose them, and make them subservient to the whims of execs and advertisers.
 
 *The Revolution will be Federated*.
-
-
 
 - *Tunnel image by [Ishutani](http://ishutani.deviantart.com/art/Tunnel-365977590)*
 - *Colony image by [Ken Fairclough](http://kenfairclough.blogspot.com/)*

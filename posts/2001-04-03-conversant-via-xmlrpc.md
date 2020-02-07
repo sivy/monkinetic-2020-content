@@ -1,6 +1,5 @@
-Slug: conversant-via-xmlrpc
-Date: 2001-04-03
-Title: Conversant via XMLRPC
-layout: post
-
-<img src="https://media.redmonk.net/images/rpcShot.jpg" />
+date: 2001-04-03
+slug: conversant-via-xmlrpc
+title: Conversant via XMLRPC
+---
+![](https://media.redmonk.net/images/rpcShot.jpg)

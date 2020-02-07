@@ -1,8 +1,5 @@
-Slug: human-connectedness-group-blog
-Date: 2004-07-27
-Title: Human Connectedness Group Blog
-layout: post
-
-Someone on <a href="irc://irc.freenode.net/wordpress">#wordpress</a> pointed to this WordPress-powered blog from MIT&#39;s MediaLab Europe: <a href="http://www.medialabeurope.org/hc/blog/">Human Connectedness Group Blog</a>
-
-Some neat stuff going on there. *Subscribed*.
+date: 2004-07-27
+slug: human-connectedness-group-blog
+title: Human Connectedness Group Blog
+---
+Someone on [\#wordpress](irc://irc.freenode.net/wordpress) pointed to this WordPress-powered blog from MIT's MediaLab Europe: [Human Connectedness Group Blog](http://www.medialabeurope.org/hc/blog/)

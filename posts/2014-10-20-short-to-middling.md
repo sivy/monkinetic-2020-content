@@ -1,12 +1,9 @@
+date: 2014-10-20 20:45
+title: Short To Middling
 ---
-Title: Short To Middling
-Date: 2014-10-20 20:45
-layout: post
----
-
 Gina Tripani posted her thoughts on what she calls [short-form blogging](http://scribbling.net/2014/10/16/short-form-blogging/).
 
-> "With the obvious caveat that rules are made to be broken (with reason), my new rules for blogging are:"
+&gt; "With the obvious caveat that rules are made to be broken (with reason), my new rules for blogging are:"
 
 - If it's a paragraph, it's a post.
 - Traffic is irrelevant

@@ -1,6 +1,5 @@
-Slug: slate-follows-weblogging-as-journalism-trend
-Date: 2001-02-08
-Title: Slate follows weblogging-as-journalism trend
-layout: post
-
-<a href="http://slate.msn.com/slatefare/01-02-06/slatefare.asp">Long Form Journalism</a>. [via <a href="http://barista.editthispage.com">Josh</a>]
+date: 2001-02-08
+slug: slate-follows-weblogging-as-journalism-trend
+title: Slate follows weblogging-as-journalism trend
+---
+[Long Form Journalism](http://slate.msn.com/slatefare/01-02-06/slatefare.asp). [via [Josh](http://barista.editthispage.com)]

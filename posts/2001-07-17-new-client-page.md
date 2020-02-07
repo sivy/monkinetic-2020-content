@@ -1,6 +1,5 @@
-Slug: new-client-page
-Date: 2001-07-17
-Title: New Client Page
-layout: post
-
+date: 2001-07-17
+slug: new-client-page
+title: New Client Page
+---
 This is the layout for you, Mr. Client.

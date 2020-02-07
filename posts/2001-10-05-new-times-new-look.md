@@ -1,6 +1,7 @@
-Slug: new-times-new-look
-Date: 2001-10-05
-Title: New times, new look
-layout: post
+date: 2001-10-05
+slug: new-times-new-look
+title: New times, new look
+---
+  
 
-<br /><center><img border="0" src="https://media.redmonk.net/images/newDo.gif" /></center>
+<center><img border="0" src="https://media.redmonk.net/images/newDo.gif"/></center>

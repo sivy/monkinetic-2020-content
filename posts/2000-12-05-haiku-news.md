@@ -1,6 +1,5 @@
-Slug: haiku-news
-Date: 2000-12-05
-Title: Haiku News
-layout: post
-
-[via <a href="http://www0.mercurycenter.com/svtech/news/">SiliconValley.com</a>] <a href="http://www.thefulldeck.com/html/haiku.html">Haiku News</a>.
+date: 2000-12-05
+slug: haiku-news
+title: Haiku News
+---
+[via [SiliconValley.com](http://www0.mercurycenter.com/svtech/news/)] [Haiku News](http://www.thefulldeck.com/html/haiku.html).

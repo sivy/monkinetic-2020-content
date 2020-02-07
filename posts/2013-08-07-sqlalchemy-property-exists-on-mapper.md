@@ -1,8 +1,5 @@
+title: 'SqlAlchemy Relationship Error: ''property of that name exists on mapper'''
 ---
-Title: "SqlAlchemy Relationship Error: 'property of that name exists on mapper'"
-layout: post
----
-
 ### The Setup
 
 I'm writing a web app in python with [Flask](http://flask.pocoo.org) and [SqlAlchemy](sqlalchemy.org) with MySQL.
@@ -11,7 +8,9 @@ I'm writing a web app in python with [Flask](http://flask.pocoo.org) and [SqlAlc
 
 ### The Code
 
-Starting with the following (slightly snipped for brevity) python/SqlAlchemy code in `<project>/markbox/models.py`:
+Starting with the following (slightly snipped for brevity) python/SqlAlchemy code in `
+
+<project>/markbox/models.py`:
 
     class UserBlog(ModelBase):
 	    __tablename__ = 'user_blog'
@@ -21,11 +20,10 @@ Starting with the following (slightly snipped for brevity) python/SqlAlchemy cod
 	    # blog title
 	    name = sa.Column(strcol)
 
-	    # returns a query => blog.sync_stats.all()
+	    # returns a query =&gt; blog.sync_stats.all()
 	    sync_stats = relationship(
 	    	'models.SyncStats', backref='blog',
 	        lazy='dynamic')
-
 
 	class SyncStats(ModelBase):
 	    """
@@ -63,7 +61,7 @@ And this code in `<project>/markbox/tools/test.py`:
 
 ### The Error
 
-When run from the command line in &lt;project>:
+When run from the command line in &lt;project&gt;:
 
 `% python markbox/tools/test.py`
 
@@ -108,4 +106,4 @@ and later:
 
     from markbox.models import UserBlog
 
-This caused the intilization code to be run twice, and the resulting error.
+This caused the intilization code to be run twice, and the resulting error.</module></project></project>

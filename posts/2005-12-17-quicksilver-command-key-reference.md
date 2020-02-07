@@ -1,6 +1,5 @@
-Slug: quicksilver-command-key-reference
-Date: 2005-12-17
-Title: Quicksilver Command Key Reference
-layout: post
-
-Useful: <a href="http://docs.blacktree.com/quicksilver/command_key_reference">quicksilver:command_keys</a>
+date: 2005-12-17
+slug: quicksilver-command-key-reference
+title: Quicksilver Command Key Reference
+---
+Useful: [quicksilver:command\_keys](http://docs.blacktree.com/quicksilver/command_key_reference)

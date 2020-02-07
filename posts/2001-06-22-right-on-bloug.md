@@ -1,6 +1,5 @@
-Slug: right-on-bloug
-Date: 2001-06-22
-Title: Right On! Bloug
-layout: post
-
-Louis Rosenfeld, co-author of <a href="http://www.oreilly.com/catalog/infotecture/">the polarbear book</a>, has started a <a href="http://www.louisrosenfeld.com">blog</a>. IAFTWWW is a great book.
+date: 2001-06-22
+slug: right-on-bloug
+title: Right On! Bloug
+---
+Louis Rosenfeld, co-author of [the polarbear book](http://www.oreilly.com/catalog/infotecture/), has started a [blog](http://www.louisrosenfeld.com). IAFTWWW is a great book.

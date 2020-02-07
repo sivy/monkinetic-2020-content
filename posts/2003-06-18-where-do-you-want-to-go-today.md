@@ -1,6 +1,5 @@
-Slug: where-do-you-want-to-go-today
-Date: 2003-06-18
-Title: Where do you want to go today?
-layout: post
-
-<b><a href="http://www.maximog.com/">Anywhere</a>.</b>
+date: 2003-06-18
+slug: where-do-you-want-to-go-today
+title: Where do you want to go today?
+---
+__[Anywhere](http://www.maximog.com/).__

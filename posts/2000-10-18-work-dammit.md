@@ -1,7 +1,7 @@
-Slug: work-dammit
-Date: 2000-10-18
-Title: work, dammit!
-layout: post
+date: 2000-10-18
+slug: work-dammit
+title: work, dammit!
+---
+and I mean it!  
 
-and I mean it!<br />
-<br />
+  

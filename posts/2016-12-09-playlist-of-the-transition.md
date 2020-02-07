@@ -1,10 +1,7 @@
----
+excerpt: In honor of the astounding array of department heads Trump is nominating
+  for his cabinet,  I present a playlist of appropriate R.E.M. songs.
 title: Playlist of the Transition
-excerpt: >
-    In honor of the astounding array of department heads Trump is nominating for his cabinet, 
-    I present a playlist of appropriate R.E.M. songs.
 ---
-
 In honor of the astounding array of department heads Trump is nominating for his cabinet -- a majority of whom are anti-thetical to the proposed mission of their department -- I present a playlist of appropriate [R.E.M.][rem] songs to get you in the right headspace.
 
 ![Trump, Resting Face](http://i.imgur.com/3L0QAgl.jpg?4)
@@ -26,6 +23,5 @@ In honor of the astounding array of department heads Trump is nominating for his
 
 11. For the Lot of Them - [Ignoreland](https://itun.es/us/xALwbb?i=1096439763), Automatic for the People, 1992
 12. For the Rest of Us - [Finest Worksong](https://itun.es/us/yb0o0?i=876298396)
-
 
 [rem]: http://remhq.com

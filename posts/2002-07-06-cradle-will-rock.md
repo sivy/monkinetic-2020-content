@@ -1,6 +1,5 @@
-Slug: cradle-will-rock
-Date: 2002-07-06
-Title: Cradle Will Rock
-layout: post
-
-Jodi and I are watching an all-star cast in <a href="http://us.imdb.com/Title?0150216">Cradle Will Rock</a>.
+date: 2002-07-06
+slug: cradle-will-rock
+title: Cradle Will Rock
+---
+Jodi and I are watching an all-star cast in [Cradle Will Rock](http://us.imdb.com/Title?0150216).

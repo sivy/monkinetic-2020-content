@@ -1,8 +1,5 @@
-Slug: persianblogcom
-Date: 2003-04-01
-Title: Persianblog.com
-layout: post
-
-I love looking at <a href="http://www.persianblog.com/">this blog</a>, written in right-to-left persian script. I love that OS X renders it perfectly.
-
-<div align="center"></div>
+date: 2003-04-01
+slug: persianblogcom
+title: Persianblog.com
+---
+I love looking at [this blog](http://www.persianblog.com/), written in right-to-left persian script. I love that OS X renders it perfectly.

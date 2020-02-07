@@ -1,6 +1,5 @@
-Slug: testsubject
-Date: 2001-04-03
-Title: testsubject
-layout: post
-
+date: 2001-04-03
+slug: testsubject
+title: testsubject
+---
 bodygoeshere

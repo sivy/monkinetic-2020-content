@@ -1,6 +1,5 @@
-Slug: conserve-energy
-Date: 2001-06-21
-Title: Conserve Energy
-layout: post
-
-<a href="http://www.devdepot.com/description.html?pcode=AUNPLUG">California Public Service Announcement</a>.
+date: 2001-06-21
+slug: conserve-energy
+title: Conserve Energy
+---
+[California Public Service Announcement](http://www.devdepot.com/description.html?pcode=AUNPLUG).

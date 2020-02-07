@@ -1,6 +1,5 @@
-Slug: photomonk-gallery
-Date: 2004-09-09
-Title: Photomonk gallery
-layout: post
-
-I&#39;ve started my first photo gallery site: <a href="http://media.redmonk.net/photomonk">Photomonk</a>. It uses <a href="http://weblogtoolscollection.com/archives/2004/06/14/pictorialis-ii-ready-for-download/">Pictorialis II</a>, a gallery app built on |WordPress|.
+date: 2004-09-09
+slug: photomonk-gallery
+title: Photomonk gallery
+---
+I've started my first photo gallery site: [Photomonk](http://media.redmonk.net/photomonk). It uses [Pictorialis II](http://weblogtoolscollection.com/archives/2004/06/14/pictorialis-ii-ready-for-download/), a gallery app built on |WordPress|.

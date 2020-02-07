@@ -1,6 +1,5 @@
-Slug: skyping-the-netherlands
-Date: 2005-01-20
-Title: Skyping The Netherlands
-layout: post
-
-I&#39;m on the horn on <a href="http://skype.com">Skype</a> (a voice-over-ip softphone)  with <a href="http://www.geekswithblogs.net/jemimus">Robert Kloosterhuis</a> from the Netherlands. Robert is one of the participants in <a href="http://www.kevindevin.com/">Kevin Devin</a>&#39;s Tech Chat podcast, which I listen to religiously, so it&#39;s cool to get to know him a bit better.
+date: 2005-01-20
+slug: skyping-the-netherlands
+title: Skyping The Netherlands
+---
+I'm on the horn on [Skype](http://skype.com) (a voice-over-ip softphone)  with [Robert Kloosterhuis](http://www.geekswithblogs.net/jemimus) from the Netherlands. Robert is one of the participants in [Kevin Devin](http://www.kevindevin.com/)'s Tech Chat podcast, which I listen to religiously, so it's cool to get to know him a bit better.

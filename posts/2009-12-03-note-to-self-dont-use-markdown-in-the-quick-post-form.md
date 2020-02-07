@@ -1,6 +1,5 @@
-Slug: note-to-self-dont-use-markdown-in-the-quick-post-form
-Date: 2009-12-03
-Title:
-layout: post
-
-Note to self: don&#39;t use Markdown in the quick post form.
+date: 2009-12-03
+slug: note-to-self-dont-use-markdown-in-the-quick-post-form
+title: null
+---
+Note to self: don't use Markdown in the quick post form.

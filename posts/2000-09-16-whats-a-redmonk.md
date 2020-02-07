@@ -1,6 +1,5 @@
-Slug: whats-a-redmonk
-Date: 2000-09-16
-Title: what's a redmonk?
-layout: post
-
+date: 2000-09-16
+slug: whats-a-redmonk
+title: what's a redmonk?
+---
 image for site

@@ -1,6 +1,5 @@
-Slug: hyatt-blogs-redesigned
-Date: 2003-05-11
-Title: Hyatt blogs redesigned
-layout: post
-
-<a href="http://www.mozillazine.org/weblogs/dave/">Dave Hyatt</a>, beloved of <a href="http://www.apple.com/safari">Safari</a>-using geeks everywhere, has had his <a href="http://www.mozillazine.org/weblogs/dave/">two</a> <a href="http://www.mozillazine.org/weblogs/hyatt">blogs</a> <a href="http://www.mozillazine.org/weblogs/dave/archives/2003_05.html#003229">redesigned</a>. Very nice!!
+date: 2003-05-11
+slug: hyatt-blogs-redesigned
+title: Hyatt blogs redesigned
+---
+[Dave Hyatt](http://www.mozillazine.org/weblogs/dave/), beloved of [Safari](http://www.apple.com/safari)-using geeks everywhere, has had his [two](http://www.mozillazine.org/weblogs/dave/) [blogs](http://www.mozillazine.org/weblogs/hyatt) [redesigned](http://www.mozillazine.org/weblogs/dave/archives/2003_05.html#003229). Very nice!!

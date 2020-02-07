@@ -1,6 +1,4 @@
-Slug: topics-redirect
-Date: 2002-11-27
-Title: Topics Redirect
-layout: post
-
-
+date: 2002-11-27
+slug: topics-redirect
+title: Topics Redirect
+---

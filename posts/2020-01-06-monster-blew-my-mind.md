@@ -1,7 +1,7 @@
-title: MONSTER Blew My Mind
-slug: monster-blew-my-mind
 date: 2020-01-06 03:32:34
+slug: monster-blew-my-mind
 tags: music, r.e.m., chefskiss,chefskiss
+title: MONSTER Blew My Mind
 ---
 ![/static/images/monster-1994.png](/static/images/monster-1994.png)
 

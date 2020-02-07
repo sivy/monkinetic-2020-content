@@ -1,6 +1,5 @@
-Slug: how-do-your-tools-affect-the-way-you-work
-Date: 2001-05-24
-Title: How do your tools affect the way you work?
-layout: post
-
-Well, using a desktop client application that communicates with my content managed website (via <a href="http://www.xmlrpc.com/">XML-RPC</a>) has got me posting again to Redmonk.Net. ;-)
+date: 2001-05-24
+slug: how-do-your-tools-affect-the-way-you-work
+title: How do your tools affect the way you work?
+---
+Well, using a desktop client application that communicates with my content managed website (via [XML-RPC](http://www.xmlrpc.com/)) has got me posting again to Redmonk.Net. ;-)

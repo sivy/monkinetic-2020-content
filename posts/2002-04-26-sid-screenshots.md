@@ -1,6 +1,5 @@
-Slug: sid-screenshots
-Date: 2002-04-26
-Title: Sid Screenshots
-layout: post
-
+date: 2002-04-26
+slug: sid-screenshots
+title: Sid Screenshots
+---
 Can be seen on the Sid page.

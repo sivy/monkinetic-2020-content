@@ -1,8 +1,5 @@
-Slug: redmonk-20-changes
-Date: 2002-11-26
-Title: "Redmonk 2.0 : changes"
-layout: post
-
+date: 2002-11-26
+slug: redmonk-20-changes
+title: 'Redmonk 2.0 : changes'
+---
 Redmonk is currently undergoing some changes.
-
-Please check back soon!

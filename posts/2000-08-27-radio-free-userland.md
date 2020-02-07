@@ -1,8 +1,7 @@
-Slug: radio-free-userland
-Date: 2000-08-27
-Title: Radio Free Userland
-layout: post
-
-This entry comes to you courtesy of &quot;Radio Userland&quot;.
+date: 2000-08-27
+slug: radio-free-userland
+title: Radio Free Userland
+---
+This entry comes to you courtesy of "Radio Userland".
 	testing
 		123

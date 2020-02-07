@@ -1,10 +1,9 @@
-Slug: this-is-a-test
-Date: 2004-07-17
-Title: This is a test
-layout: post
-
+date: 2004-07-17
+slug: this-is-a-test
+title: This is a test
+---
 <code class="php">
-/* Highliting code */
+/\* Highliting code \*/
 function floob($text) {
     return $text;
 }

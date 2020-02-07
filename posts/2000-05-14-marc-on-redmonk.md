@@ -1,8 +1,5 @@
+date: 2000-05-14
+slug: marc-on-redmonk
+title: Marc on Redmonk
 ---
-Slug: marc-on-redmonk
-Date: 2000-05-14
-Title: Marc on Redmonk
-layout: post
----
-
-<a href="http://scriptingnews.userland.com/stories/storyReader$649">Marc Canter</a> points to &quot;Redmonk.Net&quot; as one of his favorite site templates. Yeah Bayby! Thanks Marc!
+[Marc Canter](http://scriptingnews.userland.com/stories/storyReader$649) points to "Redmonk.Net" as one of his favorite site templates. Yeah Bayby! Thanks Marc!

@@ -1,12 +1,9 @@
----
-title: Another Mass Shooting
 date: 2017-10-03 15:00
+title: Another Mass Shooting
 ---
-
 _Another mass shooting, this time in Las Vegas._
 
 Each time, I'm warily grieved but I don’t let it in very deep. These things are awful, and I’ve literally been there, but when my thoughts drift there I sweep them away to somewhere else. I don’t want to spend time on the past, but this time the scale of the senseless death and destruction caught me off guard. My processing of these incidents has to be filtered though my own history.
-
 
 I _hesitatingly_ Googled "Atlantic Shores Christian School shooting" and scanned the top hits. Once or twice before I've looked to see what has been written about that December day in 1988, and haven’t seen much new. Today there was [a follow up story](http://wavy.com/investigative-story/innocence-lost-the-atlantic-shores-christian-school-shooting/) done by a local Virginia Beach station -- WAVY 10 -- and I clicked through to YouTube to watch it.
 

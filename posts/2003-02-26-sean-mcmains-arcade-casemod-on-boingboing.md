@@ -1,6 +1,5 @@
-Slug: sean-mcmains-arcade-casemod-on-boingboing
-Date: 2003-02-26
-Title: Sean McMain's Arcade casemod on BoingBoing
-layout: post
-
-Cory Doctorow over at <a href="http://boingboing.net/">BoingBoing</a> <a href="http://boingboing.net/2003_02_01_archive.html#90376438">linked to</a> Sean McMains&#39; oh-so-cool <a href="http://www.mcmains.net/arcadegallery">Arcade game PC</a>. Awesome stuff!
+date: 2003-02-26
+slug: sean-mcmains-arcade-casemod-on-boingboing
+title: Sean McMain's Arcade casemod on BoingBoing
+---
+Cory Doctorow over at [BoingBoing](http://boingboing.net/) [linked to](http://boingboing.net/2003_02_01_archive.html#90376438) Sean McMains' oh-so-cool [Arcade game PC](http://www.mcmains.net/arcadegallery). Awesome stuff!

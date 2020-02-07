@@ -1,8 +1,5 @@
+title: When in doubt...
 ---
-Title: "When in doubt..."
-layout: post
----
-
 *...put it in a transaction.*
 
 This nerd advice brought to you by [flask](http://flask.pocoo.org) and [MySQL](http://mysql.com).

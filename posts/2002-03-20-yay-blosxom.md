@@ -1,6 +1,5 @@
-Slug: yay-blosxom
-Date: 2002-03-20
-Title: Yay Blosxom!
-layout: post
-
-I&#39;ve started using <a href="http://www.oreillynet.com/~rael/lang/perl/blosxom/">Blosxom</a> for a small local-to-my-desktop internal work-related blog. It&#39;s not a fancy blogtool, but it&#39;s not a fancy blog. I write up in <a href="http://www.barebones.com/">BBEdit</a> what i want to say, and save it to my blosxom directory. &quot;Too easy drill sargeant!&quot; Go <a href="http://www.oreillynet.com/~rael/">Rael</a>!
+date: 2002-03-20
+slug: yay-blosxom
+title: Yay Blosxom!
+---
+I've started using [Blosxom](http://www.oreillynet.com/~rael/lang/perl/blosxom/) for a small local-to-my-desktop internal work-related blog. It's not a fancy blogtool, but it's not a fancy blog. I write up in [BBEdit](http://www.barebones.com/) what i want to say, and save it to my blosxom directory. "Too easy drill sargeant!" Go [Rael](http://www.oreillynet.com/~rael/)!

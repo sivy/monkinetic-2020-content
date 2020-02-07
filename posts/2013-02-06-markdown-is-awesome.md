@@ -1,11 +1,8 @@
+title: Markdown is Awesome
 ---
-Title: "Markdown is Awesome"
-layout: post
----
-
 I've been using [Markdown][md] for years now as my blogging format of choice. I've used it in [Wordpress][wp], [Movable Type][mt], [Typepad][tp], [Jekyll][jek] &amp; [Octopress][octo], and now [Markbox][mb].
 
-I &lt;heart> Markdown.
+I &lt;heart&gt; Markdown.
 
 Thanks, [John][df]!
 

@@ -1,10 +1,8 @@
-Slug: recent-feeds
-Date: 2003-04-19
-Title: Recent Feeds
-layout: post
+date: 2003-04-19
+slug: recent-feeds
+title: Recent Feeds
+---
+I've been trying to diversify my NetNewsWire habits. Recently added:
 
-I&#39;ve been trying to diversify my NetNewsWire habits. Recently added:
-<ul>
-<li>Joshua Allen, MSFT: <a href="http://www.netcrucible.com/blog/">Better Living Through Software</a></li>
-<li><a href="http://www.toolshed.com/blog">Andy</a> and <a href="http://pragprog.com/pragdave">Dave</a>, the <a href="http://pragprog.com">Pragmatic Programmers</a></li>
-</ul>
+*   Joshua Allen, MSFT: [Better Living Through Software](http://www.netcrucible.com/blog/)
+*   [Andy](http://www.toolshed.com/blog) and [Dave](http://pragprog.com/pragdave), the [Pragmatic Programmers](http://pragprog.com)

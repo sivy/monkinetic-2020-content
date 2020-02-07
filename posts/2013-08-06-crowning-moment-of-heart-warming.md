@@ -1,11 +1,8 @@
+title: Crowning Moment of Heart Warming
 ---
-Title: "Crowning Moment of Heart Warming"
-layout: post
----
-
 My kids, wife, and Mom went to the movies today ([Turbo](http://trailers.apple.com/trailers/dreamworks/turbo/), well-liked all around) and before they went they stopped by the drugstore and bought movies snacks. Apparently our 8yo daughter, remembering Daddy's favorite candy, convinced Mom to buy a box of Reese's Pieces.
 
-After the movie and a couple more errands, they came home, at which time our youngest called out something akin to "No Peeeeeking" and disappeared into her room. 20 minutes later she appeared in my office with a note that said (she's somewhat developmentally delayed) "Daddy &lt;her name> romm for You Lov &lt;her name>". She excitedly communicated that this was a hint and I was to accompany her to her room, where I got to search her room for a present.
+After the movie and a couple more errands, they came home, at which time our youngest called out something akin to "No Peeeeeking" and disappeared into her room. 20 minutes later she appeared in my office with a note that said (she's somewhat developmentally delayed) "Daddy &lt;her name&gt; romm for You Lov &lt;her name&gt;". She excitedly communicated that this was a hint and I was to accompany her to her room, where I got to search her room for a present.
 
 When I found and opened the small gift bag under her pillow containing a wrapped-with-a-bow box of candy, my heart simply melted. How did I deserve such love and adoration?
 

@@ -1,8 +1,5 @@
-Slug: macos-x-at-penn-state-os-x-at-psu
-Date: 2002-11-15
-Title: "MacOS X At Penn State: OS X at PSU"
-layout: post
-
-Clark Venable started a <a href="http://anesthesia.psu.edu/it/osx/">new weblog</a> for Mac OS X users at Penn State University. (<i>Banner design by your truly -)</i>)
-
-<i>Update</i>: The site has moved to its permanent url at http://osx.psu.edu/.
+date: 2002-11-15
+slug: macos-x-at-penn-state-os-x-at-psu
+title: 'MacOS X At Penn State: OS X at PSU'
+---
+Clark Venable started a [new weblog](http://anesthesia.psu.edu/it/osx/) for Mac OS X users at Penn State University. (_Banner design by your truly -)_)

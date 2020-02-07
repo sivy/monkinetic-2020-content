@@ -1,8 +1,5 @@
-Slug: fun-with-photoshop-part-deux
-Date: 2002-03-05
-Title: Fun With Photoshop, Part Deux
-layout: post
-
+date: 2002-03-05
+slug: fun-with-photoshop-part-deux
+title: Fun With Photoshop, Part Deux
+---
 More fun with Photoshop, and a digital camera:
-
-<div align="center"><img src="imagescontemplationPoster.jpg" /></div>

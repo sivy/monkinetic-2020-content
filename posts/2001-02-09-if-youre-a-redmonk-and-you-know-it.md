@@ -1,8 +1,5 @@
-Slug: if-youre-a-redmonk-and-you-know-it
-Date: 2001-02-09
-Title: If you're a Redmonk and you know it...
-layout: post
-
+date: 2001-02-09
+slug: if-youre-a-redmonk-and-you-know-it
+title: If you're a Redmonk and you know it...
+---
 This is the license plate for you!
-
-<img src="https://media.redmonk.net/images/redmonkPlate.gif" />

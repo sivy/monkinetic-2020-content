@@ -1,6 +1,5 @@
-Slug: installing-movabletype-on-panther
-Date: 2004-01-01
-Title: Installing MovableType on Panther
-layout: post
-
-<a href="http://maczealots.com/tutorials/movabletype/">Installing MovableType on Panther</a>. May prove useful.
+date: 2004-01-01
+slug: installing-movabletype-on-panther
+title: Installing MovableType on Panther
+---
+[Installing MovableType on Panther](http://maczealots.com/tutorials/movabletype/). May prove useful.

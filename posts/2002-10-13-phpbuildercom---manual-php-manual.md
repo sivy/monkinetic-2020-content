@@ -1,10 +1,10 @@
-Date: 2002-10-13
-Title: PHPBuilder.com - Manual: PHP Manual
+date: 2002-10-13
+title: PHPBuilder.com - Manual: PHP Manual
 layout: post
 tp_urlid: "6a010534988cd3970b0120a55ce18f970b"
 tp_favoritecount: 0
 tp_commentcount: 0
-Slug: phpbuildercom---manual-php-manual
+slug: phpbuildercom---manual-php-manual
 
 Although I got the web application book for PHP, I&#39;m starting with the online <a href="http://phpbuilder.com/manual/">PHP Manual</a>. It&#39;s probably the best step-by-step guide to a new language I&#39;ve ever seen.
 

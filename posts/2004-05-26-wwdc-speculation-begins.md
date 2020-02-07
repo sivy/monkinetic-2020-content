@@ -1,6 +1,9 @@
-Slug: wwdc-speculation-begins
-Date: 2004-05-26
-Title: WWDC Speculation Begins
-layout: post
+date: 2004-05-26
+slug: wwdc-speculation-begins
+title: WWDC Speculation Begins
+---
+[My favorite anesthesiologist](http://www.romanvenable.net/) posts a tidbit about what might be in store for the G5 series come Apple's 
 
-<a href="http://www.romanvenable.net/">My favorite anesthesiologist</a> posts a tidbit about what might be in store for the G5 series come Apple&#39;s <abbrev title="Worldwide Developer&#39;s Conference">WWDC</abbrev>. <a href="http://www.romanvenable.net/624">Let The G5 Update Speculation Begin</a>. Oh, what fun!
+<abbrev title="Worldwide Developer's Conference">WWDC</abbrev>
+
+. [Let The G5 Update Speculation Begin](http://www.romanvenable.net/624). Oh, what fun!

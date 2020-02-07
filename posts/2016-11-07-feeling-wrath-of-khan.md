@@ -1,13 +1,16 @@
----
-title: Wrath of Khan Feels
 date: 2016-11-07 16:00
+excerpt: 'Elizabeth Bonesteel tweeted about Star Trek: Into Darkness, to which I will
+  not link, nor which will I right now discuss.'
 post-img: http://i.imgur.com/hbijZDG.jpg
-excerpt: "Elizabeth Bonesteel tweeted about Star Trek: Into Darkness, to which I will not link, nor which will I right now discuss."
+title: Wrath of Khan Feels
 ---
-
 [Elizabeth Bonesteel](https://twitter.com/liz_monster) tweeted about Star Trek: Into Darkness, to which I will not link, nor which will I discuss right now:
 
-<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Y’all got me thinking again about ST: INTO DARKNESS, &amp; I realize I went into that one already annoyed.</p>&mdash; Elizabeth Bonesteel (@liz_monster) <a href="https://twitter.com/liz_monster/status/795762490701447168">November 7, 2016</a></blockquote> <script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet" data-lang="en"><p dir="ltr" lang="en">Y’all got me thinking again about ST: INTO DARKNESS, &amp; I realize I went into that one already annoyed.</p>— Elizabeth Bonesteel (@liz_monster) <a href="https://twitter.com/liz_monster/status/795762490701447168">November 7, 2016</a></blockquote>
+
+ 
+
+<script async="" charset="utf-8" src="//platform.twitter.com/widgets.js"></script>
 
 But it got me thinking about why [Star Trek: The Wrath of Khan](http://www.imdb.com/title/tt0084726/) was so epically fantastic for me. I'm having Real Feels right now just thinking about it.
 
@@ -25,4 +28,4 @@ I don't have the time or skill for a proper exposition right now, but some bulle
 
 Sorry I need to go have a cry.
 
-<span style="display:block; text-align:center">![](http://i.imgur.com/hbijZDG.jpg)</span>
+<span style="display:block; text-align:center">!\[\](http://i.imgur.com/hbijZDG.jpg)</span>

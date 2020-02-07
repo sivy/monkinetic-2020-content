@@ -1,6 +1,5 @@
-Slug: site-upgrade
-Date: 2006-01-11
-Title: Site upgrade
-layout: post
-
-Nothing really visible from out there, but <a href="http://redmonk.net/wp-admin/http;//redmonk.net">redmonk.net</a> is now running <a href="http://wordpress.org">Wordpress 2.0</a>. Yummy.
+date: 2006-01-11
+slug: site-upgrade
+title: Site upgrade
+---
+Nothing really visible from out there, but [redmonk.net](http://redmonk.net/wp-admin/http;//redmonk.net) is now running [Wordpress 2.0](http://wordpress.org). Yummy.

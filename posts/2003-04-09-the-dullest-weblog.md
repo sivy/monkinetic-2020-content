@@ -1,6 +1,5 @@
-Slug: the-dullest-weblog
-Date: 2003-04-09
-Title: The Dullest Weblog
-layout: post
-
-Somehow <a href="http://www.wibsite.com/wiblog/dull/">this site</a> (thanks <a href="http://www.bbrown.info/blogs/bblog/">Bill</a>) seems  like something <a href="http://www.douglasadams.com/">Douglas Adams</a> would have written. Awesome.
+date: 2003-04-09
+slug: the-dullest-weblog
+title: The Dullest Weblog
+---
+Somehow [this site](http://www.wibsite.com/wiblog/dull/) (thanks [Bill](http://www.bbrown.info/blogs/bblog/)) seems  like something [Douglas Adams](http://www.douglasadams.com/) would have written. Awesome.

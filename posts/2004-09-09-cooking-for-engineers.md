@@ -1,6 +1,5 @@
-Slug: cooking-for-engineers
-Date: 2004-09-09
-Title: Cooking For Engineers
-layout: post
-
-Via <a href="http://www.pycs.net/bbum/">bbum</a>: <a href="http://www.cookingforengineers.com/">Cooking For Engineers</a>.
+date: 2004-09-09
+slug: cooking-for-engineers
+title: Cooking For Engineers
+---
+Via [bbum](http://www.pycs.net/bbum/): [Cooking For Engineers](http://www.cookingforengineers.com/).

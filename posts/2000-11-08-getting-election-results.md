@@ -1,6 +1,5 @@
-Slug: getting-election-results
-Date: 2000-11-08
-Title: Getting Election Results
-layout: post
-
-[via &quot;Scripting News&quot;] <a href="http://www.hotlinescoop.com/web/content/results/">Hotline Scoop</a> has a good results interface.
+date: 2000-11-08
+slug: getting-election-results
+title: Getting Election Results
+---
+[via "Scripting News"] [Hotline Scoop](http://www.hotlinescoop.com/web/content/results/) has a good results interface.

@@ -1,6 +1,5 @@
-Slug: ihateapplecom-hacked
-Date: 2001-01-02
-Title: Ihateapple.com hacked
-layout: post
-
-<a href="http://www.macmonkey.com/media/images/public/ihahhacked.gif">Ihateapple.com hacked</a>. Ha!
+date: 2001-01-02
+slug: ihateapplecom-hacked
+title: Ihateapple.com hacked
+---
+[Ihateapple.com hacked](http://www.macmonkey.com/media/images/public/ihahhacked.gif). Ha!

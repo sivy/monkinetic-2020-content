@@ -1,6 +1,5 @@
-Slug: back-on-the-air
-Date: 2003-08-26
-Title: Back On The Air
-layout: post
-
-Jim points out that we&#39;re back on the air. Yay!
+date: 2003-08-26
+slug: back-on-the-air
+title: Back On The Air
+---
+Jim points out that we're back on the air. Yay!

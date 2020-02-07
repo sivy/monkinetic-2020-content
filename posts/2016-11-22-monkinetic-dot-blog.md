@@ -1,7 +1,5 @@
+title: 'PSA: monkinetic.blog'
 ---
-title: "PSA: monkinetic.blog"
----
-
 This site has a new domain, again. 
 
-<http://monkinetic.blog>
+<http: monkinetic.blog=""></http:>

@@ -1,6 +1,5 @@
-Slug: we-are-the-knights-who-say-ni
-Date: 2001-07-12
-Title: We are the knights who say.. Ni!
-layout: post
-
-Yes, thanks to <a href="http://www.osxgnu.org/">OSXGnu</a>, I now have something new to not have time to learn: <a href="http://www.osxgnu.org/software/python/">Python for OSX</a>!
+date: 2001-07-12
+slug: we-are-the-knights-who-say-ni
+title: We are the knights who say.. Ni!
+---
+Yes, thanks to [OSXGnu](http://www.osxgnu.org/), I now have something new to not have time to learn: [Python for OSX](http://www.osxgnu.org/software/python/)!

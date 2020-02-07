@@ -1,6 +1,5 @@
-Slug: this-is-a-test
-Date: 2000-12-21
-Title: this is a test
-layout: post
-
+date: 2000-12-21
+slug: this-is-a-test
+title: this is a test
+---
 of the email interface

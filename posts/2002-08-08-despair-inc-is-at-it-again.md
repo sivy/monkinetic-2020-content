@@ -1,6 +1,5 @@
-Slug: despair-inc-is-at-it-again
-Date: 2002-08-08
-Title: Despair, Inc is at it again
-layout: post
-
-<a href="http://www.despair.com/consulting.html">Consulting</a>: &quot;If you&#39;re not part of the Solution, There&#39;s good money to be made prolonging the problem.&quot;
+date: 2002-08-08
+slug: despair-inc-is-at-it-again
+title: Despair, Inc is at it again
+---
+[Consulting](http://www.despair.com/consulting.html): "If you're not part of the Solution, There's good money to be made prolonging the problem."

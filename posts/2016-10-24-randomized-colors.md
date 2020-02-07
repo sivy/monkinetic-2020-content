@@ -1,8 +1,6 @@
----
-title: Randomized color choices in SASS
 tags: SASS, css, themes, programming
+title: Randomized color choices in SASS
 ---
-
 For a bit of variety, I decided to figure out how to generate a new front page header background and link colors whenever I rebuilt the blog (new posts, etc). This is still a static site, so no wizzy javascript stuff, I just wanted to do it in SASS.
 
 This is what I came up with.

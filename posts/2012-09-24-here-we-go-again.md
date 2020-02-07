@@ -1,5 +1,5 @@
-Title: Here we go again…
-Date: 2012-09-24 7:17
+title: Here we go again…
+date: 2012-09-24 7:17
 
 ### Friction
 

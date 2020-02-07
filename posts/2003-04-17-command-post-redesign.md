@@ -1,6 +1,5 @@
-Slug: command-post-redesign
-Date: 2003-04-17
-Title: Command Post redesign
-layout: post
-
-Nice. The Command Post got itself a spiffy new <a href="http://www.command-post.org/">design</a>.
+date: 2003-04-17
+slug: command-post-redesign
+title: Command Post redesign
+---
+Nice. The Command Post got itself a spiffy new [design](http://www.command-post.org/).

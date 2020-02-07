@@ -1,6 +1,5 @@
-Slug: another-test
-Date: 2003-03-12
-Title: Another Test
-layout: post
-
+date: 2003-03-12
+slug: another-test
+title: Another Test
+---
 Foo Baby

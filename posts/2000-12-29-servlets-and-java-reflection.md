@@ -1,8 +1,5 @@
-Slug: servlets-and-java-reflection
-Date: 2000-12-29
-Title: Servlets and Java Reflection
-layout: post
-
+date: 2000-12-29
+slug: servlets-and-java-reflection
+title: Servlets and Java Reflection
+---
 http://www.javaworld.com/javaworld/jw-12-2000/jw-1221-reflection_p.html
-
-Servlet programming techniques with good information about how to architect your servlets to be expanded later with new functionality.

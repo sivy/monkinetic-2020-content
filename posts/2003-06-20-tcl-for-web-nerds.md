@@ -1,8 +1,5 @@
-Slug: tcl-for-web-nerds
-Date: 2003-06-20
-Title: TCL for Web Nerds
-layout: post
-
+date: 2003-06-20
+slug: tcl-for-web-nerds
+title: TCL for Web Nerds
+---
 I cannot believe I had not seen this yet:
-
-<a href="http://philip.greenspun.com/tcl/index.adp">TCL for Web Nerds</a>, by Phillip  Greenspun et al.

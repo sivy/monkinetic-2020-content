@@ -1,6 +1,5 @@
-Slug: looprumors
-Date: 2003-04-05
-Title: LoopRumors
-layout: post
-
-Another <a href="http://www.looprumors.com/">Apple rumor site</a>.
+date: 2003-04-05
+slug: looprumors
+title: LoopRumors
+---
+Another [Apple rumor site](http://www.looprumors.com/).

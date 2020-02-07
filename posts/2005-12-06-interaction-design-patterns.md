@@ -1,6 +1,5 @@
-Slug: interaction-design-patterns
-Date: 2005-12-06
-Title: Interaction Design Patterns
-layout: post
-
-Welie.com: <a href="http://www.welie.com/patterns/index.html">patterns in Interaction Design</a>. Also, time-tripper.com: <a href="http://time-tripper.com/uipatterns/Introduction">UI Patterns and Techniques</a>
+date: 2005-12-06
+slug: interaction-design-patterns
+title: Interaction Design Patterns
+---
+Welie.com: [patterns in Interaction Design](http://www.welie.com/patterns/index.html). Also, time-tripper.com: [UI Patterns and Techniques](http://time-tripper.com/uipatterns/Introduction)

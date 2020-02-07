@@ -1,12 +1,9 @@
+feature-img: images/cozy_feature.png
+title: Our English Cozies
 ---
-Title: Our English Cozies
-layout: post
-feature-img: 'images/cozy_feature.png'
----
-
 [AMC](http://www.amctv.com/shows/the-walking-dead)'s and [HBO](http://www.hbo.com/game-of-thrones#/)'s hits are all the rage for the hipsters on the Twitters, but Jodi and I prefer to curl up with a nice [English cozy](http://en.wikipedia.org/wiki/Cozy_mystery).
 
-> Cozy mysteries, also referred to simply as "cozies", are a subgenre of crime fiction in which sex and violence are downplayed or treated humorously, and the crime and detection take place in a small, socially intimate community.
+&gt; Cozy mysteries, also referred to simply as "cozies", are a subgenre of crime fiction in which sex and violence are downplayed or treated humorously, and the crime and detection take place in a small, socially intimate community.
 
 Some of the series with which we've passed comfy nights:
 
