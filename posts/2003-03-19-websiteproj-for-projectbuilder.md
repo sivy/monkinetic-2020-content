@@ -1,5 +1,6 @@
-date: 2003-03-19
+date: 2003-03-19 00:00
 slug: websiteproj-for-projectbuilder
+tags: ""
 title: WebSiteProj for ProjectBuilder
 ---
 <div style="float:right"></div>

@@ -1,7 +1,7 @@
-title: Towards IndieWeb: POSSE and Notes
+date: 2020-01-17 00:00
 slug: towards-indieweb-notes
-date: 2020-01-17 04:22:46
-tags: posse,blogging,webmention,indieweb,hashtags,txt
+tags: indieweb,hashtags
+title: ""
 ---
 [POSSE](https://indieweb.org/POSSE) is the #IndieWeb acronym for *Publish (on your) Own Site, Syndicate Everywhere*. It's something I'm playing with in Goldfrog.
 

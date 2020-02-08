@@ -1,5 +1,6 @@
-date: 2007-06-19
+date: 2007-06-19 00:00
 slug: ratatouille
+tags: ""
 title: Ratatouille
 ---
 <img alt="ratatouille" class="at-xid-6a010534988cd3970b0120a5b3677a970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3677a970c-pi" style="float:right; margin: 0 0 8px 8px;"/>

@@ -1,5 +1,6 @@
-date: 2002-02-01
+date: 2002-02-01 00:00
 slug: checkout-or-export
+tags: ""
 title: Checkout or Export?
 ---
 CVS question: when doing a checkout for the purpose of building a project on a testing platform, is it preferred to do a `` checkout ``, and ignore the CVS files that come along, or an explicit `` export `` to get only the source?

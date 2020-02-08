@@ -1,12 +1,15 @@
-date: 2004-11-23
-slug: u2
-title: U2 - How To Dismantle An Atomic Bomb Streams
-tp_commentcount: 2
-tp_favoritecount: 0
+Date: "2004-11-23"
+Slug: u2---how-to-dismantle-an-atomic-bomb-streams
+Title: U2 - How To Dismantle An Atomic Bomb Streams
+date: 2004-11-23 00:00
+layout: post
+slug: u2---how-to-dismantle-an-atomic-bomb-streams
+tags: ""
+title: ""
+tp_commentcount: "2"
+tp_favoritecount: "0"
 tp_urlid: 6a010534988cd3970b0120a55ce46a970b
 ---
-how-to-dismantle-an-atomic-bomb-streams
-
 Hear the new album via streaming QT/WMP/REAL:
 
-[U2 -How To Dismantle An Atomic Bomb](http://u2.com/stream/htdaab.html)
+<a href="http://u2.com/stream/htdaab.html">U2 -How To Dismantle An Atomic Bomb</a>

@@ -1,5 +1,6 @@
-date: 2003-03-25
+date: 2003-03-25 00:00
 slug: user-agent-man
+tags: ""
 title: User Agent Man
 ---
 I've been following my web server logs more closely lately, and NetNewsWire now has 4 of the 5 top spots in my Browser report, losing out only to Google. My top five user agents in descending order:

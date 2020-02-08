@@ -1,4 +1,7 @@
+date: 2015-03-17 00:00
 feature-img: images/spring_river.png
+slug: spring-migration
+tags: ""
 title: Spring Migration
 ---
 Well, here in Arizona it's been Spring for a month or so, even while the East Coast is still buried under record snow. Spring, usually means a renewed interest in my oft-neglected blog, and this time I realized that monkinetic had been down for some time and I didn't even know it.

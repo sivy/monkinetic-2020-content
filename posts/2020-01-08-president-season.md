@@ -1,7 +1,7 @@
-title: President Season
+date: 2020-01-08 00:00
 slug: president-season
-date: 2020-01-08 07:28:35
-tags: ,politics,privilege
+tags: politics,privilege
+title: ""
 ---
 I've been mostly quiet about the presidential race because... to be honest I've been quiet about everything about #politics for a while.
 

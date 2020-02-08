@@ -1,3 +1,6 @@
+date: 2004-09-25 00:00
+slug: testing-image-uploading-from-marsedit
+tags: ""
 title: 'Testing: Image Uploading from MarsEdit'
 ---
 <img alt="cathedralRockMedium.jpg" border="0" class="at-xid-6a010534988cd3970b0120a55ce5a0970b" height="400" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce5a0970b-pi" width="300"/>

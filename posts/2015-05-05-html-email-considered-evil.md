@@ -1,3 +1,6 @@
+date: 2015-05-05 00:00
+slug: html-email-considered-evil
+tags: ""
 title: HTML Email considered Evil
 ---
 My Wife is currently fuming in the other room because she sent the wrong signup link to several business partners, because someone editing that the link did so in an HTML/Rich Text editor, and ended up editing the text of the link, not the source. So she sees the correct link in her editor/email, but in fact she's sending *someone else's* affiliate link.

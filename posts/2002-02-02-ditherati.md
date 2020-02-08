@@ -1,5 +1,6 @@
-date: 2002-02-02
+date: 2002-02-02 00:00
 slug: ditherati
+tags: ""
 title: Ditherati
 ---
 <img align="right" border="1" src="https://media.redmonk.net/images/ditheratiDave.jpg"/>

@@ -1,3 +1,6 @@
+date: 2016-11-10 00:00
+slug: american-me
+tags: ""
 title: 'American Me: What''s Next?'
 ---
 I made it clear that I was voting for Hillary, and why, in a post earlier this year. I was skeptical of the huge lead most of the polls projected, but I still thought she'd beat the foolish candidate of racism and misogyny.

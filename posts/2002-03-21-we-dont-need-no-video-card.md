@@ -1,6 +1,7 @@
-date: 2002-03-21
+date: 2002-03-21 00:00
 feature-img: images/quake.png
 slug: we-dont-need-no-video-card
+tags: ""
 title: '&quot;We don&squo;t need no video card!&quot;'
 ---
 As seen on [\#swhack](http://blogspace.com/swhack/chatlogs/):

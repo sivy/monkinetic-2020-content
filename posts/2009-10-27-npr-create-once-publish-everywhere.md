@@ -1,5 +1,6 @@
-date: 2009-10-27
+date: 2009-10-27 00:00
 slug: npr-create-once-publish-everywhere
+tags: ""
 title: 'NPR: Create Once, Publish Everywhere'
 ---
 >  
@@ -12,4 +13,4 @@ title: 'NPR: Create Once, Publish Everywhere'
 > *   Ensure content modularity
 > *   Ensure content portability
 > 
-> 
+>

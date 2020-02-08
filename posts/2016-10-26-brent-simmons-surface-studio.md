@@ -1,4 +1,6 @@
-date: 2016-10-26 11:00:00
+date: 2016-10-26 11:00
+slug: brent-simmons-surface-studio
+tags: ""
 title: Brent Simmons on the Surface Studio
 ---
 [Brent Simmons](http://inessential.com), currently of Omni Software and long-time Mac developer, shares his thoughts on the [Surface Studio](http://inessential.com/2016/10/26/surface_studio_notes). I agree with Brent (and many others) that it seems like Apple has forgotten/disregarded the people who use their computers to *make things* - the same people who stuck with and evangelized the platform during the Dark Times.

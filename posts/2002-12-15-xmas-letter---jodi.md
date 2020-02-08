@@ -1,17 +1,20 @@
-date: 2002-12-15
-slug: xmas-letter
-title: xmas letter - jodi
-tp_commentcount: 0
-tp_favoritecount: 0
+Date: "2002-12-15"
+Slug: xmas-letter---jodi
+Title: xmas letter - jodi
+date: 2002-12-15 00:00
+layout: post
+slug: xmas-letter---jodi
+tags: ""
+title: ""
+tp_commentcount: "0"
+tp_favoritecount: "0"
 tp_urlid: 6a010534988cd3970b0120a55ce455970b
 ---
-jodi
-
 Peace and blessings to our family members and dear friends!  We truly serve a loving, holy, and awesome God whose blessings never cease and whose goodness knows no limit!  
 
 We hope to communicate some of the ways that He has blessed us in the past year or so.
 
-We moved from Portsmouth, Virginia to Tempe, Arizona in October, 2001.  We made this rather dramatic move because Steve accepted a position doing some specialized web development work for U-Haul in central Phoenix.  God's grace was abundant from the beginning. Our house in Portsmouth sold fairly quickly.  In Arizona, We found a wonderful church within weeks and felt God knitting us into the body of Christ here.  
+We moved from Portsmouth, Virginia to Tempe, Arizona in October, 2001.  We made this rather dramatic move because Steve accepted a position doing some specialized web development work for U-Haul in central Phoenix.  God&#39;s grace was abundant from the beginning. Our house in Portsmouth sold fairly quickly.  In Arizona, We found a wonderful church within weeks and felt God knitting us into the body of Christ here.  
 
 In February, we bought a house in Gilbert, AZ a little further East from Tempe, in a lovely neighborhood with attractive lakes, walking paths,a park,and nice landscaping.  
 

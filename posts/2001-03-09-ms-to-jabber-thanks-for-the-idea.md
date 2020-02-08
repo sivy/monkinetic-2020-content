@@ -1,5 +1,6 @@
-date: 2001-03-09
+date: 2001-03-09 00:00
 slug: ms-to-jabber-thanks-for-the-idea
+tags: ""
 title: 'MS to Jabber: &quot;Thanks for the idea!&quot;'
 ---
 Dave [writes](http://scriptingnews.userland.com/backissues/2001/03/08):  

@@ -1,5 +1,6 @@
-date: 2000-09-26
+date: 2000-09-26 00:00
 slug: weekend-images-steve-and-torch
+tags: ""
 title: 'Weekend Images: Steve and Torch'
 ---
 <font size="+1"><b>Man with Fire.</b></font>

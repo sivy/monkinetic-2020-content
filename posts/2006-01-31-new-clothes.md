@@ -1,5 +1,6 @@
-date: 2006-01-31
+date: 2006-01-31 00:00
 slug: new-clothes
+tags: ""
 title: New Clothes
 ---
 [Looking back at our fresh starts &amp; modest changes](http://www.43folders.com/2006/01/30/fresh-modest-wrapup/):

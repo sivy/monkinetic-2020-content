@@ -1,7 +1,7 @@
-title: Towards IndieWeb: Webmention
+date: 2020-01-23 00:00
 slug: towards-indieweb-webmention
-date: 2020-01-23 10:19:13
 tags: indieweb,goldfrog,golang
+title: ""
 ---
 For my next #indieweb trick: I'm working on adding support for [Webmention](https://www.w3.org/TR/webmention/) in #goldfrog.
 
@@ -20,5 +20,3 @@ Server:
 - Receive "special" webmentions (ie Likes)
 
 Ultimately I'd like to break out my webmention code into a releasable #golang module that can provide reusable `http.Handler` functions that can be plugged into any Go mux that supports them.
-
-

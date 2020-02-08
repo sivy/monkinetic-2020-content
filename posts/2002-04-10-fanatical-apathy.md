@@ -1,5 +1,6 @@
-date: 2002-04-10
+date: 2002-04-10 00:00
 slug: fanatical-apathy
+tags: ""
 title: Fanatical Apathy
 ---
 [via [Anita's LOL](http://www.anitarowland.com)] Adam Felber, comedian and regular panelist on [Wait Wait Don't Tell Me](http://www.npr.org/programs/waitwait/) on NPR, has a [blog](http://home.earthlink.net/~adameft/blogger.html)! A sample:

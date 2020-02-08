@@ -1,6 +1,7 @@
-date: 2009-11-24
+date: 2009-11-24 00:00
 slug: newly-shorn
-title: null
+tags: ""
+title: ""
 ---
 Newly shorn.  
 
@@ -8,4 +9,4 @@ Newly shorn.
 
 <img alt="Newly_shorn" border="0" class="asset asset-image at-xid-6a010534988cd3970b0120a6cd181f970b" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a6cd181f970b-800wi" title="Newly_shorn"/>
 
-</a>   
+</a>

@@ -1,5 +1,6 @@
-date: 2002-04-19
+date: 2002-04-19 00:00
 slug: incomprehensible
+tags: ""
 title: Incomprehensible
 ---
 Rafe [nails it](http://rc3.org/cgi-bin/less.pl?arg=3946) over on rc3.org:

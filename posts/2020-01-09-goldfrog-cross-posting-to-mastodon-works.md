@@ -1,7 +1,7 @@
-title: Goldfrog: cross-posting to Mastodon works
+date: 2020-01-09 00:00
 slug: goldfrog-cross-posting-to-mastodon-works
-date: 2020-01-09 09:13:56
 tags: goldfrog,mastodon
+title: ""
 ---
 Ooooooh, yeah #goldfrog #mastodon
 

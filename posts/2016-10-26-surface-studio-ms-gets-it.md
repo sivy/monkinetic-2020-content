@@ -1,4 +1,6 @@
-date: 2016-10-26 08:00:00
+date: 2016-10-26 08:00
+slug: surface-studio-ms-gets-it
+tags: ""
 title: 'Surface Studio: Microsoft Gets It'
 ---
 Never thought I'd be including "Microsoft Gets It" in a blog post, but here we are. Microsoft has been targeting "creatives" with their recent commercials (as seen continuously on the shows on Apple TV CBS app), and while the comparisons between the Surface pro and the Mac are a bit disingenuous, replace them with this product and the ads are dead on.

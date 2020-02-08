@@ -1,5 +1,6 @@
-date: 2002-11-21
+date: 2002-11-21 00:00
 slug: applications-intro
+tags: ""
 title: Applications Intro
 ---
 <div align="center" style="padding-bottom:30px;">

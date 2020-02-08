@@ -1,5 +1,6 @@
-date: 2002-04-15
+date: 2002-04-15 00:00
 slug: coyotes-over-predators
+tags: ""
 title: Coyotes over Predators
 ---
 This afternoon the [Coyotes beat the Nashville Predators](http://www.azcentral.com/sports/coyotes/0414yotesgamer14-ON.html) to end at 6th place. I never cared about hockey (inspite of

@@ -1,0 +1,13 @@
+date: 2001-09-19 00:00
+slug: good-grief
+tags: ""
+title: Good Grief - More on Nimda
+tp_commentcount: "0"
+tp_favoritecount: "0"
+tp_urlid: 6a010534988cd3970b0120a55cdae7970b
+---
+more-on-nimda
+
+The [Nimda virus](http://news.zdnet.co.uk/story/0,,t269-s2095530,00.html) uses IIS, Outlook, AND Internet Explorer. Um, HELO?? Ever wonder about the fact that ALL THREE of these products are made by one company?
+
+"This means that if you go and browse a page and you don't have the correct security on your browser, it looks as though the Javascript attempts to forward the virus from your machine to everyone in your contacts book." Cluley said the suspicion is that only Internet Explorer is vulnerable to this exploit..."

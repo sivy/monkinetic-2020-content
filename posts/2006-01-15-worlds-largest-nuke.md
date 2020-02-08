@@ -1,5 +1,6 @@
-date: 2006-01-15
+date: 2006-01-15 00:00
 slug: worlds-largest-nuke
+tags: ""
 title: World's largest nuke
 ---
 <img align="right" alt="World's larget nuke" height="81" hspace="5" id="image2248" src="https://redmonk.net/mt/mt-static/uploads/2006/01/nuke.thumbnail.png" width="128"/>

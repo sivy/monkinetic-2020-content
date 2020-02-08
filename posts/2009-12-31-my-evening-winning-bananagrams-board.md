@@ -1,5 +1,6 @@
-date: 2009-12-31
+date: 2009-12-31 00:00
 slug: my-evening-winning-bananagrams-board
+tags: ""
 title: My evening-winning Bananagrams board
 ---
 This was my evening-winning Bananagrams board:

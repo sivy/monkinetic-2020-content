@@ -1,4 +1,6 @@
 date: 2016-11-02 11:08
+slug: authagraph-world-map
+tags: ""
 title: The AuthaGraph World map Projection
 ---
 The [AuthaGraph](http://www.authagraph.com/top/?lang=en) World Map projection is winning awards for its design and superior area mapping, better showing the relative sizes of land masses and oceans.

@@ -1,5 +1,6 @@
-date: 2009-10-07
+date: 2009-10-07 00:00
 slug: best-google-logo-ever
+tags: ""
 title: Best Google Logo Ever
 ---
 <img alt="Best Google Logo Ever" height="168" src="https://farm3.static.flickr.com/2529/3990750700_75846acdb4.jpg" width="500"/>

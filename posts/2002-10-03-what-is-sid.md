@@ -1,5 +1,6 @@
-date: 2002-10-03
+date: 2002-10-03 00:00
 slug: what-is-sid
+tags: ""
 title: What is Sid?
 ---
 I told someone today:

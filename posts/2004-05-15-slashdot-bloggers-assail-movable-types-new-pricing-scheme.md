@@ -1,5 +1,6 @@
-date: 2004-05-15
+date: 2004-05-15 00:00
 slug: slashdot-bloggers-assail-movable-types-new-pricing-scheme
+tags: ""
 title: Slashdot | Bloggers Assail Movable Type's New Pricing Scheme
 ---
 [Bloggers Assail Movable Type's New Pricing Scheme](http://developers.slashdot.org/developers/04/05/14/1314256.shtml?tid=149&amp;tid=185&amp;tid=99):

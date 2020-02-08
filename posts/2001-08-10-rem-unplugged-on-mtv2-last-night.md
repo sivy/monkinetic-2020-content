@@ -1,5 +1,6 @@
-date: 2001-08-10
+date: 2001-08-10 00:00
 slug: rem-unplugged-on-mtv2-last-night
+tags: ""
 title: R.E.M. Unplugged on MTV2 Last Night
 ---
 Our local stations carry MTV2 on a high UHF channel. So I was, luckily enough, able to catch a re-broadcast of MTV's recent Unplugged with R.E.M. It was, as usual, a treat - although Michael Stipe seemed bored for the first few songs. Highlights:

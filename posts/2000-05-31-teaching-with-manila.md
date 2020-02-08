@@ -1,3 +1,6 @@
+date: 2000-05-31 00:00
+slug: teaching-with-manila
+tags: ""
 title: Teaching With Manila
 ---
 [Manila Clipper](http://www.cs.strath.ac.uk/~duncan/frontier/manilaclipper.html#quoter) is really cool. So is Manila Quoter. Both can be found [here](http://www.cs.strath.ac.uk/~duncan/frontier/manilaclipper.html#quoter).

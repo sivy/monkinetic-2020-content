@@ -1,3 +1,6 @@
+date: 2004-09-25 00:00
+slug: adoption-attitudes
+tags: ""
 title: Adoption Attitudes
 ---
 So far, Jodi and I have experienced mostly great responses to our decision to adopt a toddler from Ukraine. This past week we ran into someone with an antagonistic attitude toward adopting from Ukraine. We were told that the health issues were bad, and that the age we were looking for was a difficult one, and there was just this antagonism that was really frustrating. Jodi and I were kind of taken aback - I mean, adopting is this great thing, and we're getting all this great feedback, and then this hits us. It was frustrating, and it hurt.

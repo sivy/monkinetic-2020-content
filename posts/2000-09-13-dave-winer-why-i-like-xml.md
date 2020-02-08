@@ -1,5 +1,6 @@
-date: 2000-09-13
+date: 2000-09-13 00:00
 slug: dave-winer-why-i-like-xml
+tags: ""
 title: 'Dave Winer: Why I like XML'
 ---
 [XMLMag](http://www.xmlmag.com/upload/free/features/xml/2000/04fal00/dw0004/dw0004.asp):

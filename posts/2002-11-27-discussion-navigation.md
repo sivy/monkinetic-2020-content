@@ -1,5 +1,6 @@
-date: 2002-11-27
+date: 2002-11-27 00:00
 slug: discussion-navigation
+tags: ""
 title: Discussion Navigation
 ---
 <div class="subhead"><a href="&lt;!--#siteurl--&gt;discussion/" title="view messages">message list</a></div>

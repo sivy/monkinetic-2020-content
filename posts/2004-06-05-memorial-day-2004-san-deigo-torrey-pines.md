@@ -1,5 +1,6 @@
-date: 2004-06-05
+date: 2004-06-05 00:00
 slug: memorial-day-2004-san-deigo-torrey-pines
+tags: ""
 title: 'Memorial Day 2004, San Deigo: Torrey Pines'
 ---
 <blockquote class="callout"><a href="http://redmonk.net/mt/mt-static/uploads/16.jpg" title="Torrey Pines Gliderport">Torrey Pines Gliderport!</a><br/><br/>

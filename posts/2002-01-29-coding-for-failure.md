@@ -1,5 +1,6 @@
-date: 2002-01-29
+date: 2002-01-29 00:00
 slug: coding-for-failure
+tags: ""
 title: Coding for failure
 ---
 *Whew*. Big thread on Hack The Planet - [over here](http://wmf.editthispage.com/discuss/msgReader$6921?mode=topic), tangentially inspired by my post [here](http://www.redmonk.net/fullThread$msgNum=928) about IDL. David McCusker has a great line:

@@ -1,5 +1,6 @@
-date: 2002-03-12
+date: 2002-03-12 00:00
 slug: aol-to-finally-switch-to-mozilla-based-browser
+tags: ""
 title: AOL to finally switch to Mozilla-based browser?
 ---
 [NewForge is reporting](http://www.newsforge.com/article.pl?sid=02/03/08/1957252&amp;mode=thread) that AOL is going to switch users from IE (or their own woefully behind browser) to a browser based on Gecko, the core browser engine in [Mozilla](http://www.mozilla.org). (Mozilla being the open source browser project quasi-funded by AOL/Netscape). From the article on the switch:

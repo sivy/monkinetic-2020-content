@@ -1,5 +1,6 @@
-date: 2005-03-01
+date: 2005-03-01 00:00
 slug: saving-ernst-d-bunker
+tags: ""
 title: Saving Ernst D. Bunker
 ---
 <img alt="Ernst D. Bunker" class="at-xid-6a010534988cd3970b0120a55ce4d1970b" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce4d1970b-pi" style="float:right; padding-left: 7px; padding-bottom: 4px;"/>

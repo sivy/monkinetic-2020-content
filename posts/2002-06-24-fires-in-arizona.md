@@ -1,5 +1,6 @@
-date: 2002-06-24
+date: 2002-06-24 00:00
 slug: fires-in-arizona
+tags: ""
 title: Fires in Arizona
 ---
 The "Rodeo" and "Chedeski" fires in north eastern Arizona have now eaten through [300,000 acres of high country forest](http://www.azcentral.com/news/articles/0623rimfire24-ON.html).

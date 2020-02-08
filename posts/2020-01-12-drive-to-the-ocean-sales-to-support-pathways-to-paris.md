@@ -1,4 +1,4 @@
-date: 2020-01-12 02:39:12
+date: 2020-01-12 02:39
 slug: drive-to-the-ocean-sales-to-support-pathways-to-paris
 tags: music,michaelstipe,climatechange
 title: Drive To The Ocean sales to support Pathways to Paris

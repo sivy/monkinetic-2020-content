@@ -1,5 +1,6 @@
-date: 2002-01-25
+date: 2002-01-25 00:00
 slug: idl-in-non-typed-scripting-environments
+tags: directives
 title: IDL in non-typed scripting environments
 ---
 Dave is [making a point](http://scriptingnews.userland.com/backissues/2002/01/24#l1eb33a91f4a7ab582451d453177a6603) on Scripting News regarding IDL (or in this case WSDL) for Frontier, and other non-typed scripting languages. His point is that he cannot generate at runtime the WSDL directly from the code, as can C# or Java developers - b/c their runtimes have information about the types and numbers of parameters to a call.

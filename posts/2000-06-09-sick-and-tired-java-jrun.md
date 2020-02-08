@@ -1,3 +1,6 @@
+date: 2000-06-09 00:00
+slug: sick-and-tired-java-jrun
+tags: ""
 title: Sick and Tired | Java | JRun
 ---
 *I'm sick-ish tonight. A headache and lots of tiredness is making blogging slow and groggy*.

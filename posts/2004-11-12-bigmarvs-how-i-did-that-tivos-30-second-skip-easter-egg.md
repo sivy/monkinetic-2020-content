@@ -1,5 +1,6 @@
-date: 2004-11-12
+date: 2004-11-12 00:00
 slug: bigmarvs-how-i-did-that-tivos-30-second-skip-easter-egg
+tags: ""
 title: BigMarv's How I Did That | Tivo's 30 Second Skip Easter Egg
 ---
 BigMarv's How I Did That: [Tivo's 30 Second Skip Easter Egg](http://www.bigmarv.net/how/tivo30secondskip.html):

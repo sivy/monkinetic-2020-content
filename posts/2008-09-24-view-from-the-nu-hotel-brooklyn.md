@@ -1,5 +1,6 @@
-date: 2008-09-24
+date: 2008-09-24 00:00
 slug: view-from-the-nu-hotel-brooklyn
+tags: ""
 title: View from the Nu Hotel, Brooklyn
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

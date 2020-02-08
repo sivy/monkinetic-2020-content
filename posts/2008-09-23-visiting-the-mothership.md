@@ -1,5 +1,6 @@
-date: 2008-09-23
+date: 2008-09-23 00:00
 slug: visiting-the-mothership
+tags: ""
 title: Visiting The Mothership
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

@@ -1,3 +1,6 @@
+date: 2016-10-25 00:00
+slug: lets-talk-about-fonts-baby
+tags: ""
 title: Let's Talk About Fonts, Baby
 ---
 Since I'm in a bit of the old design-mode here on the blog lately, was reading up on 

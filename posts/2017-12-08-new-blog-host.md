@@ -1,4 +1,6 @@
-date: 2017-12-08 7:00
+date: 2017-12-08 07:00
+slug: new-blog-host
+tags: ""
 title: 'New blog host: Netlify'
 ---
 I love using Gitlab to manage the source of this site. It has all the feautres of Githab *I* use, and more. I've been hosting this site on Gitlab pages, using their build system to deploy this Jekyll site for the last couple of years. But (at least in my experience) Gitlab's CI system has been unreliable, with new posts or changes often refusing to deploy properly due to worker instability. Having this uncertainty (among other things) has killed a lot of my motivation to post or work on the site. Additionally, after my [Let's Encrypt](http://letsencrypt.com) certificate expired, I fought to get Jekyll to render the challenge file properly and I was just completely frustrated.

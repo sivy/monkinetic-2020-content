@@ -1,5 +1,6 @@
-date: 2000-09-17
+date: 2000-09-17 00:00
 slug: resume-r-steven-ivy
+tags: fff,999,333
 title: 'R&eacute;sum&eacute;: R Steven Ivy'
 ---
 <style media="screen" type="text/css">&lt;!--

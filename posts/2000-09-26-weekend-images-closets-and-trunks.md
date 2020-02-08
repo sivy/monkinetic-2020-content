@@ -1,5 +1,6 @@
-date: 2000-09-26
+date: 2000-09-26 00:00
 slug: weekend-images-closets-and-trunks
+tags: ""
 title: 'Weekend Images: Closets and Trunks'
 ---
 Sorry about the orientation on some of these... I haven't had time to clean them up.   

@@ -1,4 +1,7 @@
-published: true
+date: 2017-12-13 00:00
+published: "true"
+slug: weare-social-branding
+tags: ""
 title: WeAre Social Branding
 type: post
 ---

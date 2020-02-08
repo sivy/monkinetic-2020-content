@@ -1,5 +1,6 @@
-date: 2010-01-28
+date: 2010-01-28 00:00
 slug: ipad-as-creators-platform
+tags: ""
 title: iPad As Creator's Platform
 ---
 <a href="http://apple.com/ipad" style="float: right;">

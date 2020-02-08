@@ -1,5 +1,6 @@
-date: 2009-10-24
+date: 2009-10-24 00:00
 slug: bruce-sterling-on-evaluating-posessions
+tags: ""
 title: Bruce Sterling on Evaluating Posessions
 ---
 >  He talks about clearing your life of posessions, how you should divide everything into four categories: 1. Beautiful things. 2. Things with emotional value. 3. Functional things. 4. Everything else.   

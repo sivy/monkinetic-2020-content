@@ -1,5 +1,6 @@
-date: 2004-06-05
+date: 2004-06-05 00:00
 slug: memorial-day-2004-san-deigo-day-1-la-jolla
+tags: ""
 title: 'Memorial Day 2004, San Deigo: Day 1 &  La Jolla'
 ---
 <blockquote class="callout">

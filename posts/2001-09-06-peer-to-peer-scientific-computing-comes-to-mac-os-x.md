@@ -1,5 +1,6 @@
-date: 2001-09-06
+date: 2001-09-06 00:00
 slug: peer-to-peer-scientific-computing-comes-to-mac-os-x
+tags: ""
 title: Peer-to-peer scientific computing comes to Mac OS X
 ---
 [This is so cool.](http://www.lindaspaces.com/news/news080601.html)  

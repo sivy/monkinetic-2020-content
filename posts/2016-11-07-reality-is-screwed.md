@@ -1,3 +1,6 @@
+date: 2016-11-07 00:00
+slug: reality-is-screwed
+tags: ""
 title: Reality is Screwed
 ---
 Jay Rosen, journalism professor at NYU and blogger for [PressThink](http://pressthink.org/), wrote a [fantastic piece](http://pressthink.org/2016/11/miss-bigger-missed-story-final-reflections-trump-press-2016/) about the rise of "make our own reality" politics (starting in the W. Bush White House and largely but not exclusively on the Right) and the war on objective reality as represented by Facts, devoid of spin.

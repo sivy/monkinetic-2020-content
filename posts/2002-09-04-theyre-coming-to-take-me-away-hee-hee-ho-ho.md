@@ -1,5 +1,6 @@
-date: 2002-09-04
+date: 2002-09-04 00:00
 slug: theyre-coming-to-take-me-away-hee-hee-ho-ho
+tags: ""
 title: They're coming to take me away, hee hee ho ho
 ---
 <center><a href="http://boredesign.reallybites.com/quiz/alicequiz.html" target="new">

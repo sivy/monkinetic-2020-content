@@ -1,5 +1,6 @@
-date: 2005-02-23
+date: 2005-02-23 00:00
 slug: the-closest-i-can-get
+tags: ""
 title: The Closest I Can Get...
 ---
 >  \[9:18:00 AM\] Kreg Steppe: Between the time I talked to you last, and now, I re-installed linux on my laptop.  

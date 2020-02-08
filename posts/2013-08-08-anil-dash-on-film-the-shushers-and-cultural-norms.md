@@ -1,3 +1,6 @@
+date: 2013-08-08 00:00
+slug: anil-dash-on-film-the-shushers-and-cultural-norms
+tags: ""
 title: Anil Dash on Film, the Shushers and Cultural Norms
 ---
 Oh, my, [Anil](http://dashes.com/anil/). I do love your writing so much.

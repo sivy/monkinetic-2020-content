@@ -1,5 +1,6 @@
-date: 2008-09-24
+date: 2008-09-24 00:00
 slug: 6a-nyc-dinner
+tags: ""
 title: 6A NYC Dinner
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

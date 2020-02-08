@@ -1,5 +1,6 @@
-date: 2002-02-02
+date: 2002-02-02 00:00
 slug: fonts-on-my-mind
+tags: ""
 title: Fonts on my mind...
 ---
 <img align="right" border="0" src="https://media.redmonk.net/images/Typetease.gif"/>

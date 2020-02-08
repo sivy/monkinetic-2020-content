@@ -1,5 +1,6 @@
-date: 2001-03-02
+date: 2001-03-02 00:00
 slug: speaking-of-threaded-discussion
+tags: ""
 title: Speaking of Threaded Discussion....
 ---
 [BlackSmith](http://www.blacksmith.com) has what appears to be a [really cool outline-style component](http://www.blacksmith.com/ebusiness/20_comp.html). Now if I could only find a download link...

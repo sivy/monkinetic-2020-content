@@ -1,5 +1,7 @@
 date: 2016-10-28 14:00
 excerpt_separator: <!--more-->
+slug: amnesiac-assassin
+tags: ""
 title: Remember that one about the amnesiac assassin gone good?
 ---
 You know, the one where they slowly get their memories back, and drag some poor nearly helpless sidekick around while killing bad guys and making things right?

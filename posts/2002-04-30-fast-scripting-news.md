@@ -1,5 +1,6 @@
-date: 2002-04-30
+date: 2002-04-30 00:00
 slug: fast-scripting-news
+tags: ""
 title: Fast Scripting News
 ---
 <img align="right" border="1" src="https://media.redmonk.net/images/snFast.jpg"/>

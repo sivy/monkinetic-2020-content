@@ -1,5 +1,8 @@
+date: 2009-11-20 00:00
 excerpt: It feels weird, bittersweet, and even a bit freeing to be letting go of this  long-time
   part of my digital identity.
+slug: unbecoming-redmonk
+tags: ""
 title: Un-becoming Redmonk
 ---
 It's been 11 years since I "became" redmonk, when I registered 

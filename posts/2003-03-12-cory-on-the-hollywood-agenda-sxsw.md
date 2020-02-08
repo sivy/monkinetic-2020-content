@@ -1,5 +1,6 @@
-date: 2003-03-12
+date: 2003-03-12 00:00
 slug: cory-on-the-hollywood-agenda-sxsw
+tags: ""
 title: Cory on The Hollywood Agenda @ SXSW
 ---
 <div style="float:right"></div>

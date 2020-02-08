@@ -1,5 +1,6 @@
-date: 2003-04-30
+date: 2003-04-30 00:00
 slug: fire-im-scoble
+tags: ""
 title: Fire, IM, Scoble
 ---
 So Scoble says:quoteOf course, you're welcome to tell me "you suck" via email anytime.endquote

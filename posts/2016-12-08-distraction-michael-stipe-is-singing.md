@@ -1,3 +1,6 @@
+date: 2016-12-08 00:00
+slug: distraction-michael-stipe-is-singing
+tags: ""
 title: 'Distraction #264, Michael Stipe is singing'
 ---
 A distraction from life, from [Tourfilm (1990)](http://www.imdb.com/title/tt0163349/):  

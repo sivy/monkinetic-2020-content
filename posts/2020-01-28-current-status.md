@@ -1,6 +1,6 @@
-date: 2020-01-28 02:32:44
+date: 2020-01-28 02:32
 slug: current-status
-tags: null
+tags: ""
 title: Current Status
 ---
 One of those days

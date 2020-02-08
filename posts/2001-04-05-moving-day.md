@@ -1,5 +1,6 @@
-date: 2001-04-05
+date: 2001-04-05 00:00
 slug: moving-day
+tags: ""
 title: Moving Day
 ---
 Well, I haven't been updating this site very often lately... been super busy at work, and at home. Today we (work mates) moved from our old offices (big space, mini-kitchen, large offices) into the new, nice, cubicle-rife space that is the new Compass office. *sigh*. Now working in a mini cube-farm, we're relegated to headphone use (where before we  each had booming sub-woofers ;-)), and smaller work areas.

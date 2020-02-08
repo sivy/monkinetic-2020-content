@@ -1,5 +1,6 @@
-date: 2002-08-09
+date: 2002-08-09 00:00
 slug: we-can-reach-our-destination
+tags: ""
 title: We Can Reach Our Destination
 ---
 [Driver 8](http://www.geocities.com/mmeyer_hermann/Driver8.html):

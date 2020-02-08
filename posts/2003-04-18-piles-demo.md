@@ -1,5 +1,6 @@
-date: 2003-04-18
+date: 2003-04-18 00:00
 slug: piles-demo
+tags: ""
 title: Piles demo
 ---
 rdiv_start<a href="http://homepage.mac.com/rdas7/piles.html"><img --="--" src="&lt;!--#enclosure linkonly=" true"='true"' urlonly="true"/>" border="0"&gt;</a>

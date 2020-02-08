@@ -1,5 +1,6 @@
-date: 2005-03-04
+date: 2005-03-04 00:00
 slug: camino-firefox-on-mac-os-x
+tags: ""
 title: Camino, Firefox on Mac OS X
 ---
 Josh Aas: [Camino, Firefox on Mac OS X, and My MF Employment](http://weblogs.mozillazine.org/josh/archives/2005/02/camino_firefox.html/):

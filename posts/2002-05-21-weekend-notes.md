@@ -1,5 +1,6 @@
-date: 2002-05-21
+date: 2002-05-21 00:00
 slug: weekend-notes
+tags: ""
 title: Weekend Notes
 ---
 Jim was here for the weekend, and we had a blast!!! Some highlights:

@@ -1,5 +1,6 @@
-date: 2003-05-18
+date: 2003-05-18 00:00
 slug: shaolin-soccer
+tags: ""
 title: Shaolin Soccer
 ---
 The Stephen Chow Hong Kong action-comedy [Shaolin Soccer](http://www.apple.com/trailers/miramax/shaolin_soccer-tlr2.html) looks absolutely hysterical. Coming to the states in August. Whee!

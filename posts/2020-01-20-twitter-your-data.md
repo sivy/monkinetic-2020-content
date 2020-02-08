@@ -1,7 +1,7 @@
-title: Twitter: "Your" Data?
+date: 2020-01-20 00:00
 slug: twitter-your-data
-date: 2020-01-20 02:42:37
-tags: 
+tags: ""
+title: ""
 ---
 Twitter > Profile > Privacy and safety > Personalization and data > Data > See your Twitter data > Download an archive of your data:
 

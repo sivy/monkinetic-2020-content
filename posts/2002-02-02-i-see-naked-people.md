@@ -1,5 +1,6 @@
-date: 2002-02-02
+date: 2002-02-02 00:00
 slug: i-see-naked-people
+tags: ""
 title: I see naked people!
 ---
 [As The Apple Turns](http://www.appleturns.com/) comments on [reports](http://www.salon.com/mwt/wire/2001/12/07/school_computers/index.html?x) that High Schoolers in Henrico County VA were caught using their new iBooks to download porn:

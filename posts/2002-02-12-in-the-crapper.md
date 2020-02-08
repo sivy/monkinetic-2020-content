@@ -1,5 +1,6 @@
-date: 2002-02-12
+date: 2002-02-12 00:00
 slug: in-the-crapper
+tags: ""
 title: In the crapper
 ---
 A friend who will remain anonymous just wrote me:

@@ -1,5 +1,6 @@
-date: 2007-08-25
+date: 2007-08-25 00:00
 slug: happy-independence-day-ukraine
+tags: ccc
 title: Happy Independence Day, Ukraine!
 ---
 <img alt="kiev_independence_day" class="at-xid-6a010534988cd3970b0120a5b36603970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36603970c-pi" style="float:right; margin:0 0 8px 8px; padding:1px; border:1px solid #ccc;"/>

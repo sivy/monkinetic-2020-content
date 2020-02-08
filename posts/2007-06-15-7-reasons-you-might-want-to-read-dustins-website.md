@@ -1,5 +1,6 @@
-date: 2007-06-15
+date: 2007-06-15 00:00
 slug: 7-reasons-you-might-want-to-read-dustins-website
+tags: ""
 title: 7 Reasons you might want to read Dustin's website
 ---
 1. **It's called [Bajooter](http://bajooter.com/)**. How cool is that name?

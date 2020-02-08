@@ -1,5 +1,6 @@
-date: 2002-04-29
+date: 2002-04-29 00:00
 slug: dumbfounded-apple-does-it-again
+tags: ""
 title: Dumbfounded. Apple Does It Again
 ---
 Wow. [Apple](http://www.apple.com)'s introduced new [Powerbooks](http://www.apple.com/powerbook/) again: <li>800 mhz G4 with 1mb L3 cache</li>

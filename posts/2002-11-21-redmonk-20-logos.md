@@ -1,5 +1,6 @@
-date: 2002-11-21
+date: 2002-11-21 00:00
 slug: redmonk-20-logos
+tags: ""
 title: Redmonk 2.0 Logos
 ---
 <img --="--" linkonly="true" logo_red.gif"='logo_red.gif"' msgnum="1577" src="&lt;!--#enclosure filename=" urlonly="true"/>

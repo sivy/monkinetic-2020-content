@@ -1,3 +1,5 @@
+date: 2016-10-29 00:00
+slug: an-accounting-of-the-accountant
 tags: movies
 title: An accounting of The Accountant
 ---

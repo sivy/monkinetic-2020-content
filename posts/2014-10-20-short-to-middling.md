@@ -1,4 +1,6 @@
 date: 2014-10-20 20:45
+slug: short-to-middling
+tags: ""
 title: Short To Middling
 ---
 Gina Tripani posted her thoughts on what she calls [short-form blogging](http://scribbling.net/2014/10/16/short-form-blogging/).

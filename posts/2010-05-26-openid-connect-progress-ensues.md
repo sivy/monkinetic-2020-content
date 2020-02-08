@@ -1,5 +1,6 @@
-date: 2010-05-26
+date: 2010-05-26 00:00
 slug: openid-connect-progress-ensues
+tags: ""
 title: 'OpenID Connect: Progress Ensues, Challenges Remain'
 ---
 <a href="http://paulmadsen.posterous.com/new-line-of-greeting-cards-iiw" style="display:block; text-align:center">

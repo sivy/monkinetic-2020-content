@@ -1,7 +1,7 @@
-title: Goldfrog Progress: Twitter cross-posting working
+date: 2020-01-09 00:00
 slug: goldfrog-progress-twitter-cross-posting-working
-date: 2020-01-09 05:13:28
-tags: twitter,goldfrog,crossposting,blogging,golang
+tags: ""
+title: ""
 ---
 I finally got cross-posting to twitter working:
 

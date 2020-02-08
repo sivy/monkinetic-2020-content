@@ -1,5 +1,6 @@
-date: 2007-09-11
+date: 2007-09-11 00:00
 slug: back-from-the-far-east
+tags: ccc
 title: Back from the Far East
 ---
 <img alt="anna" class="at-xid-6a010534988cd3970b0120a5b36c06970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36c06970c-pi" style="float:right; margin:0 0 8px 8px; padding:1px; border:1px solid #ccc;"/>

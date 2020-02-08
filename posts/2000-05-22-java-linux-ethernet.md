@@ -1,5 +1,6 @@
-date: 2000-05-22
+date: 2000-05-22 00:00
 slug: java-linux-ethernet
+tags: ""
 title: Java, Linux, Ethernet
 ---
 Man. It's been toooooooo long. I'm finally wrapping up the interminable freelance job, and I realized (actually my wife reminded me) that I haven't blogged here in ages. This had to be fixed!

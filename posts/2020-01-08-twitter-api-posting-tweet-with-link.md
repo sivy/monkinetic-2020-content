@@ -1,7 +1,7 @@
-title: Twitter API: Posting Tweet with link
+date: 2020-01-08 00:00
 slug: twitter-api-posting-tweet-with-link
-date: 2020-01-08 08:20:26
-tags: twitter,api,goldfrog
+tags: goldfrog
+title: ""
 ---
 What is the difference between this:
 

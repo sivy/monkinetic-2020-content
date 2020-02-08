@@ -1,4 +1,4 @@
-date: 2020-01-11 07:44:30
+date: 2020-01-11 07:44
 slug: tokyo-after-dark
 tags: twitter,tokyo,art,photography
 title: Tokyo After Dark

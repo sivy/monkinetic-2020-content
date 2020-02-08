@@ -1,5 +1,6 @@
-date: 2008-10-08
+date: 2008-10-08 00:00
 slug: leaving-new-york
+tags: ""
 title: Leaving New York
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

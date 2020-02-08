@@ -1,7 +1,7 @@
-title: Early Twitter
+date: 2020-01-09 00:00
 slug: early-twitter
-date: 2020-01-09 02:39:41
-tags: ,twitter
+tags: ""
+title: ""
 ---
 Jack Dorsey's original sketch that spawned "twttr":
 

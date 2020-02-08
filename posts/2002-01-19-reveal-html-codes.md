@@ -1,5 +1,6 @@
-date: 2002-01-19
+date: 2002-01-19 00:00
 slug: reveal-html-codes
+tags: ""
 title: Reveal [HTML] Codes
 ---
 Via [more like this](http://www.whump.com/moreLikeThis/link/02561), a good explanation of why HTML clicked for me, and later on, for Jodi. "In WordPerfect you could "reveal codes" and fix things that weren't quite right.

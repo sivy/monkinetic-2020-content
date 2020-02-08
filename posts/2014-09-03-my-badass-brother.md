@@ -1,4 +1,6 @@
 date: 2014-09-03 12:18
+slug: my-badass-brother
+tags: ""
 title: My brother is a badass
 ---
 My brother designs and creates graphics for trade show booths and TV backdrops. On a recent project for the US Army, his backdrop mural (all CG and photo compsiting) triggered an interesting legal reaction...

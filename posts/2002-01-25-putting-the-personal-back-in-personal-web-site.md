@@ -1,5 +1,6 @@
-date: 2002-01-25
+date: 2002-01-25 00:00
 slug: putting-the-personal-back-in-personal-web-site
+tags: ""
 title: Putting the personal back in &quot;personal web site&quot;
 ---
 Dave linked to my comment about IDL in non-typed scripting environments, which is cool. I know I've gotten 50 or so hits from it. The link is appreciated - flow is nice. But I'd also like to know what Dave thinks of my idea, since it's relevant to his work and that of others in the scripting community.

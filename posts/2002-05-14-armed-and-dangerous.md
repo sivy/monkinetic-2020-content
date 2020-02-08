@@ -1,5 +1,6 @@
-date: 2002-05-14
+date: 2002-05-14 00:00
 slug: armed-and-dangerous
+tags: ""
 title: Armed and Dangerous
 ---
 [Eric S. "Got me a blog and I'm not afraid to use it" Raymond](http://armedndangerous.blogspot.com/):

@@ -1,5 +1,6 @@
-date: 2000-11-08
+date: 2000-11-08 00:00
 slug: world-leader-pretend
+tags: ""
 title: World Leader Pretend
 ---
 In honor of today's US elections:  

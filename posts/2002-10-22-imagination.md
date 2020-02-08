@@ -1,5 +1,6 @@
-date: 2002-10-22
+date: 2002-10-22 00:00
 slug: imagination
+tags: ""
 title: Imagination
 ---
 [David McCusker](http://www.treedragon.com/ged/map/ti/new.htm) gave me a plug yesterday:

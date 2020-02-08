@@ -1,5 +1,6 @@
-date: 2002-01-30
+date: 2002-01-30 00:00
 slug: coffee-cups-and-conversant
+tags: ""
 title: Coffee Cups and Conversant
 ---
 Dave [points](http://scriptingnews.userland.com/backissues/2002/01/29#l432ca3452e712ebcef18ca9bbc2339ea) to my coffee cup radioFeedIcon. It was really easy to do with Conversant's [Resources](http://support.free-conversant.com/877). I just put \radioFeedIcon\ in my template or message.

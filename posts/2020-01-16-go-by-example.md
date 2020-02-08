@@ -1,7 +1,7 @@
-title: Go By Example
+date: 2020-01-16 00:00
 slug: go-by-example
-date: 2020-01-16 06:33:29
-tags: ,golang,newbie,documentation
+tags: newbie,documentation
+title: ""
 ---
 [Go By Example](https://gobyexample.com) might be one of the best getting-started resource I've ever seen for a programming language.
 

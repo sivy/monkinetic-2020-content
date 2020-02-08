@@ -1,5 +1,6 @@
-date: 2002-02-05
+date: 2002-02-05 00:00
 slug: next-turbo
+tags: ""
 title: NeXT Turbo
 ---
 <img align="right" border="1" height="60" src="https://media.redmonk.net/images/nextStation.gif" width="80"/>

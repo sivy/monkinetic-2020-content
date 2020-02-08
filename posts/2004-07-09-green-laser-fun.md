@@ -1,5 +1,6 @@
-date: 2004-07-09
+date: 2004-07-09 00:00
 slug: green-laser-fun
+tags: ""
 title: Green Laser Fun
 ---
 Gadget Madness [reviews the Green Laser Pointer](http://www.gadgetmadness.com/archives/20040706-review_green_laser_pointer_ii_from_thinkgeek.php) from [ThinkGeek](http://www.thinkgeek.com/):

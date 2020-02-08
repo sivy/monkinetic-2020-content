@@ -1,7 +1,8 @@
-categories: null
-comments: true
+categories: ""
+comments: "true"
 date: 2011-12-14 14:12
 slug: the-daring-fireball-app
+tags: ""
 title: The Daring Fireball App
 ---
 &gt; Maybe someday there will be a Daring Fireball app, but I still haven't thought

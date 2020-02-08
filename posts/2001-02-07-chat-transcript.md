@@ -1,5 +1,6 @@
-date: 2001-02-07
+date: 2001-02-07 00:00
 slug: chat-transcript
+tags: ""
 title: Chat Transcript
 ---
 <font face="Verdana, Arial, Helvetica, sans-serif" size="-1"><b><font color="#ff0000">monkinetic</font>:</b>

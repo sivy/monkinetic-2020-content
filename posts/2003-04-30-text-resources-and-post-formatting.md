@@ -1,8 +1,9 @@
-slug: text-resources-and-post-formatting
-date: 2003-04-30
-title: Text Resources and Post Formatting
+date: 2003-04-30 00:00
 layout: post
-
+slug: text-resources-and-post-formatting
+tags: ""
+title: Text Resources and Post Formatting
+---
 I recently found a solution to a problem that had been bugging me for some time.
 
 Conversant has this really cool email gateway - all posts to this site go out to anyone who is subscribed to the site and has the list feature turned on.

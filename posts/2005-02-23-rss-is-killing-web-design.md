@@ -1,5 +1,6 @@
-date: 2005-02-23
+date: 2005-02-23 00:00
 slug: rss-is-killing-web-design
+tags: ""
 title: RSS is Killing Web Design
 ---
 <a href="http://stopdesign.com"><img alt="" class="at-xid-6a010534988cd3970b0120a5b3613d970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3613d970c-pi" style="float:right; padding-left:7px; border:none;"/></a>

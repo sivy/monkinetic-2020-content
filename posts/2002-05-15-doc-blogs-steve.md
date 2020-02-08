@@ -1,5 +1,6 @@
-date: 2002-05-15
+date: 2002-05-15 00:00
 slug: doc-blogs-steve
+tags: ""
 title: Doc blogs Steve
 ---
 Doc Searls is [blogging](http://doc.weblogs.com/2002/05/14#liveSteve) the 'Stevent' live.

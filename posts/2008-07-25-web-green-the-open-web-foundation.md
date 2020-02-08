@@ -1,5 +1,6 @@
-date: 2008-07-25
+date: 2008-07-25 00:00
 slug: web-green-the-open-web-foundation
+tags: ""
 title: 'Web Green: The Open Web Foundation'
 ---
 <a href="http://openwebfoundation.org/" style="display:block; text-align:center">

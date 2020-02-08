@@ -1,5 +1,6 @@
-date: 2000-12-13
+date: 2000-12-13 00:00
 slug: morning-links
+tags: ""
 title: Morning Links
 ---
 Wes Felter ponts us to [xplanet](http://xplanet.sourceforge.net/), which puts an image of the earth on your Linux desktop. Cool? Not close - it also lets you rotate the globe, and update the cloud maps on the fly. Now _that's_ cool.

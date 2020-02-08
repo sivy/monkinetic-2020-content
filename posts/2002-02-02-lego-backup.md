@@ -1,5 +1,6 @@
-date: 2002-02-02
+date: 2002-02-02 00:00
 slug: lego-backup
+tags: ""
 title: Lego Backup
 ---
 Hey [nullgel](http://www.nullgel.com), get a load of this:

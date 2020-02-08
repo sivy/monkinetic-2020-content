@@ -1,5 +1,6 @@
-date: 2004-09-10
+date: 2004-09-10 00:00
 slug: report-from-the-intel-community
+tags: ""
 title: Report From the Intel Community
 ---
 ongoing: [Report From the Intel Community](http://www.tbray.org/ongoing/When/200x/2004/09/09/Intel)

@@ -1,5 +1,6 @@
-date: 2009-07-28
+date: 2009-07-28 00:00
 slug: morning-ride
+tags: ""
 title: Morning Ride
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;"><a href="http://redmonk.net/assets_c/2009/07/My Trail Runner.trail-154" onclick="window.open('http://redmonk.net/assets_c/2009/07/My Trail Runner.trail-154','popup','width=471,height=378,scrollbars=no,resizable=no,toolbar=no,directories=no,location=no,menubar=no,status=no,left=0,top=0'); return false">

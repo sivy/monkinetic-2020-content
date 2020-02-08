@@ -1,4 +1,7 @@
-published: true
+date: 2017-12-24 00:00
+published: "true"
+slug: and-now-for-something-completely-different
+tags: ""
 title: And Now for Something Completely Different
 type: post
 ---

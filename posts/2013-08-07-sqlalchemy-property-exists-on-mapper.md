@@ -1,3 +1,6 @@
+date: 2013-08-07 00:00
+slug: sqlalchemy-property-exists-on-mapper
+tags: ""
 title: 'SqlAlchemy Relationship Error: ''property of that name exists on mapper'''
 ---
 ### The Setup

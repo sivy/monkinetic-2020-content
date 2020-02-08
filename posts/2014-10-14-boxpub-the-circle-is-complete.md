@@ -1,4 +1,6 @@
 date: 2014-10-14 08:27
+slug: boxpub-the-circle-is-complete
+tags: ""
 title: 'boxpub: The circle is complete'
 ---
 My new blog software - [boxpub](https://github.com/sivy), which runs this site - got a new feature last night. Fairly recently, Dropbox implemented webhooks for applications, so I added two simple webhook handlers (for the verification step and the data step). How am I using this?

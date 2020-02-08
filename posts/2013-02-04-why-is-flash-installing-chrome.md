@@ -1,3 +1,6 @@
+date: 2013-02-04 00:00
+slug: why-is-flash-installing-chrome
+tags: ""
 title: Why is Adobe Flash Installing Google Chrome?
 ---
 So, like a sheep, I install the latest Adobe Flash (bleagh) this morning so I can watch the Superb Owl Iron Man 3 commercial, since Adobe's being a snot and pigging backing on the Superb Owl's popularity to get more Flash installs out there, and I see this:

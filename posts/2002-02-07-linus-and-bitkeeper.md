@@ -1,5 +1,6 @@
-date: 2002-02-07
+date: 2002-02-07 00:00
 slug: linus-and-bitkeeper
+tags: ""
 title: Linus and BitKeeper
 ---
 Linus Torvalds (if you care about this post you'll know who he is) has finally [started using](http://groups.google.com/groups?hl=en&amp;selm=Pine.LNX.4.31.0202051928330.2375-100000%40cesium.transmeta.com) [BitKeeper](http://bitkeeper.com/), which according to my conversation with Wes was explicitly designed to his specifications as a source-control tool. He has historically avoided any sort of source-control (eg CVS), which is really ironic if you think about it [[/.](http://slashdot.org/)]

@@ -1,5 +1,6 @@
-date: 2002-12-05
+date: 2002-12-05 00:00
 slug: radio-v-netnewswire
+tags: ""
 title: Radio v. NetNewsWire
 ---
 Dave on NetNewsWire's recent support for scripting:

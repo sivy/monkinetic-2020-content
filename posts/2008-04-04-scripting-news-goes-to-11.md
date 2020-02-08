@@ -1,5 +1,6 @@
-date: 2008-04-04
+date: 2008-04-04 00:00
 slug: scripting-news-goes-to-11
+tags: ""
 title: Scripting News Goes To 11
 ---
 <img class="at-xid-6a010534988cd3970b0120a55ce94d970b" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a55ce94d970b-pi" style="float:right; margin:0 0 8px 8px;"/>

@@ -1,5 +1,6 @@
-date: 2002-03-15
+date: 2002-03-15 00:00
 slug: whose-responsibility-is-it
+tags: ""
 title: Whose responsibility is it?
 ---
 Andrew Grove [responds to Hollywood](http://www.nytimes.com/2002/03/14/technology/14PROT.html):

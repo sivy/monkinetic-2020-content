@@ -1,5 +1,6 @@
-date: 2002-11-07
+date: 2002-11-07 00:00
 slug: netnewswire-lite-102b5
+tags: ""
 title: NetNewsWire Lite 1.0.2b5
 ---
 Brent just keeps crankin' 'em out...

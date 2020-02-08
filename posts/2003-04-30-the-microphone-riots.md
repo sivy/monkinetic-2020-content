@@ -1,5 +1,6 @@
-date: 2003-04-30
+date: 2003-04-30 00:00
 slug: the-microphone-riots
+tags: ""
 title: The Microphone Riots
 ---
 rdiv_start![](https://davidsleigh.com.previewmysite.com/images/festivalCD.jpg)

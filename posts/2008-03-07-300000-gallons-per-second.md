@@ -1,5 +1,6 @@
-date: 2008-03-07
+date: 2008-03-07 00:00
 slug: 300000-gallons-per-second
+tags: ""
 title: 300,000 gallons per second
 ---
 <a href="http://redmonk.net/archives/2008/03/06/300000-gallons-per-second/what-300000-gallons-per-second-looks-like/" rel="attachment wp-att-2690" title="What 300,000 gallons per second looks like">

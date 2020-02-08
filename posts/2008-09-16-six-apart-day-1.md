@@ -1,5 +1,6 @@
-date: 2008-09-16
+date: 2008-09-16 00:00
 slug: six-apart-day-1
+tags: ""
 title: Six Apart, Day 1
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

@@ -1,5 +1,6 @@
-date: 2002-03-13
+date: 2002-03-13 00:00
 slug: politics-blogs-and-fear
+tags: ""
 title: Politics, Blogs, and Fear
 ---
 More from [Cam at SXSW](http://www.camworld.com/journal/2002/03/#12):

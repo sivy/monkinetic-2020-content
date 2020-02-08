@@ -1,4 +1,4 @@
-date: 2017-12-22 12:00:00
+date: 2017-12-22 12:00
 slug: chris-krycho-chrome-is-not-the-standard
 tags: webdevelopment,google,webnerds
 title: 'Chris Krycho: Chrome is not the Standard'

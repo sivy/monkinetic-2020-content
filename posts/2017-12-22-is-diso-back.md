@@ -1,7 +1,7 @@
-title: Is DiSo Back?
+date: 2017-12-22 00:00
 slug: is-diso-back
-date: 2017-12-22 12:00:00
-tags: ,DiSo,silo
+tags: diso,silo
+title: ""
 ---
 Kevin Marks asks "[is DiSo back?](http://known.kevinmarks.com/2017/diso-is-back-im-wearing-my-social-graph-foo-camp)" I hadn't thought about it, but...
 

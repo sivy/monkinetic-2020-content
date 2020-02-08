@@ -1,5 +1,6 @@
-date: 2002-01-15
+date: 2002-01-15 00:00
 slug: aw-i-wanted-to-be-bono
+tags: ""
 title: Aw, I wanted to be Bono
 ---
 <table><td><center><a href="http://www.spacetowns.com/tests/test.htm"><img alt="Adam" border="0" src="https://www.spacetowns.com/tests/adam.jpg"/></a></center>

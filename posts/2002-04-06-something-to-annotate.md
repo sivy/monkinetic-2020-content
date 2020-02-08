@@ -1,5 +1,6 @@
-date: 2002-04-06
+date: 2002-04-06 00:00
 slug: something-to-annotate
+tags: ""
 title: Something To Annotate
 ---
 Esther Dyson is quoted on [Evhead](http://www.evhead.com/archives/2002_04_01_arch.asp#75083885):

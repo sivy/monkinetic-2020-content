@@ -1,5 +1,6 @@
-date: 2010-02-05
+date: 2010-02-05 00:00
 slug: i-would-so-watch-this-show-rat-pack-oceans-11-meets-sci-fi-heck-yeah
-title: null
+tags: ""
+title: ""
 ---
-I would SO watch this show. Rat Pack / Ocean's 11 meets Sci-Fi. Heck yeah!  
+I would SO watch this show. Rat Pack / Ocean's 11 meets Sci-Fi. Heck yeah!

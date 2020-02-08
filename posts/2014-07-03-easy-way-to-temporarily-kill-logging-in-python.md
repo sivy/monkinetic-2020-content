@@ -1,6 +1,8 @@
 date: 2014-07-03 14:28
 excerpt: Ever want to just turn off that logger for a while in Python? Maybe while
   running tests or debugging?  Even the CRITICAL messages?
+slug: easy-way-to-temporarily-kill-logging-in-python
+tags: ""
 title: Easy way to temporarily kill logging in Python
 ---
 Ever want to just turn off that logger for a while in Python? Maybe while running tests or debugging? Even the CRITICAL messages?

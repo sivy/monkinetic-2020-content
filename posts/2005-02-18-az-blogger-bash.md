@@ -1,5 +1,6 @@
-date: 2005-02-18
+date: 2005-02-18 00:00
 slug: az-blogger-bash
+tags: ""
 title: AZ Blogger Bash!
 ---
 <a href="http://homepage.mac.com/iblog/aznybbq.html"><img class="at-xid-6a010534988cd3970b0120a5b367f8970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b367f8970c-pi" style="float:right; padding-left:8px; padding-bottom:4px;"/></a>

@@ -1,5 +1,6 @@
-date: 2004-05-20
+date: 2004-05-20 00:00
 slug: design-eye-for-the-usability-guy
+tags: ""
 title: Design Eye for the Usability Guy
 ---
 Design by Fire: [Design Eye for the Usability Guy](http://www.designbyfire.com/000094.html)

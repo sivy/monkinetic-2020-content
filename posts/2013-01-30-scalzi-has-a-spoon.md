@@ -1,3 +1,6 @@
+date: 2013-01-30 00:00
+slug: scalzi-has-a-spoon
+tags: ""
 title: I Don't Even Know Why This Exists, But It Does And It's In My House And I Have
   a Spoon
 ---

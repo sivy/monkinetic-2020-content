@@ -1,7 +1,7 @@
-title: Back towards the IndieWeb
+date: 2020-01-08 00:00
 slug: back-towards-the-indieweb
-date: 2020-01-08 01:25:24
-tags: ,indieweb,goldfrog
+tags: indieweb,goldfrog
+title: ""
 ---
 Another aspect to creating my own blogging software: I can finally start implementing some of #indieweb principles I've been watching for a while.
 

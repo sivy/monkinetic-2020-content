@@ -1,5 +1,6 @@
-date: 2003-09-03
+date: 2003-09-03 00:00
 slug: in-which-case
+tags: ""
 title: In which case...
 ---
 [Eric Meyer went and saw](http://www.meyerweb.com/eric/thoughts/2003c.html#t20030901) Weird Al Yankovic...

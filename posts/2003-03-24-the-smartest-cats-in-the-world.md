@@ -1,5 +1,6 @@
-date: 2003-03-24
+date: 2003-03-24 00:00
 slug: the-smartest-cats-in-the-world
+tags: ""
 title: The Smartest Cats in The World
 ---
 <div style="float:right; font-face:Geneva; font-size:small;margin:3px;"><br/> Toby &amp; Lucy, looking harmless. Ha!</div>

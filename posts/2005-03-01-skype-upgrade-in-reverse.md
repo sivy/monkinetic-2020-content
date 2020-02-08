@@ -1,5 +1,6 @@
-date: 2005-03-01
+date: 2005-03-01 00:00
 slug: skype-upgrade-in-reverse
+tags: ""
 title: 'Skype: Upgrade in reverse'
 ---
 [kevindevin.com In the Trenches - Tech Chat - 02-26-2005](http://kevindevin.com/index.php?p=90):

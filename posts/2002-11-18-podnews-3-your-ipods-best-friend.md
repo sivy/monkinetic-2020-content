@@ -1,5 +1,6 @@
-date: 2002-11-18
+date: 2002-11-18 00:00
 slug: podnews-3-your-ipods-best-friend
+tags: ""
 title: 'PodNews 3: Your iPod''s best friend'
 ---
 Mmmm, an RSS news aggregator for your [iPod](http://www.apple.com/ipod).

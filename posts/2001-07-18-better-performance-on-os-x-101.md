@@ -1,5 +1,6 @@
-date: 2001-07-18
+date: 2001-07-18 00:00
 slug: better-performance-on-os-x-101
+tags: ""
 title: Better Performance on OS X 10.1
 ---
 Mac OS X 10.1 debuts at Macworld Expo today. From MacNN:

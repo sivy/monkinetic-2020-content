@@ -2,6 +2,8 @@ date: 2016-11-07 16:00
 excerpt: 'Elizabeth Bonesteel tweeted about Star Trek: Into Darkness, to which I will
   not link, nor which will I right now discuss.'
 post-img: http://i.imgur.com/hbijZDG.jpg
+slug: feeling-wrath-of-khan
+tags: ""
 title: Wrath of Khan Feels
 ---
 [Elizabeth Bonesteel](https://twitter.com/liz_monster) tweeted about Star Trek: Into Darkness, to which I will not link, nor which will I discuss right now:

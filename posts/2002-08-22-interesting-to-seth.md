@@ -1,5 +1,6 @@
-date: 2002-08-22
+date: 2002-08-22 00:00
 slug: interesting-to-seth
+tags: ""
 title: Interesting to Seth ;)
 ---
 I was emailing with Seth this afternoon about the link traffic our  respective sites get, and he commented:

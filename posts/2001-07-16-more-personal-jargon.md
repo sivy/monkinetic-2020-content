@@ -1,5 +1,6 @@
-date: 2001-07-16
+date: 2001-07-16 00:00
 slug: more-personal-jargon
+tags: ""
 title: More personal Jargon
 ---
 [Wittenspeak](http://www.torsion.org/wittenspeak/): 

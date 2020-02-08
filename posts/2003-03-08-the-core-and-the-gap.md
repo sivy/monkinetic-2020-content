@@ -1,5 +1,6 @@
-date: 2003-03-08
+date: 2003-03-08 00:00
 slug: the-core-and-the-gap
+tags: ""
 title: The Core and The Gap
 ---
 <div style="float:right"></div>

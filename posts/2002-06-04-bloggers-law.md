@@ -1,5 +1,6 @@
-date: 2002-06-04
+date: 2002-06-04 00:00
 slug: bloggers-law
+tags: ""
 title: Blogger's Law
 ---
 Courtesy of the unix quote-spewing utility _fortune_:

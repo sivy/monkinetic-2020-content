@@ -1,5 +1,6 @@
-date: 2004-05-25
+date: 2004-05-25 00:00
 slug: wiggle-your-big-toe
+tags: ""
 title: Wiggle your big toe...
 ---
 The nuclear moose: [Wiggle your big toe...](http://blog.nuclearmoose.com/archives/2004/05/24/wiggle-your-big-toe/)

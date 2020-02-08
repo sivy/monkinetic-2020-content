@@ -1,5 +1,6 @@
-date: 2009-11-23
+date: 2009-11-23 00:00
 slug: my-desk-at-home-now
+tags: ""
 title: My desk at home now.
 ---
 My desk at home now.

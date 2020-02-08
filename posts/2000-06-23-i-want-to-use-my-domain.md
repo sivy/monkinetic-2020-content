@@ -1,3 +1,6 @@
+date: 2000-06-23 00:00
+slug: i-want-to-use-my-domain
+tags: ""
 title: I want to use my domain!
 ---
 I really want to use my domain. I own 

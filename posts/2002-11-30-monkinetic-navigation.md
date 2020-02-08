@@ -1,5 +1,6 @@
-date: 2002-11-30
+date: 2002-11-30 00:00
 slug: monkinetic-navigation
+tags: ""
 title: Monkinetic Navigation
 ---
 <div class="subhead">Channels</div>

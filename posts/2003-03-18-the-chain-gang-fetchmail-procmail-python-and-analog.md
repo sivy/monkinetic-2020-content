@@ -1,5 +1,6 @@
-date: 2003-03-18
+date: 2003-03-18 00:00
 slug: the-chain-gang-fetchmail-procmail-python-and-analog
+tags: ""
 title: 'The Chain Gang: fetchmail, procmail, python, and analog'
 ---
 <style>

@@ -1,5 +1,6 @@
-date: 2003-01-10
+date: 2003-01-10 00:00
 slug: rip-mix-burn
+tags: ""
 title: Rip. Mix. Burn.
 ---
 Currently ripping:

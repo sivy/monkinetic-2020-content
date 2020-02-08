@@ -1,5 +1,6 @@
-date: 2001-03-03
+date: 2001-03-03 00:00
 slug: web-free-blog-post
+tags: ""
 title: Web-Free Blog Post!
 ---
 "Seth" and gang at Macrobyte have made the [Mail-To-Blog feature](http://support.free-conversant.com/2362 )

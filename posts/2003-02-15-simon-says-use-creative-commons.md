@@ -1,5 +1,6 @@
-date: 2003-02-15
+date: 2003-02-15 00:00
 slug: simon-says-use-creative-commons
+tags: ""
 title: Simon Says use Creative Commons
 ---
 <div style="float:right"></div>

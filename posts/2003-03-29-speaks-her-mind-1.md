@@ -1,5 +1,6 @@
-date: 2003-03-29
+date: 2003-03-29 00:00
 slug: speaks-her-mind-1
+tags: ""
 title: Speaks Her Mind
 ---
 Jodi has been posting more and more lately to her site. She's becoming quite the blogger. I knew it was inevitable when I heard her say the other day, with 5 minutes before walking out the door to work: "I need to go post to my website..."

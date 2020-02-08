@@ -1,5 +1,6 @@
-date: 2003-03-29
+date: 2003-03-29 00:00
 slug: progress-report-iii
+tags: ""
 title: Progress Report III
 ---
 <div style="float:right;margin-left:5"><a href="http://media.redmonk.net/files/chart.pdf"><img --="--" src="&lt;!--#enclosure linkonly=" true"='true"' urlonly="true"/>" border="0"&gt;</a></div>

@@ -1,5 +1,6 @@
-date: 2003-04-30
+date: 2003-04-30 00:00
 slug: what-he-said
+tags: ""
 title: What he said
 ---
 [ Keola Donaghy](http://keola.editthispage.com/stories/storyReader$1210) sums up [my feelings](http://www.redmonk.net/monkinetic/2003/04/28#item2074) on Apple's Music Store exactly:

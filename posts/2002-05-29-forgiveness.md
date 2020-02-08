@@ -1,5 +1,6 @@
-date: 2002-05-29
+date: 2002-05-29 00:00
 slug: forgiveness
+tags: ""
 title: Forgiveness
 ---
 [AKMA blogs Forgiveness](http://www.seabury.edu/faculty/akma/2002_05_26_blogarch.html#76999604), in a deep and touching way:

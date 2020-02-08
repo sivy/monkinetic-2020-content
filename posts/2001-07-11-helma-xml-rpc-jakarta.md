@@ -1,5 +1,6 @@
-date: 2001-07-11
+date: 2001-07-11 00:00
 slug: helma-xml-rpc-jakarta
+tags: ""
 title: Helma XML-RPC @ Jakarta
 ---
 [Jason Van Zyl](http://www.mail-archive.com/general%40jakarta.apache.org/msg01471.html): "I would like to propose the movement of the Helma XML-RCP package (http://xmlrpc.helma.org/) to Jakarta."

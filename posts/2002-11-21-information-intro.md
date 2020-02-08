@@ -1,5 +1,6 @@
-date: 2002-11-21
+date: 2002-11-21 00:00
 slug: information-intro
+tags: ""
 title: Information Intro
 ---
 <div class="subhead"><a href="&lt;!--#siteurl--&gt;information/index.html#about">who is Steve?</a></div>

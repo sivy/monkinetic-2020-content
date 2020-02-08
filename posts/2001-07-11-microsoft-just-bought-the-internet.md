@@ -1,5 +1,6 @@
-date: 2001-07-11
+date: 2001-07-11 00:00
 slug: microsoft-just-bought-the-internet
+tags: ""
 title: Microsoft just bought the internet
 ---
 If there was any doubt in your mind, check [this out](http://iwsun4.infoworld.com/articles/hn/xml/01/07/10/010710hnverms.xml):

@@ -1,5 +1,6 @@
-date: 2010-01-20
+date: 2010-01-20 00:00
 slug: openid-connect-standards-and-solutions
+tags: ""
 title: 'OpenID Connect: Standards and Solutions'
 ---
 <a href="http://steveivy.typepad.com/.a/6a010534988cd3970b012876f553d4970c-pi" style="float: right;">

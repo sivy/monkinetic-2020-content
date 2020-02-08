@@ -1,5 +1,6 @@
-date: 2001-03-16
+date: 2001-03-16 00:00
 slug: yeah-we-couldnt-see-this-coming
+tags: ""
 title: Yeah, we couldn't see this coming
 ---
 [MacNN is reporting](http://www.macnn.com/news.php?id=4316) that file sharing by Napster's users is down 60% already. The RIAA is congratulating its smug self today.

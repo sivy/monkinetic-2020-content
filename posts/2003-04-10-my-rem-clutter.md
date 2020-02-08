@@ -1,5 +1,6 @@
-date: 2003-04-10
+date: 2003-04-10 00:00
 slug: my-rem-clutter
+tags: ""
 title: My R.E.M. Clutter
 ---
 rdiv_start<a --="--" href="&lt;!--#enclosure filename=" linkonly="true" remclutter.jpg"='remClutter.jpg"' urlonly="true">"&gt;

@@ -1,5 +1,6 @@
-date: 2002-03-09
+date: 2002-03-09 00:00
 slug: cluebringer
+tags: ""
 title: Cluebringer
 ---
 Jargon file, under [clue-by-four](http://www.tuxedo.org/~esr/jargon/html/entry/clue-by-four.html):

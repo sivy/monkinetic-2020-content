@@ -1,5 +1,6 @@
-date: 2004-07-13
+date: 2004-07-13 00:00
 slug: web-development-restarts
+tags: ""
 title: Web Development Restarts
 ---
 Aaron Swartz: The Weblog: [Web Development Restarts](http://www.aaronsw.com/weblog/001379)

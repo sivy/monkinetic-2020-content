@@ -1,3 +1,6 @@
+date: 2000-06-24 00:00
+slug: structured-editing-outlining-net
+tags: ""
 title: Structured Editing, Outlining, .NET
 ---
 **Pike**

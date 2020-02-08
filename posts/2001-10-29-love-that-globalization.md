@@ -1,5 +1,6 @@
-date: 2001-10-29
+date: 2001-10-29 00:00
 slug: love-that-globalization
+tags: ""
 title: Love That Globalization
 ---
-This is, in fact, not a sarcastic comment on the Americanization of the world. In the process of moving to Phoenix, I've apppreciated the fact that I can go to a Target, a Walmart, or a Blockbuster and know how it works. 
+This is, in fact, not a sarcastic comment on the Americanization of the world. In the process of moving to Phoenix, I've apppreciated the fact that I can go to a Target, a Walmart, or a Blockbuster and know how it works.

@@ -1,5 +1,6 @@
-date: 2002-10-24
+date: 2002-10-24 00:00
 slug: netnewswire-lite-102b2
+tags: ""
 title: NetNewsWire Lite 1.0.2b2
 ---
 Brent has released a new NetNewsWire beta.

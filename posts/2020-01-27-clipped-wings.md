@@ -1,4 +1,4 @@
-date: 2020-01-27 01:36:41
+date: 2020-01-27 01:36
 slug: clipped-wings
 tags: farmlife
 title: Take... these broken wings... well, clipped

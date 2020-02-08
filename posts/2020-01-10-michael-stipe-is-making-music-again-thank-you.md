@@ -1,4 +1,4 @@
-date: 2020-01-10 05:06:43
+date: 2020-01-10 05:06
 slug: michael-stipe-is-making-music-again-thank-you
 tags: rem,music,michaelstipe
 title: Michael Stipe is making music again, thank you

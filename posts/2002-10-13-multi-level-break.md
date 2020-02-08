@@ -1,5 +1,6 @@
-date: 2002-10-13
+date: 2002-10-13 00:00
 slug: multi-level-break
+tags: ""
 title: Multi-level 'break'
 ---
 Miscellaneous h4xx0r note: PHP has a mutli-level `` break `` which I had not seen before in a language. Used normally, break will exit the current loop (while, for, etc). Using the optional integer argument:

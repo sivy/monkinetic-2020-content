@@ -1,5 +1,6 @@
-date: 2002-03-13
+date: 2002-03-13 00:00
 slug: can-webloggers-route-around-the-negative
+tags: ""
 title: Can webloggers route around the negative?
 ---
 From [SXSW](http://www.sxsw.com/), [Cam reports](http://www.camworld.com/journal/2002/03/#12):

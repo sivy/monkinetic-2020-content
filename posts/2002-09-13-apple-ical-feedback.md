@@ -1,5 +1,6 @@
-date: 2002-09-13
+date: 2002-09-13 00:00
 slug: apple-ical-feedback
+tags: ""
 title: 'Apple: iCal feedback'
 ---
 I just sent this to Apple via their [iCal feedback page](http://www.apple.com/feedback/ical.html):

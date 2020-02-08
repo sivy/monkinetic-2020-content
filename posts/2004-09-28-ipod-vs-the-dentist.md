@@ -1,3 +1,6 @@
+date: 2004-09-28 00:00
+slug: ipod-vs-the-dentist
+tags: ""
 title: iPod vs. The Dentist
 ---
 I had a dental appointment today, and (despite it's very low battery) decided to take the 'pod along to give me something to listen to behind the whine and grand of the drill. *Shudder*.

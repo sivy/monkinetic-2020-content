@@ -1,5 +1,6 @@
-date: 2008-09-11
+date: 2008-09-11 00:00
 slug: portable-contacts-progress
+tags: ""
 title: Portable Contacts Progress
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

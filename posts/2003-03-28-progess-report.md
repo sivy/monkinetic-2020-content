@@ -1,5 +1,6 @@
-date: 2003-03-28
+date: 2003-03-28 00:00
 slug: progess-report
+tags: ""
 title: Progess Report
 ---
 <div style="float:right; margin-left:5"><a href="http://media.redmonk.net/images/gannt.png"><img --="--" src="&lt;!--#enclosure linkonly=" true"='true"' urlonly="true"/>" border="0"&gt;</a></div>

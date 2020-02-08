@@ -1,5 +1,6 @@
-date: 2000-10-17
+date: 2000-10-17 00:00
 slug: add-resource-form
+tags: ""
 title: Add Resource Form
 ---
 <form action="/admin/conversations/redmonk/resources" method="POST" name="newResource">

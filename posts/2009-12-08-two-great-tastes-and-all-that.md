@@ -1,3 +1,6 @@
+date: 2009-12-08 00:00
+slug: two-great-tastes-and-all-that
+tags: ""
 title: Two Great Tastes
 ---
 Two great tastes and all that...

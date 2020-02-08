@@ -1,5 +1,6 @@
-date: 2001-09-05
+date: 2001-09-05 00:00
 slug: let-the-man-go-through
+tags: ""
 title: Let the Man Go Through
 ---
 _Some kind of verb.  

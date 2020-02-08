@@ -1,6 +1,8 @@
 date: 2016-11-15 12:00
 feature-img: http://i.imgur.com/JqKo55E.jpg?2
 header-text-color: '#fff'
+slug: calling-washington
+tags: ""
 title: Calling Washington
 ---
 I took a step today I've never taken before: I called the offices of my 3 Republican representatives in Congress ([John McCain][mccain] and [Jeff Flake][flake] in the Senate and [Representative Matt Salmon][salmon] in the House) and asked them to speak out against the appointment of known white nationalists to the Whitehouse staff and Cabinet.

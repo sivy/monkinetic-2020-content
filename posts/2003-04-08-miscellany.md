@@ -1,5 +1,6 @@
-date: 2003-04-08
+date: 2003-04-08 00:00
 slug: miscellany
+tags: "41"
 title: Miscellany
 ---
 Random Stuff:

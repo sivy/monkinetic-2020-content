@@ -1,5 +1,6 @@
-date: 2002-02-14
+date: 2002-02-14 00:00
 slug: attorney-to-movie-studios-sucks-to-be-you
+tags: ""
 title: 'Attorney to movie studios: &quot;Sucks to be you&quot;'
 ---
 This [article](http://www.latimes.com/business/la-000010608feb11.story) about the movie studios vs. personal video recorders has been making the rounds.

@@ -1,4 +1,4 @@
-date: 2020-01-27 08:55:01
+date: 2020-01-27 08:55
 slug: first-live-webmention-test
 tags: webmention,testing
 title: First Live Webmention Test

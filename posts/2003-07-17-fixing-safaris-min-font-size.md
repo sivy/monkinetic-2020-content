@@ -1,5 +1,6 @@
-date: 2003-07-17
+date: 2003-07-17 00:00
 slug: fixing-safaris-min-font-size
+tags: ""
 title: Fixing Safari's min font size
 ---
 from [FreeForm Goodness](http://www.freeke.org/ffg) comes the fix for Safari's minimum font size, which changed in [Safari 1.0](http://www.apple.com/safari).

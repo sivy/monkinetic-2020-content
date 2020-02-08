@@ -1,5 +1,6 @@
-date: 2002-09-09
+date: 2002-09-09 00:00
 slug: struts-11-absorbs-more-interesting-webobjects-ideas-getting-better-all-the-time
+tags: ""
 title: Struts 1.1 absorbs more interesting WebObjects ideas, getting better all the
   time
 ---

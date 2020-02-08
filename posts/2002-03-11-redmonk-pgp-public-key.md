@@ -1,8 +1,9 @@
-slug: redmonk-pgp-public-key
-date: 2002-03-11
-title: redmonk pgp Public Key
+date: 2002-03-11 00:00
 layout: post
-
+slug: redmonk-pgp-public-key
+tags: ""
+title: redmonk pgp Public Key
+---
 For those that need it.
 
 <pre>

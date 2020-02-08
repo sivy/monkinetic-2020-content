@@ -1,5 +1,6 @@
-date: 2006-08-08
+date: 2006-08-08 00:00
 slug: designspotting
+tags: ""
 title: Designspotting
 ---
 <a href="http://www.mordecaidesign.com/mordecaidesign6/index.php/2006/03/31/designspotting/

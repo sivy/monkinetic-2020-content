@@ -1,3 +1,6 @@
+date: 2013-02-07 00:00
+slug: price-of-lego
+tags: ""
 title: More information than you require... about the price of LEGO.
 ---
 Many of us AFOL's (Adult Fans of LEGO) wonder, what's up with the crazy prices of LEGO?

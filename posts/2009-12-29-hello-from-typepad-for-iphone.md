@@ -1,3 +1,6 @@
+date: 2009-12-29 00:00
+slug: hello-from-typepad-for-iphone
+tags: ""
 title: Hello from Typepad for iPhone
 ---
 Six Apart released TypePad for iPhone. Woot!!!

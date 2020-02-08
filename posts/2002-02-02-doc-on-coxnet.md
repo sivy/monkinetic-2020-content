@@ -1,5 +1,6 @@
-date: 2002-02-02
+date: 2002-02-02 00:00
 slug: doc-on-coxnet
+tags: ""
 title: Doc on Cox.Net
 ---
 [Doc Searls](http://doc.weblogs.com/) has been through some of the same connection hell that we have with [Cox.Net](http://www.cox.net/). He's still [upbeat](http://doc.weblogs.com/2002/02/01#anotherCoxSuckerStory) about it, while we're pretty frustrated. I'm going to try some of his sugggestions, however, and try to remain calm.

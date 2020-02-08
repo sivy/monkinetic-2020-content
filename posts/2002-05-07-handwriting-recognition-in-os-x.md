@@ -1,5 +1,6 @@
-date: 2002-05-07
+date: 2002-05-07 00:00
 slug: handwriting-recognition-in-os-x
+tags: ""
 title: Handwriting Recognition in OS X
 ---
 [WWDC Keynote](http://maccentral.macworld.com/news/0205/06.wwdckeynote.php):

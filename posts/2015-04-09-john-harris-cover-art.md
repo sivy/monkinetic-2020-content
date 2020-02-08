@@ -1,5 +1,8 @@
+date: 2015-04-09 00:00
 feature-img: http://i.imgur.com/bsbcqWb.png?1
 header-text-color: '#dd6b2e'
+slug: john-harris-cover-art
+tags: ""
 title: The Science Fiction Art of John Harris
 ---
 I first learned John Harris' name from personal friend [John Scalzi](http://whatever.scalzi.com) [*Ed. John Scalzi is not a personal friend of the author*], whose excellent series of books in the Old Man's War series are graced with Harris' atmospheric and inspirational paintings.

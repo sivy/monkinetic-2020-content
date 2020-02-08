@@ -1,5 +1,6 @@
-date: 2002-04-26
+date: 2002-04-26 00:00
 slug: sid-document-icons-sid-download-1
+tags: ""
 title: Sid Document Icons, Sid download
 ---
 <img align="right" src="https://media.redmonk.net/images/sidDocument.jpg"/>

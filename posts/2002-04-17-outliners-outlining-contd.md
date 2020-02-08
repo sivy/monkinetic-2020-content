@@ -1,5 +1,6 @@
-date: 2002-04-17
+date: 2002-04-17 00:00
 slug: outliners-outlining-contd
+tags: ""
 title: Outliners, Outlining, Cont'd
 ---
 Note to [Dave ](http://scriptingnews.userland.com/backissues/2002/04/16#l1bb7976275c8fb839a2df96a4370343a) - Mark may have said he does not like outliners; however, he DOES understand the [power of an outliner](http://diveintomark.org/archives/2002/04/16.html#outlines_vs_outliners):

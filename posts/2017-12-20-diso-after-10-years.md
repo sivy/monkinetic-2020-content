@@ -1,4 +1,7 @@
-published: true
+date: 2017-12-20 00:00
+published: "true"
+slug: diso-after-10-years
+tags: ""
 title: DiSo After 10 years
 type: post
 ---

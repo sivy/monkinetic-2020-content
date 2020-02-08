@@ -1,5 +1,6 @@
-date: 2004-06-18
+date: 2004-06-18 00:00
 slug: how-microsoft-lost-the-api-war
+tags: ""
 title: How Microsoft Lost the API War
 ---
 Joel on Software &gt; [How Microsoft Lost the API War](http://www.joelonsoftware.com/articles/APIWar.html):

@@ -1,4 +1,4 @@
-date: 2020-01-12 05:33:41
+date: 2020-01-12 05:33
 slug: coda-hale-on-work
 tags: work,enterprise,to-read
 title: Coda Hale on Work

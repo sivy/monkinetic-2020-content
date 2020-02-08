@@ -1,5 +1,6 @@
-date: 2002-03-13
+date: 2002-03-13 00:00
 slug: rdfauthor
+tags: ""
 title: RDFAuthor
 ---
 <a href="http://media.redmonk.net/images/rdfAuthorAboutMe.jpg"><img align="right" border="0" height="149" src="https://media.redmonk.net/images/rdfAuthorAboutMe.jpg" width="221"/></a>

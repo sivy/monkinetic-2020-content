@@ -1,6 +1,6 @@
-date: 2020-01-03 04:37:59
+date: 2020-01-03 04:37
 slug: write-where-it-matters
-tags: blogging, golang
+tags: blogging,golang
 title: Write where it matters
 ---
 I'm writing a new blog app. It's just for myself right now, a toy to remind me why I love the web.

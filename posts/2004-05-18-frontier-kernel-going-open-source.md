@@ -1,5 +1,6 @@
-date: 2004-05-18
+date: 2004-05-18 00:00
 slug: frontier-kernel-going-open-source
+tags: ""
 title: Frontier Kernel going Open Source
 ---
 [Scripting News: 5/17/2004](http://archive.scripting.com/2004/05/17#asGoodATimeAsAny)

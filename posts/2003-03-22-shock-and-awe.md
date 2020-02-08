@@ -1,5 +1,6 @@
-date: 2003-03-22
+date: 2003-03-22 00:00
 slug: shock-and-awe
+tags: ""
 title: Shock and Awe
 ---
 [Shock and Awe](http://www.foxnews.com/story/0,2933,81791,00.html)?>  Defense officials told Fox News that as many as 3,000 precision-guided bombs will be dropped on specific targets in Iraq during this phase of the campaign

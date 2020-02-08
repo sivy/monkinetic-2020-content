@@ -1,6 +1,6 @@
-date: 2016-12-01 12:00:00
+date: 2016-12-01 12:00
 slug: resist-hate
-tags: null
+tags: ""
 title: Resist Hate, Embrace Hope
 ---
 ![resist hate, embrace hope [large]](http://i.imgur.com/iq4WUGK.png)

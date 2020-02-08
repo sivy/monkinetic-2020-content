@@ -1,5 +1,6 @@
-date: 2003-01-13
+date: 2003-01-13 00:00
 slug: smbmetaxml
+tags: ""
 title: smbmeta.xml
 ---
 <smbmeta version="0.1" xmlns="http://www.smbmeta.org/namespace/v0.1">

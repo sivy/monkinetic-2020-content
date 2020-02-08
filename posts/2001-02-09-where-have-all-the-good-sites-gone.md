@@ -1,5 +1,6 @@
-date: 2001-02-09
+date: 2001-02-09 00:00
 slug: where-have-all-the-good-sites-gone
+tags: ""
 title: Where have all the good sites gone?
 ---
 Well, after probably a year of using <a http:="" www.weblogs.com"='http://www.weblogs.com"'>Weblogs.Com</a> as my jumping-off point, I need to get some new blood in my list of daily reads.

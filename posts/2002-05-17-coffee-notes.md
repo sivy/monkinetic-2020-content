@@ -1,5 +1,6 @@
-date: 2002-05-17
+date: 2002-05-17 00:00
 slug: coffee-notes
+tags: ""
 title: Coffee Notes
 ---
 I'm sitting here, wondering what the heck I'm doing at work this early after very little sleep last night, reading some of the blogs in my "those who don't ping weblogs.com" bookmarks list. Of interest:

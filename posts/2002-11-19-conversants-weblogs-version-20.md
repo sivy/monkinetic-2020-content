@@ -1,5 +1,6 @@
-date: 2002-11-19
+date: 2002-11-19 00:00
 slug: conversants-weblogs-version-20
+tags: ""
 title: Conversant's Weblogs, Version 2.0
 ---
 >  \[via [Truer Words](http://www.truerwords.net/index)\] 

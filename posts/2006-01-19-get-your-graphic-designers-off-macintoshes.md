@@ -1,5 +1,6 @@
-date: 2006-01-19
+date: 2006-01-19 00:00
 slug: get-your-graphic-designers-off-macintoshes
+tags: ""
 title: Get your graphic designers off Macintoshes!
 ---
 I was looking for some information discussing the [intersection](http://www.google.com/search?hl=en&amp;lr=&amp;c2coff=1&amp;client=safari&amp;rls=en&amp;q=intersection+of+eXtreme+Programming+and+user+experience&amp;btnG=Search) of extreme programming (which our development team is adopting) and user experience, and I ran across this selection (in Google's book search) from [Extreme Programming for Web Projects](http://books.google.com/books?ie=UTF-8&amp;hl=en&amp;vid=ISBN0201794276&amp;id=BGMk5f4tMHUC&amp;pg=PA55&amp;lpg=PA55&amp;dq=author:%22Wallace%22+intitle:%22Extreme+Programming+for+Web+Projects%22&amp;vq=graphic+design&amp;prev=http://scholar.google.com/scholar%3Fq%3Dauthor:%2522Wallace%2522%2Bintitle:%2522Extreme%2BProgramming%2Bfor%2BWeb%2BProjects%2522%26hl%3Den%26lr%3D%26c2coff%3D1&amp;sig=TlzqmZnsMXuMwQLEpNJY_ChtmdQ) (by Doug Wallace, Isobel Raggett, and Joel Aufgang).

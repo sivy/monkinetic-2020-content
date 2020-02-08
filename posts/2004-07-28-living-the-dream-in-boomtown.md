@@ -1,5 +1,6 @@
-date: 2004-07-28
+date: 2004-07-28 00:00
 slug: living-the-dream-in-boomtown
+tags: ""
 title: Living the Dream in Boomtown
 ---
 <a href="http://www.amazon.com/exec/obidos/tg/detail/-/B00005JMMT/102-6292283-9620920?v=glance"><img align="right" alt="Image of Boomtown DVD Box Set from Amazon" border="0" class="at-xid-6a010534988cd3970b0120a5b36124970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b36124970c-pi" style="margin-left:1em; margin-right:1em;"/></a>

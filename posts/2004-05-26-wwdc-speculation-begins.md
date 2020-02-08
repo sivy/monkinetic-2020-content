@@ -1,5 +1,6 @@
-date: 2004-05-26
+date: 2004-05-26 00:00
 slug: wwdc-speculation-begins
+tags: ""
 title: WWDC Speculation Begins
 ---
 [My favorite anesthesiologist](http://www.romanvenable.net/) posts a tidbit about what might be in store for the G5 series come Apple's 

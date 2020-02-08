@@ -1,3 +1,6 @@
+date: 2016-10-17 00:00
+slug: is-this-thing-on
+tags: ""
 title: Hey the blog is kinda back
 ---
 ![is this thing on?](https://cleaneatsdirtybeats.files.wordpress.com/2015/05/is-this-thing-on.jpg)

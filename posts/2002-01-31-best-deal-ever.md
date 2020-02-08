@@ -1,5 +1,6 @@
-date: 2002-01-31
+date: 2002-01-31 00:00
 slug: best-deal-ever
+tags: ""
 title: Best Deal Ever
 ---
 Greg Titus, [writing for Motley Fool](http://www.fool.com/community/pod/2002/020130.htm):

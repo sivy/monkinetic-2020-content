@@ -1,5 +1,6 @@
-date: 2004-11-03
+date: 2004-11-03 00:00
 slug: gop-can-challenge-voters-at-ohio-polls
+tags: ""
 title: G.O.P. Can Challenge Voters at Ohio Polls?
 ---
 [Dan Gillmor](http://weblog.siliconvalley.com/column/dangillmor/archives/010982.shtml):

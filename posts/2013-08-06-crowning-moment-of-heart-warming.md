@@ -1,3 +1,6 @@
+date: 2013-08-06 00:00
+slug: crowning-moment-of-heart-warming
+tags: ""
 title: Crowning Moment of Heart Warming
 ---
 My kids, wife, and Mom went to the movies today ([Turbo](http://trailers.apple.com/trailers/dreamworks/turbo/), well-liked all around) and before they went they stopped by the drugstore and bought movies snacks. Apparently our 8yo daughter, remembering Daddy's favorite candy, convinced Mom to buy a box of Reese's Pieces.

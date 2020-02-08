@@ -1,5 +1,6 @@
-date: 2006-11-17
+date: 2006-11-17 00:00
 slug: top-5-rem-songs
+tags: ""
 title: Top 5 R.E.M. Songs
 ---
 1. World Leader Pretend

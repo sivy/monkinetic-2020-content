@@ -1,5 +1,6 @@
-date: 2002-02-01
+date: 2002-02-01 00:00
 slug: web-services-for-web-developers
+tags: ""
 title: Web Services For Web Developers
 ---
 Dave [writes](http://scriptingnews.userland.com/backissues/2002/01/31#l6a79e5ea81d34b2681825105f2215b89): "We're going to make Web services work for Web developers. That means getting rid of arcane stuff that makes sense only to C programmers. "

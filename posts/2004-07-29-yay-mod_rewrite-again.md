@@ -1,5 +1,6 @@
-date: 2004-07-29
+date: 2004-07-29 00:00
 slug: yay-mod_rewrite-again
+tags: ""
 title: Yay mod_rewrite, again
 ---
 I've found some links to my content floating around the web of the form

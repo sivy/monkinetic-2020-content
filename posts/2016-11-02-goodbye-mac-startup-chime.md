@@ -1,4 +1,7 @@
+date: 2016-11-02 00:00
 excerpt: The startup chime is ingrained into the experience of having a Mac
+slug: goodbye-mac-startup-chime
+tags: ""
 title: Goodbye Mac Startup Chime
 ---
 [512 Pixels](https://512pixels.net/2016/10/the-startup-chime-is-dead/):

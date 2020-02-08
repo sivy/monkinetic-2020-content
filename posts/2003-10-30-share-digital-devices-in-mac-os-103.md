@@ -1,5 +1,6 @@
-date: 2003-10-30
+date: 2003-10-30 00:00
 slug: share-digital-devices-in-mac-os-103
+tags: ""
 title: Share Digital Devices in Mac OS 10.3
 ---
 This is too cool. Evidently, using the Image Capture preferences, you can [share digital devices](http://www.macosxhints.com/article.php?story=20031028064213303) over your local area network with [Mac OS 10.3](http://www.apple.com/macosx/). Nice!!

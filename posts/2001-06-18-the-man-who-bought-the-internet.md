@@ -1,5 +1,6 @@
-date: 2001-06-18
+date: 2001-06-18 00:00
 slug: the-man-who-bought-the-internet
+tags: ""
 title: The Man Who Bought The Internet
 ---
 Via [HTP](http://wmf.editthispage.com): [The Man Who Bought The Internet](http://www.fortune.com/indexw.jhtml;jsessionid=WZW3C140T1O1WQAMEHSSFFSABQQ4MIV3?channel=artcol.jhtml&amp;doc_id=202984&amp;page=2&amp;_DARGS=%2Fartcol.jhtml.4_A&amp;_DAV=artcol.jhtml). 

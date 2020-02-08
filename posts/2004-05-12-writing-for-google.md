@@ -1,5 +1,6 @@
-date: 2004-05-12
+date: 2004-05-12 00:00
 slug: writing-for-google
+tags: ""
 title: Writing for Google
 ---
 Daring Fireball: [Writing for Google](http://daringfireball.net/2004/05/writing_for_google)

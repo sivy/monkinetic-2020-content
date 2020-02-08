@@ -1,5 +1,6 @@
-date: 2002-11-28
+date: 2002-11-28 00:00
 slug: ftx-interface
+tags: ""
 title: FTX Interface
 ---
 Web, Graphic Design: <a --="--" ftx_packages.gif"='ftx_packages.gif"' href="&lt;!--#enclosure filename=" linkonly="true" urlonly="true">"&gt;

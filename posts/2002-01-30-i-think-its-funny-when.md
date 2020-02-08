@@ -1,5 +1,6 @@
-date: 2002-01-30
+date: 2002-01-30 00:00
 slug: i-think-its-funny-when
+tags: ""
 title: I think it's funny when...
 ---
 You look through your referers and see [an odd search request](http://www.google.com/search?hl=en&amp;q=88+dodge+aries), but know exactly [which post](http://www.redmonk.net/216) it hit.

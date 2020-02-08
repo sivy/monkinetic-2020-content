@@ -1,3 +1,6 @@
+date: 2016-10-25 00:00
+slug: in-loving-colour
+tags: 5e5e5e
 title: In Loving Colour
 ---
 Back when I was mostly a designer, I discovered [Colour Lovers](http://www.colourlovers.com), a great palette-sharing website that helped me brainstorm my way through a lot of site designs.

@@ -1,7 +1,7 @@
-title: Golang Templates Cheatsheet
+date: 2020-01-09 00:00
 slug: golang-templates-cheatsheet
-date: 2020-01-09 09:19:52
-tags: ,goldfrog,python
+tags: goldfrog,python
+title: ""
 ---
 This resource really helped as I've been building #goldfrog.
 

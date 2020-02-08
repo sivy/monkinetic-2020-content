@@ -1,3 +1,6 @@
+date: 2013-08-13 00:00
+slug: carpool-buddies-of-doom
+tags: ""
 title: 'Thanos and Darkseid: Carpool Buddies of Doom'
 ---
 Shared by comic book writer [KellySue DeConnick](http://kellysue.tumblr.com/post/58166187121):

@@ -1,5 +1,6 @@
-date: 2000-09-17
+date: 2000-09-17 00:00
 slug: on-being-a-geek
+tags: ""
 title: On Being A Geek
 ---
 __<a name="mainHead1">On Being A Geek</a>__  
@@ -14,4 +15,4 @@ I've only gotten through the first two chapters in "Geeks". I think I'll have mo
 
 __<a name="mainHead2">Ciao</a>__  
 
---Steve  
+--Steve

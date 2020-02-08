@@ -1,5 +1,6 @@
-date: 2006-01-17
+date: 2006-01-17 00:00
 slug: how-to-not-name-your-company
+tags: ""
 title: How to not name your company
 ---
 via [eHub](http://www.emilychang.com/go/ehub/): Who thought that calling a webservice [gookbox](http://www.gookbox.com/) was a good idea?

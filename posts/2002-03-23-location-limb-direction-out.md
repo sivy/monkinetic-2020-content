@@ -1,5 +1,6 @@
-date: 2002-03-23
+date: 2002-03-23 00:00
 slug: location-limb-direction-out
+tags: ""
 title: 'Location: limb, direction: out'
 ---
 Ok, this is not going to happen often, so all you left-wingers out there listen up! -) Rafe over at [rc3.org](http://www.rc3.org/) [is right](http://www.rc3.org/cgi-bin/less.pl?arg=3852). Er, left. Er, correct:

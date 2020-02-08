@@ -1,5 +1,6 @@
-date: 2002-03-15
+date: 2002-03-15 00:00
 slug: email-in-india
+tags: ""
 title: Email in India
 ---
 via /. - Cory Doctorow at SXSW:

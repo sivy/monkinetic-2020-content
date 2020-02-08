@@ -1,5 +1,6 @@
-date: 2003-04-19
+date: 2003-04-19 00:00
 slug: recent-feeds
+tags: ""
 title: Recent Feeds
 ---
 I've been trying to diversify my NetNewsWire habits. Recently added:

@@ -1,5 +1,6 @@
-date: 2002-05-10
+date: 2002-05-10 00:00
 slug: userland-opens-up-rss-generation-in-radio
+tags: ""
 title: UserLand opens up RSS generation in Radio
 ---
 Dave [writes](http://scriptingnews.userland.com/backissues/2002/05/09#aSmallChange):

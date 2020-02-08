@@ -1,5 +1,6 @@
-date: 2002-08-21
+date: 2002-08-21 00:00
 slug: haha-honeytrap-for-the-riaa
+tags: ""
 title: Haha! Honeytrap for the RIAA
 ---
 After the RIAA and other media commpanies tried to get Congress to write them a bill allowing them to hack your computer to find out of you're trading copyrighted mp3's, [this ISP](http://www.informationwave.net/) is now blocking the RIAA's web site on its network, and set up a [honey trap](http://www.informationwave.net/news/20020819riaa.php) for them. What's a honey trap you ask?

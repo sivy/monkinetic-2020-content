@@ -1,5 +1,6 @@
-date: 2001-04-16
+date: 2001-04-16 00:00
 slug: just-what-does-a-cms-do
+tags: ""
 title: Just what does a CMS do?
 ---
 Phil Suh on the Camworld [CMS list](http://www.camworld.com/cms/) -

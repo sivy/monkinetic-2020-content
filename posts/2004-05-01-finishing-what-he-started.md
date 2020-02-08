@@ -1,3 +1,6 @@
+date: 2004-05-01 00:00
+slug: finishing-what-he-started
+tags: ""
 title: Finishing what he started
 ---
 [Jim Roepcke's weblog: Finishing what I started](http://jim.roepcke.com/6832)

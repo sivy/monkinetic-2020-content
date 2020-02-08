@@ -1,5 +1,6 @@
-date: 2002-05-07
+date: 2002-05-07 00:00
 slug: thats-a-fine-finder
+tags: ""
 title: That's a fine Finder
 ---
 [WWDC Keynote](http://maccentral.macworld.com/news/0205/06.wwdckeynote.php): Finder improvements coming in the next version of OS X:

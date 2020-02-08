@@ -1,4 +1,7 @@
+date: 2015-04-11 00:00
 feature-img: images/pycon-header.PNG
+slug: pycon-day-three
+tags: ""
 title: 'PyCon Day 3: Migraines Are Fun'
 ---
 Started my day with a massive ongoing migraine that had me hiding in my hotel room with a towel over my eyes, praying for either death or my migraine meds to start working.

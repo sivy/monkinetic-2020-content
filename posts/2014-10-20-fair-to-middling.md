@@ -1,3 +1,6 @@
+date: 2014-10-20 00:00
+slug: fair-to-middling
+tags: ""
 title: Fair to Middling
 ---
 &gt; So I think I'll try doing the same thing here. In the early days of Waxy.org, before I launched the linkblog, I used to blog short posts constantly. Multiple times a day. Twitter and Waxy Links cannibalized all the smaller posts, and as my reach grew, I started reserving blogging for more "serious" stuff - mostly longer-form research and investigative writing.

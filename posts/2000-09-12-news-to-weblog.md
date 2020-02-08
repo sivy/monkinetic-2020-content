@@ -1,5 +1,6 @@
-date: 2000-09-12
+date: 2000-09-12 00:00
 slug: news-to-weblog
+tags: ""
 title: News To Weblog
 ---
 I'm using Conversant's builtin NNTP server to post this message. NNTP

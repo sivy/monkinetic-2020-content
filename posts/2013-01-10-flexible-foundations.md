@@ -1,3 +1,6 @@
+date: 2013-01-10 00:00
+slug: flexible-foundations
+tags: ""
 title: Flexible Foundations
 ---
 <img src="https://static.monkinetic.com/files//ff-20130110-065206.png" style="float:right; margin: 0 0 5px 10px; border: none"/>

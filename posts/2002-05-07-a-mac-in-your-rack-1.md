@@ -1,5 +1,6 @@
-date: 2002-05-07
+date: 2002-05-07 00:00
 slug: a-mac-in-your-rack-1
+tags: ""
 title: A Mac in your Rack
 ---
 [WWDC Keynote](http://maccentral.macworld.com/news/0205/06.wwdckeynote.php):

@@ -1,5 +1,6 @@
-date: 2005-02-18
+date: 2005-02-18 00:00
 slug: ipod-shuffle-ok-now
+tags: ""
 title: iPod shuffle ok now
 ---
 <img alt="iPod Shuffle Switch" class="at-xid-6a010534988cd3970b0120a5b3682f970c" src="https://steveivy.typepad.com/.a/6a010534988cd3970b0120a5b3682f970c-pi" style="float:right; padding-left: 4px;"/>

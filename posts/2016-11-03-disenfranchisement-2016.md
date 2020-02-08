@@ -1,4 +1,6 @@
 date: 2016-11-03 16:50
+slug: disenfranchisement-2016
+tags: imwithher
 title: The Political Machinations of Disenfranchisement, 2016
 ---
 &gt; "I don't want everybody to vote. Elections are not won by a majority of the people. They never have been from the beginning of our country and they are not now. As a matter of fact, our leverage in the elections quite candidly goes up as the voting populace goes down."

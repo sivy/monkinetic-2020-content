@@ -1,5 +1,6 @@
-date: 2002-05-14
+date: 2002-05-14 00:00
 slug: a-mac-in-your-rack
+tags: ""
 title: A Mac in your Rack
 ---
 Apple is scheduled to announce [new rackmount servers](http://www.thinksecret.com/features/wwdcrackmount.html) today. I've been around the Mac world long enough to be pretty cynical about this, but here's what I'd like to see:

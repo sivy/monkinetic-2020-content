@@ -1,4 +1,8 @@
+date: 2009-12-08 00:00
 itle: This is why I love Choosy
+slug: this-is-why-i-love-choosy
+tags: ""
+title: ""
 ---
 A 5-part rule for when to use Webkit for opening link. 
 

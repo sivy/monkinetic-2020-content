@@ -1,4 +1,6 @@
 date: 2016-11-03 13:00
+slug: wonder-woman-trailer-2
+tags: ""
 title: Wonder Woman trailer!
 ---
 Squeeeeeeeeeeeeeeeeeee eeeeeeeeeee EEEEEEEEeeeeeeeee!!!... EEeeeeeeee!

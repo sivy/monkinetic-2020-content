@@ -1,3 +1,6 @@
+date: 2004-09-23 00:00
+slug: networked-tile-system
+tags: ""
 title: Networked Tile System
 ---
 [Pervasive Ambience: Networked Tile System - designboom](http://www.designboom.com/contest/view.php?contest_pk=2&amp;item_pk=368&amp;p=2):

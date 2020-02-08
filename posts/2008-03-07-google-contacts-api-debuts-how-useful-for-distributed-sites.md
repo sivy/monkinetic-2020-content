@@ -1,5 +1,6 @@
-date: 2008-03-07
+date: 2008-03-07 00:00
 slug: google-contacts-api-debuts-how-useful-for-distributed-sites
+tags: ccc
 title: Google Contacts API debuts - how useful for distributed sites?
 ---
 <a href="http://redmonk.net/archives/2008/03/06/google-contacts-api-debuts-how-useful-for-distributed-sites/2689/" rel="attachment wp-att-2689" style="display:block; text-align:center;" title="developers-guide-protocol-contacts-data-api-google-code_1204813301232.png">

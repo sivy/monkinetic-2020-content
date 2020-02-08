@@ -1,5 +1,6 @@
-date: 2009-11-23
+date: 2009-11-23 00:00
 slug: whence-the-permalink
+tags: ""
 title: Whence the Permalink?
 ---
 This morning I'm pondering the place of the [permalink](http://en.wikipedia.org/wiki/Permalink) in the real-time web ecosystem. Twitter, the poster child of the real-time web, [still has them](http://twitter.com/steveivy/status/5975472955), but I wonder about the utility of that link when we've got updates flying off our dashboards as fast as they do.

@@ -1,5 +1,6 @@
-date: 2006-01-11
+date: 2006-01-11 00:00
 slug: macbook-pro
+tags: ""
 title: MacBook Pro
 ---
 Yes, I want a [MacBook Pro](http://www.apple.com/macbookpro).

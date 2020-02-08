@@ -1,5 +1,6 @@
-date: 2002-10-01
+date: 2002-10-01 00:00
 slug: everyones-going-in-drag
+tags: ""
 title: Everyone's going in Drag
 ---
 [via [Michael McCracken - Weblog ](http://disco.ucsd.edu/blog)] >  &lt;&lt;&lt;BLOCKQUOTE: ...A key part of this is the simple things like making sure drag-and-drop and copy-and-paste work between all these different apps.I agree. Brent's [RSS clipboard format spec](http://ranchero.com/software/netnewswire/rssclipboard.php) looks solid, and will definitely be a useful contribution. 

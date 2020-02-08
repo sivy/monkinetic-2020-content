@@ -1,5 +1,7 @@
 date: 2016-12-13 13:00
 excerpt: When the world's on fire, redesign your blog
+slug: emarcotte
+tags: ""
 title: ethanmarcotte.com
 ---
 [Ethan Marcotte][em] has a new website:

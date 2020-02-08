@@ -1,6 +1,8 @@
+date: 2012-09-24 07:17
+slug: here-we-go-again
+tags: ""
 title: Here we go again…
-date: 2012-09-24 7:17
-
+---
 ### Friction
 
 [This blog](http://monkinetic.com) has been through a couple different names, many different publishing platforms, and many different designs.

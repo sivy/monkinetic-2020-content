@@ -1,5 +1,6 @@
-date: 2006-09-21
+date: 2006-09-21 00:00
 slug: my-desk-on-flickr
+tags: "000000"
 title: My desk on Flickr
 ---
 <div style="float: right; margin-left: 10px; margin-bottom: 10px;">

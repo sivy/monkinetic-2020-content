@@ -1,4 +1,7 @@
-published: true
+date: 2017-12-14 00:00
+published: "true"
+slug: designing-an-open-facebook-alternative
+tags: ""
 title: Designing an open Facebook alternative
 type: post
 ---

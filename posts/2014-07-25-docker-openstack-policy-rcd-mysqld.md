@@ -2,6 +2,8 @@ date: 2014-07-25 18:46
 excerpt: I'm working on building a Docker image that I can use with Jenkins to run
   tests on some code.  That code interacts with an Openstack install in the container
   to run the tests. The issue I'm on right now is that mysql-server won't start.
+slug: docker-openstack-policy-rcd-mysqld
+tags: ""
 title: Docker, Openstack, policy-rc.d, mysqld
 ---
 I'm working on building a [Docker](http://docker.io) image that I can use with [Jenkins](http://jenkins-ci.org) to run tests on some code. That code interacts with an Openstack install in the container to run the tests.

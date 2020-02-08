@@ -1,5 +1,6 @@
-date: 2000-09-16
+date: 2000-09-16 00:00
 slug: redmonk-20-information-unauthorized-biography
+tags: ""
 title: 'Redmonk 2.0 : information : unauthorized biography'
 ---
 <div class="subhead">Hello</div>

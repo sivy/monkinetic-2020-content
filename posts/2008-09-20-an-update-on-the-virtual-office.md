@@ -1,5 +1,6 @@
-date: 2008-09-20
+date: 2008-09-20 00:00
 slug: an-update-on-the-virtual-office
+tags: ""
 title: An Update on the Virtual Office
 ---
 <span class="mt-enclosure mt-enclosure-image" style="display: inline;">

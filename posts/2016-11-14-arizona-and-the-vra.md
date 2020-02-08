@@ -1,4 +1,6 @@
 date: 2016-11-14 21:30
+slug: arizona-and-the-vra
+tags: ""
 title: Arizona and the Voting Rights Act
 ---
 ![](http://i.imgur.com/9qrbrEs.jpg?1)

@@ -1,5 +1,6 @@
-date: 2002-05-10
+date: 2002-05-10 00:00
 slug: suspect-with-potential-connection-to-sept-11-arrested-in-norfolk-va
+tags: ""
 title: Suspect with potential connection to Sept. 11 arrested in Norfolk, Va.
 ---
 AP: [Suspect Had Flight Manuals](http://story.news.yahoo.com/news?tmpl=story&amp;u=/ap/20020509/ap_on_re_us/attacks_documents_2)

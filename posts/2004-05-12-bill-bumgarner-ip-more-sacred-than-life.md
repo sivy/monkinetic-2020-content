@@ -1,5 +1,6 @@
-date: 2004-05-12
+date: 2004-05-12 00:00
 slug: bill-bumgarner-ip-more-sacred-than-life
+tags: ""
 title: 'Bill Bumgarner: IP more sacred than life?'
 ---
 [Bill Bumgarner: IP more sacred than life?](http://www.pycs.net/bbum/2004/5/11/#200405111)

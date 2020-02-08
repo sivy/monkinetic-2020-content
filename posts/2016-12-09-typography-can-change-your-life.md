@@ -1,4 +1,7 @@
+date: 2016-12-09 00:00
 excerpt: Good writeup of how critical a component typography is in clear communication.
+slug: typography-can-change-your-life
+tags: ""
 title: Typography Can Save Your Life
 ---
 ![Air Traffic Control Checklist, New Orleans](http://i.imgur.com/9RUnyl8.png)

@@ -1,5 +1,6 @@
-date: 2003-04-05
+date: 2003-04-05 00:00
 slug: large-chunks-tightly-coupled
+tags: ""
 title: Large Chunks Tightly Coupled
 ---
 [Jason Kottke](http://www.kottke.org) [compares ](http://www.kottke.org/03/04/030404larry_elliso.html)the unix philosophy and the Microsoft one:>  If Unix development philosophy is small pieces loosely joined, Microsoft's philosophy is big chunks tightly coupled.

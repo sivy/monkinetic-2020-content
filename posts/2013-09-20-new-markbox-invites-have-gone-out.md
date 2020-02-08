@@ -1,4 +1,6 @@
 date: 2013-09-20 06:49
+slug: new-markbox-invites-have-gone-out
+tags: ""
 title: New Markbox invites have gone out
 ---
 It's been a crazy road with more hair-pulling and teeth-gnashing than I had hoped, but I've scheduled the final set of invites for Markbox. Anyone who had signed up as of tonight to be notified will be sent an invite in the morning.

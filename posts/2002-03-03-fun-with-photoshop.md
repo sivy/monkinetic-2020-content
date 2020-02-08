@@ -1,5 +1,6 @@
-date: 2002-03-03
+date: 2002-03-03 00:00
 slug: fun-with-photoshop
+tags: ""
 title: Fun With Photoshop
 ---
 <div align="center">

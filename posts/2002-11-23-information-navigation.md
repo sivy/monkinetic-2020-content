@@ -1,5 +1,6 @@
-date: 2002-11-23
+date: 2002-11-23 00:00
 slug: information-navigation
+tags: ""
 title: Information Navigation
 ---
 <div class="subhead"><a href="/information/index.html#about">About Steve</a></div>

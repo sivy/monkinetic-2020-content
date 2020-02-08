@@ -1,5 +1,6 @@
-date: 2002-02-08
+date: 2002-02-08 00:00
 slug: pythonconversant-what-was-i-thinking
+tags: plex
 title: 'Python+Conversant: What was I thinking?'
 ---
 I started seriously hacking on [python](http://www.python.org) last night. As I asked on #plex: "why do we always start with the most complex project we can think of when learning a new language?"

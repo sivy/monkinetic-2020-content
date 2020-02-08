@@ -1,5 +1,6 @@
-date: 2002-08-28
+date: 2002-08-28 00:00
 slug: where-have-i-been
+tags: ""
 title: Where have I been?
 ---
 Some of you may have noticed that

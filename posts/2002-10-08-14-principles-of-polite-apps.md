@@ -1,5 +1,6 @@
-date: 2002-10-08
+date: 2002-10-08 00:00
 slug: 14-principles-of-polite-apps
+tags: ""
 title: 14 Principles of Polite Apps
 ---
 Another great software development article...

@@ -1,5 +1,6 @@
-date: 2002-03-05
+date: 2002-03-05 00:00
 slug: the-p-in-p2p-photos
+tags: ""
 title: 'The P in P2P: Photos'
 ---
 [John Robb wants a P2P photo app](http://jrobb.userland.com/2002/02/28.html#a1273):

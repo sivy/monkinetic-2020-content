@@ -2,6 +2,8 @@ date: 2014-07-22 18:50
 excerpt: I didn't go through much of a rebellious stage (barring a couple of years
   of slightly-over-drinking,  hair-coloring and ear-piercings that didn't offend,
   literally, anyone).
+slug: a-genderprivilege-topic-disclaimer
+tags: ""
 title: A gender/privilege topic disclaimer
 ---
 For future reference:

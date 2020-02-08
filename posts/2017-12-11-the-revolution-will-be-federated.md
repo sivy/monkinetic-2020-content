@@ -1,4 +1,7 @@
-published: true
+date: 2017-12-11 00:00
+published: "true"
+slug: the-revolution-will-be-federated
+tags: ""
 title: The Revolution Will Be Federated
 ---
 Much has been made lately about Twitter having become a trashfire, with rampant trolling and abuse of women, monitories, and non white-dude-being folks. Being a white dude in tech, I was generally ignorant of the direction things were going, as my timeline was mostly other white dudes in tech congratulating themselves for their cleverness.

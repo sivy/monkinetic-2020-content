@@ -1,5 +1,6 @@
-date: 2003-06-20
+date: 2003-06-20 00:00
 slug: wwdc-rumors-are-flying
+tags: ""
 title: WWDC Rumors Are Flying...
 ---
 ...about what's in store for the Mac geeks attending WWDC. Rosai Group has some lovely tidbits [here](http://techs.rosai.com/pro/info.html).

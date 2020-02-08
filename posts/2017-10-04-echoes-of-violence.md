@@ -1,4 +1,6 @@
 date: 2017-10-04 16:23
+slug: echoes-of-violence
+tags: ""
 title: Echoes of Violence
 ---
 _Jodi recently watched the Ken Burns Vietnam War documentary (yes all 18 hours worth) and has been encouraging me to see it as well. We sat down and watched the first installment last night._

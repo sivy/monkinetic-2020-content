@@ -1,4 +1,7 @@
+date: 2016-11-10 00:00
 excerpt: Don't expect a power-seeking narcissist to embrace reason after a victory.
+slug: sullivan-winer-on-trump
+tags: ""
 title: Dark Visions of America
 ---
 ### Sullivan on Trump

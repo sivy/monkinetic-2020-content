@@ -1,5 +1,6 @@
-date: 2001-11-21
+date: 2001-11-21 00:00
 slug: hypercard-and-the-web
+tags: ""
 title: HyperCard and the Web
 ---
 [Dave writes](http://scriptingnews.userland.com/backissues/2001/11/20#hypercardAndTheWeb):  

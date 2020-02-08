@@ -1,5 +1,6 @@
-date: 2004-08-12
+date: 2004-08-12 00:00
 slug: bblog-die-spammers
+tags: ""
 title: 'bblog: Die Spammers!'
 ---
 |Bill Brown|: [ Die Spammers!](http://www.bbrown.info/blogs/bblog/archives/die-spammers.cfm)

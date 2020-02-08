@@ -1,6 +1,8 @@
 date: 2014-08-01 18:06
 excerpt: Last week I wrote about an issue I was having with Docker and running mysql
   (among other things).
+slug: docker-openstack-testing-followup
+tags: docker
 title: Docker, Openstack, testing followup
 ---
 Last week I wrote about an issue I was having with Docker and running mysql (among other things):

@@ -1,5 +1,6 @@
-date: 2001-11-29
+date: 2001-11-29 00:00
 slug: do-not-meddle-in-the-affairs-of-dragons
+tags: ""
 title: Do not meddle in the affairs of dragons
 ---
 [David spots](http://www.treedragon.com/ged/map/ti/newNov01.htm#27nov01-ketchup) a great bumper sticker:

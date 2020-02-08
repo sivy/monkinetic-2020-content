@@ -1,5 +1,6 @@
-date: 2008-04-11
+date: 2008-04-11 00:00
 slug: rem-accelerate-track-by-track
+tags: ""
 title: R.E.M. - Accelerate - Track by Track
 ---
 <style>

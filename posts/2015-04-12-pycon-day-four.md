@@ -1,4 +1,7 @@
+date: 2015-04-12 00:00
 feature-img: images/pycon-header.PNG
+slug: pycon-day-four
+tags: ""
 title: 'PyCon Day 4: Lightning in a Bottle'
 ---
 Lightning talks, keynote by a PSF head, and a keynote by Jacob Kaplan-Moss. Jacob's keynote was excellent, focusing on the myth that programmers are either great or awful, and how that myth harms the industry by excluding anyone who doesn't fall into the stereotypical "programmer" temperment, skill-base, or even gender/race profile (we are not all Zuckerbergs).

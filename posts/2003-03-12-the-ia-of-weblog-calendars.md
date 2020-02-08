@@ -1,5 +1,6 @@
-date: 2003-03-12
+date: 2003-03-12 00:00
 slug: the-ia-of-weblog-calendars
+tags: ""
 title: The IA of Weblog Calendars
 ---
 <div style="float:right"><a href="&lt;!--#siteurl--&gt;dev/foo"><img --="--" linkonly="true" src="&lt;!--#enclosure urlonly=" true"='true"'/>" border="0"&gt;</a></div>
