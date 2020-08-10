@@ -1,7 +1,7 @@
-date: 2020-05-10 23:30
+date: "2020-05-10T23:30:33Z"
 slug: read-foundryside
 tags: scifi,fantasy,reading2020
-title: 'Read: Foundryside'
+title: 'Read: Foundryside by Robert Jackson Bennett'
 ---
 Wow, thanks to Idan Gazit for [recommending](http://monkinetic.blog/2020/04/30/#txt-ce6ce6a) Robert Jackson Bennett's #scifi #fantasy novel _Foundryside_.
 
